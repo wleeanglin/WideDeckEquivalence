@@ -1,2824 +1,2549 @@
-AKQJT	6	Ace high straight flush
-KQJT9	6	King high straight flush
-QJT98	6	Queen high straight flush
-JT987	6	Jack high straight flush
-T9876	6	Ten high straight flush
-9876A	6	Nine high straight flush
-AAAAA	6	Five Aces
-KKKKK	6	Five Kings
-QQQQQ	6	Five Queens
-JJJJJ	6	Five Jacks
-TTTTT	6	Five Tens
-99999	6	Five Nines
-88888	6	Five Eights
-77777	6	Five Sevens
-66666	6	Five Sixs
-AAAAK	90	Four Aces
-AAAAQ	90	Four Aces
-AAAAJ	90	Four Aces
-AAAAT	90	Four Aces
-AAAA9	90	Four Aces
-AAAA8	90	Four Aces
-AAAA7	90	Four Aces
-AAAA6	90	Four Aces
-KKKKA	90	Four Kings
-KKKKQ	90	Four Kings
-KKKKJ	90	Four Kings
-KKKKT	90	Four Kings
-KKKK9	90	Four Kings
-KKKK8	90	Four Kings
-KKKK7	90	Four Kings
-KKKK6	90	Four Kings
-QQQQA	90	Four Queens
-QQQQK	90	Four Queens
-QQQQJ	90	Four Queens
-QQQQT	90	Four Queens
-QQQQ9	90	Four Queens
-QQQQ8	90	Four Queens
-QQQQ7	90	Four Queens
-QQQQ6	90	Four Queens
-JJJJA	90	Four Jacks
-JJJJK	90	Four Jacks
-JJJJQ	90	Four Jacks
-JJJJT	90	Four Jacks
-JJJJ9	90	Four Jacks
-JJJJ8	90	Four Jacks
-JJJJ7	90	Four Jacks
-JJJJ6	90	Four Jacks
-TTTTA	90	Four Tens
-TTTTK	90	Four Tens
-TTTTQ	90	Four Tens
-TTTTJ	90	Four Tens
-TTTT9	90	Four Tens
-TTTT8	90	Four Tens
-TTTT7	90	Four Tens
-TTTT6	90	Four Tens
-9999A	90	Four Nines
-9999K	90	Four Nines
-9999Q	90	Four Nines
-9999J	90	Four Nines
-9999T	90	Four Nines
-99998	90	Four Nines
-99997	90	Four Nines
-99996	90	Four Nines
-8888A	90	Four Eights
-8888K	90	Four Eights
-8888Q	90	Four Eights
-8888J	90	Four Eights
-8888T	90	Four Eights
-88889	90	Four Eights
-88887	90	Four Eights
-88886	90	Four Eights
-7777A	90	Four Sevens
-7777K	90	Four Sevens
-7777Q	90	Four Sevens
-7777J	90	Four Sevens
-7777T	90	Four Sevens
-77779	90	Four Sevens
-77778	90	Four Sevens
-77776	90	Four Sevens
-6666A	90	Four Sixs
-6666K	90	Four Sixs
-6666Q	90	Four Sixs
-6666J	90	Four Sixs
-6666T	90	Four Sixs
-66669	90	Four Sixs
-66668	90	Four Sixs
-66667	90	Four Sixs
-AAAKK	300	Aces full of Kings
-AAAQQ	300	Aces full of Queens
-AAAJJ	300	Aces full of Jacks
-AAATT	300	Aces full of Tens
-AAA99	300	Aces full of Nines
-AAA88	300	Aces full of Eights
-AAA77	300	Aces full of Sevens
-AAA66	300	Aces full of Sixs
-KKKAA	300	Kings full of Aces
-KKKQQ	300	Kings full of Queens
-KKKJJ	300	Kings full of Jacks
-KKKTT	300	Kings full of Tens
-KKK99	300	Kings full of Nines
-KKK88	300	Kings full of Eights
-KKK77	300	Kings full of Sevens
-KKK66	300	Kings full of Sixs
-QQQAA	300	Queens full of Aces
-QQQKK	300	Queens full of Kings
-QQQJJ	300	Queens full of Jacks
-QQQTT	300	Queens full of Tens
-QQQ99	300	Queens full of Nines
-QQQ88	300	Queens full of Eights
-QQQ77	300	Queens full of Sevens
-QQQ66	300	Queens full of Sixs
-JJJAA	300	Jacks full of Aces
-JJJKK	300	Jacks full of Kings
-JJJQQ	300	Jacks full of Queens
-JJJTT	300	Jacks full of Tens
-JJJ99	300	Jacks full of Nines
-JJJ88	300	Jacks full of Eights
-JJJ77	300	Jacks full of Sevens
-JJJ66	300	Jacks full of Sixs
-TTTAA	300	Tens full of Aces
-TTTKK	300	Tens full of Kings
-TTTQQ	300	Tens full of Queens
-TTTJJ	300	Tens full of Jacks
-TTT99	300	Tens full of Nines
-TTT88	300	Tens full of Eights
-TTT77	300	Tens full of Sevens
-TTT66	300	Tens full of Sixs
-999AA	300	Nines full of Aces
-999KK	300	Nines full of Kings
-999QQ	300	Nines full of Queens
-999JJ	300	Nines full of Jacks
-999TT	300	Nines full of Tens
-99988	300	Nines full of Eights
-99977	300	Nines full of Sevens
-99966	300	Nines full of Sixs
-888AA	300	Eights full of Aces
-888KK	300	Eights full of Kings
-888QQ	300	Eights full of Queens
-888JJ	300	Eights full of Jacks
-888TT	300	Eights full of Tens
-88899	300	Eights full of Nines
-88877	300	Eights full of Sevens
-88866	300	Eights full of Sixs
-777AA	300	Sevens full of Aces
-777KK	300	Sevens full of Kings
-777QQ	300	Sevens full of Queens
-777JJ	300	Sevens full of Jacks
-777TT	300	Sevens full of Tens
-77799	300	Sevens full of Nines
-77788	300	Sevens full of Eights
-77766	300	Sevens full of Sixs
-666AA	300	Sixs full of Aces
-666KK	300	Sixs full of Kings
-666QQ	300	Sixs full of Queens
-666JJ	300	Sixs full of Jacks
-666TT	300	Sixs full of Tens
-66699	300	Sixs full of Nines
-66688	300	Sixs full of Eights
-66677	300	Sixs full of Sevens
-AKQJA	270	Ace high 4 flush
-AKQJK	270	Ace high 4 flush
-AKQJQ	270	Ace high 4 flush
-AKQJJ	270	Ace high 4 flush
-AKQJT	270	Ace high 4 flush
-AKQJ9	270	Ace high 4 flush
-AKQJ8	270	Ace high 4 flush
-AKQJ7	270	Ace high 4 flush
-AKQJ6	270	Ace high 4 flush
-AKQTA	270	Ace high 4 flush
-AKQTK	270	Ace high 4 flush
-AKQTQ	270	Ace high 4 flush
-AKQTJ	270	Ace high 4 flush
-AKQTT	270	Ace high 4 flush
-AKQT9	270	Ace high 4 flush
-AKQT8	270	Ace high 4 flush
-AKQT7	270	Ace high 4 flush
-AKQT6	270	Ace high 4 flush
-AKQ9A	270	Ace high 4 flush
-AKQ9K	270	Ace high 4 flush
-AKQ9Q	270	Ace high 4 flush
-AKQ9J	270	Ace high 4 flush
-AKQ9T	270	Ace high 4 flush
-AKQ99	270	Ace high 4 flush
-AKQ98	270	Ace high 4 flush
-AKQ97	270	Ace high 4 flush
-AKQ96	270	Ace high 4 flush
-AKQ8A	270	Ace high 4 flush
-AKQ8K	270	Ace high 4 flush
-AKQ8Q	270	Ace high 4 flush
-AKQ8J	270	Ace high 4 flush
-AKQ8T	270	Ace high 4 flush
-AKQ89	270	Ace high 4 flush
-AKQ88	270	Ace high 4 flush
-AKQ87	270	Ace high 4 flush
-AKQ86	270	Ace high 4 flush
-AKQ7A	270	Ace high 4 flush
-AKQ7K	270	Ace high 4 flush
-AKQ7Q	270	Ace high 4 flush
-AKQ7J	270	Ace high 4 flush
-AKQ7T	270	Ace high 4 flush
-AKQ79	270	Ace high 4 flush
-AKQ78	270	Ace high 4 flush
-AKQ77	270	Ace high 4 flush
-AKQ76	270	Ace high 4 flush
-AKQ6A	270	Ace high 4 flush
-AKQ6K	270	Ace high 4 flush
-AKQ6Q	270	Ace high 4 flush
-AKQ6J	270	Ace high 4 flush
-AKQ6T	270	Ace high 4 flush
-AKQ69	270	Ace high 4 flush
-AKQ68	270	Ace high 4 flush
-AKQ67	270	Ace high 4 flush
-AKQ66	270	Ace high 4 flush
-AKJTA	270	Ace high 4 flush
-AKJTK	270	Ace high 4 flush
-AKJTQ	270	Ace high 4 flush
-AKJTJ	270	Ace high 4 flush
-AKJTT	270	Ace high 4 flush
-AKJT9	270	Ace high 4 flush
-AKJT8	270	Ace high 4 flush
-AKJT7	270	Ace high 4 flush
-AKJT6	270	Ace high 4 flush
-AKJ9A	270	Ace high 4 flush
-AKJ9K	270	Ace high 4 flush
-AKJ9Q	270	Ace high 4 flush
-AKJ9J	270	Ace high 4 flush
-AKJ9T	270	Ace high 4 flush
-AKJ99	270	Ace high 4 flush
-AKJ98	270	Ace high 4 flush
-AKJ97	270	Ace high 4 flush
-AKJ96	270	Ace high 4 flush
-AKJ8A	270	Ace high 4 flush
-AKJ8K	270	Ace high 4 flush
-AKJ8Q	270	Ace high 4 flush
-AKJ8J	270	Ace high 4 flush
-AKJ8T	270	Ace high 4 flush
-AKJ89	270	Ace high 4 flush
-AKJ88	270	Ace high 4 flush
-AKJ87	270	Ace high 4 flush
-AKJ86	270	Ace high 4 flush
-AKJ7A	270	Ace high 4 flush
-AKJ7K	270	Ace high 4 flush
-AKJ7Q	270	Ace high 4 flush
-AKJ7J	270	Ace high 4 flush
-AKJ7T	270	Ace high 4 flush
-AKJ79	270	Ace high 4 flush
-AKJ78	270	Ace high 4 flush
-AKJ77	270	Ace high 4 flush
-AKJ76	270	Ace high 4 flush
-AKJ6A	270	Ace high 4 flush
-AKJ6K	270	Ace high 4 flush
-AKJ6Q	270	Ace high 4 flush
-AKJ6J	270	Ace high 4 flush
-AKJ6T	270	Ace high 4 flush
-AKJ69	270	Ace high 4 flush
-AKJ68	270	Ace high 4 flush
-AKJ67	270	Ace high 4 flush
-AKJ66	270	Ace high 4 flush
-AKT9A	270	Ace high 4 flush
-AKT9K	270	Ace high 4 flush
-AKT9Q	270	Ace high 4 flush
-AKT9J	270	Ace high 4 flush
-AKT9T	270	Ace high 4 flush
-AKT99	270	Ace high 4 flush
-AKT98	270	Ace high 4 flush
-AKT97	270	Ace high 4 flush
-AKT96	270	Ace high 4 flush
-AKT8A	270	Ace high 4 flush
-AKT8K	270	Ace high 4 flush
-AKT8Q	270	Ace high 4 flush
-AKT8J	270	Ace high 4 flush
-AKT8T	270	Ace high 4 flush
-AKT89	270	Ace high 4 flush
-AKT88	270	Ace high 4 flush
-AKT87	270	Ace high 4 flush
-AKT86	270	Ace high 4 flush
-AKT7A	270	Ace high 4 flush
-AKT7K	270	Ace high 4 flush
-AKT7Q	270	Ace high 4 flush
-AKT7J	270	Ace high 4 flush
-AKT7T	270	Ace high 4 flush
-AKT79	270	Ace high 4 flush
-AKT78	270	Ace high 4 flush
-AKT77	270	Ace high 4 flush
-AKT76	270	Ace high 4 flush
-AKT6A	270	Ace high 4 flush
-AKT6K	270	Ace high 4 flush
-AKT6Q	270	Ace high 4 flush
-AKT6J	270	Ace high 4 flush
-AKT6T	270	Ace high 4 flush
-AKT69	270	Ace high 4 flush
-AKT68	270	Ace high 4 flush
-AKT67	270	Ace high 4 flush
-AKT66	270	Ace high 4 flush
-AK98A	270	Ace high 4 flush
-AK98K	270	Ace high 4 flush
-AK98Q	270	Ace high 4 flush
-AK98J	270	Ace high 4 flush
-AK98T	270	Ace high 4 flush
-AK989	270	Ace high 4 flush
-AK988	270	Ace high 4 flush
-AK987	270	Ace high 4 flush
-AK986	270	Ace high 4 flush
-AK97A	270	Ace high 4 flush
-AK97K	270	Ace high 4 flush
-AK97Q	270	Ace high 4 flush
-AK97J	270	Ace high 4 flush
-AK97T	270	Ace high 4 flush
-AK979	270	Ace high 4 flush
-AK978	270	Ace high 4 flush
-AK977	270	Ace high 4 flush
-AK976	270	Ace high 4 flush
-AK96A	270	Ace high 4 flush
-AK96K	270	Ace high 4 flush
-AK96Q	270	Ace high 4 flush
-AK96J	270	Ace high 4 flush
-AK96T	270	Ace high 4 flush
-AK969	270	Ace high 4 flush
-AK968	270	Ace high 4 flush
-AK967	270	Ace high 4 flush
-AK966	270	Ace high 4 flush
-AK87A	270	Ace high 4 flush
-AK87K	270	Ace high 4 flush
-AK87Q	270	Ace high 4 flush
-AK87J	270	Ace high 4 flush
-AK87T	270	Ace high 4 flush
-AK879	270	Ace high 4 flush
-AK878	270	Ace high 4 flush
-AK877	270	Ace high 4 flush
-AK876	270	Ace high 4 flush
-AK86A	270	Ace high 4 flush
-AK86K	270	Ace high 4 flush
-AK86Q	270	Ace high 4 flush
-AK86J	270	Ace high 4 flush
-AK86T	270	Ace high 4 flush
-AK869	270	Ace high 4 flush
-AK868	270	Ace high 4 flush
-AK867	270	Ace high 4 flush
-AK866	270	Ace high 4 flush
-AK76A	270	Ace high 4 flush
-AK76K	270	Ace high 4 flush
-AK76Q	270	Ace high 4 flush
-AK76J	270	Ace high 4 flush
-AK76T	270	Ace high 4 flush
-AK769	270	Ace high 4 flush
-AK768	270	Ace high 4 flush
-AK767	270	Ace high 4 flush
-AK766	270	Ace high 4 flush
-AQJTA	270	Ace high 4 flush
-AQJTK	270	Ace high 4 flush
-AQJTQ	270	Ace high 4 flush
-AQJTJ	270	Ace high 4 flush
-AQJTT	270	Ace high 4 flush
-AQJT9	270	Ace high 4 flush
-AQJT8	270	Ace high 4 flush
-AQJT7	270	Ace high 4 flush
-AQJT6	270	Ace high 4 flush
-AQJ9A	270	Ace high 4 flush
-AQJ9K	270	Ace high 4 flush
-AQJ9Q	270	Ace high 4 flush
-AQJ9J	270	Ace high 4 flush
-AQJ9T	270	Ace high 4 flush
-AQJ99	270	Ace high 4 flush
-AQJ98	270	Ace high 4 flush
-AQJ97	270	Ace high 4 flush
-AQJ96	270	Ace high 4 flush
-AQJ8A	270	Ace high 4 flush
-AQJ8K	270	Ace high 4 flush
-AQJ8Q	270	Ace high 4 flush
-AQJ8J	270	Ace high 4 flush
-AQJ8T	270	Ace high 4 flush
-AQJ89	270	Ace high 4 flush
-AQJ88	270	Ace high 4 flush
-AQJ87	270	Ace high 4 flush
-AQJ86	270	Ace high 4 flush
-AQJ7A	270	Ace high 4 flush
-AQJ7K	270	Ace high 4 flush
-AQJ7Q	270	Ace high 4 flush
-AQJ7J	270	Ace high 4 flush
-AQJ7T	270	Ace high 4 flush
-AQJ79	270	Ace high 4 flush
-AQJ78	270	Ace high 4 flush
-AQJ77	270	Ace high 4 flush
-AQJ76	270	Ace high 4 flush
-AQJ6A	270	Ace high 4 flush
-AQJ6K	270	Ace high 4 flush
-AQJ6Q	270	Ace high 4 flush
-AQJ6J	270	Ace high 4 flush
-AQJ6T	270	Ace high 4 flush
-AQJ69	270	Ace high 4 flush
-AQJ68	270	Ace high 4 flush
-AQJ67	270	Ace high 4 flush
-AQJ66	270	Ace high 4 flush
-AQT9A	270	Ace high 4 flush
-AQT9K	270	Ace high 4 flush
-AQT9Q	270	Ace high 4 flush
-AQT9J	270	Ace high 4 flush
-AQT9T	270	Ace high 4 flush
-AQT99	270	Ace high 4 flush
-AQT98	270	Ace high 4 flush
-AQT97	270	Ace high 4 flush
-AQT96	270	Ace high 4 flush
-AQT8A	270	Ace high 4 flush
-AQT8K	270	Ace high 4 flush
-AQT8Q	270	Ace high 4 flush
-AQT8J	270	Ace high 4 flush
-AQT8T	270	Ace high 4 flush
-AQT89	270	Ace high 4 flush
-AQT88	270	Ace high 4 flush
-AQT87	270	Ace high 4 flush
-AQT86	270	Ace high 4 flush
-AQT7A	270	Ace high 4 flush
-AQT7K	270	Ace high 4 flush
-AQT7Q	270	Ace high 4 flush
-AQT7J	270	Ace high 4 flush
-AQT7T	270	Ace high 4 flush
-AQT79	270	Ace high 4 flush
-AQT78	270	Ace high 4 flush
-AQT77	270	Ace high 4 flush
-AQT76	270	Ace high 4 flush
-AQT6A	270	Ace high 4 flush
-AQT6K	270	Ace high 4 flush
-AQT6Q	270	Ace high 4 flush
-AQT6J	270	Ace high 4 flush
-AQT6T	270	Ace high 4 flush
-AQT69	270	Ace high 4 flush
-AQT68	270	Ace high 4 flush
-AQT67	270	Ace high 4 flush
-AQT66	270	Ace high 4 flush
-AQ98A	270	Ace high 4 flush
-AQ98K	270	Ace high 4 flush
-AQ98Q	270	Ace high 4 flush
-AQ98J	270	Ace high 4 flush
-AQ98T	270	Ace high 4 flush
-AQ989	270	Ace high 4 flush
-AQ988	270	Ace high 4 flush
-AQ987	270	Ace high 4 flush
-AQ986	270	Ace high 4 flush
-AQ97A	270	Ace high 4 flush
-AQ97K	270	Ace high 4 flush
-AQ97Q	270	Ace high 4 flush
-AQ97J	270	Ace high 4 flush
-AQ97T	270	Ace high 4 flush
-AQ979	270	Ace high 4 flush
-AQ978	270	Ace high 4 flush
-AQ977	270	Ace high 4 flush
-AQ976	270	Ace high 4 flush
-AQ96A	270	Ace high 4 flush
-AQ96K	270	Ace high 4 flush
-AQ96Q	270	Ace high 4 flush
-AQ96J	270	Ace high 4 flush
-AQ96T	270	Ace high 4 flush
-AQ969	270	Ace high 4 flush
-AQ968	270	Ace high 4 flush
-AQ967	270	Ace high 4 flush
-AQ966	270	Ace high 4 flush
-AQ87A	270	Ace high 4 flush
-AQ87K	270	Ace high 4 flush
-AQ87Q	270	Ace high 4 flush
-AQ87J	270	Ace high 4 flush
-AQ87T	270	Ace high 4 flush
-AQ879	270	Ace high 4 flush
-AQ878	270	Ace high 4 flush
-AQ877	270	Ace high 4 flush
-AQ876	270	Ace high 4 flush
-AQ86A	270	Ace high 4 flush
-AQ86K	270	Ace high 4 flush
-AQ86Q	270	Ace high 4 flush
-AQ86J	270	Ace high 4 flush
-AQ86T	270	Ace high 4 flush
-AQ869	270	Ace high 4 flush
-AQ868	270	Ace high 4 flush
-AQ867	270	Ace high 4 flush
-AQ866	270	Ace high 4 flush
-AQ76A	270	Ace high 4 flush
-AQ76K	270	Ace high 4 flush
-AQ76Q	270	Ace high 4 flush
-AQ76J	270	Ace high 4 flush
-AQ76T	270	Ace high 4 flush
-AQ769	270	Ace high 4 flush
-AQ768	270	Ace high 4 flush
-AQ767	270	Ace high 4 flush
-AQ766	270	Ace high 4 flush
-AJT9A	270	Ace high 4 flush
-AJT9K	270	Ace high 4 flush
-AJT9Q	270	Ace high 4 flush
-AJT9J	270	Ace high 4 flush
-AJT9T	270	Ace high 4 flush
-AJT99	270	Ace high 4 flush
-AJT98	270	Ace high 4 flush
-AJT97	270	Ace high 4 flush
-AJT96	270	Ace high 4 flush
-AJT8A	270	Ace high 4 flush
-AJT8K	270	Ace high 4 flush
-AJT8Q	270	Ace high 4 flush
-AJT8J	270	Ace high 4 flush
-AJT8T	270	Ace high 4 flush
-AJT89	270	Ace high 4 flush
-AJT88	270	Ace high 4 flush
-AJT87	270	Ace high 4 flush
-AJT86	270	Ace high 4 flush
-AJT7A	270	Ace high 4 flush
-AJT7K	270	Ace high 4 flush
-AJT7Q	270	Ace high 4 flush
-AJT7J	270	Ace high 4 flush
-AJT7T	270	Ace high 4 flush
-AJT79	270	Ace high 4 flush
-AJT78	270	Ace high 4 flush
-AJT77	270	Ace high 4 flush
-AJT76	270	Ace high 4 flush
-AJT6A	270	Ace high 4 flush
-AJT6K	270	Ace high 4 flush
-AJT6Q	270	Ace high 4 flush
-AJT6J	270	Ace high 4 flush
-AJT6T	270	Ace high 4 flush
-AJT69	270	Ace high 4 flush
-AJT68	270	Ace high 4 flush
-AJT67	270	Ace high 4 flush
-AJT66	270	Ace high 4 flush
-AJ98A	270	Ace high 4 flush
-AJ98K	270	Ace high 4 flush
-AJ98Q	270	Ace high 4 flush
-AJ98J	270	Ace high 4 flush
-AJ98T	270	Ace high 4 flush
-AJ989	270	Ace high 4 flush
-AJ988	270	Ace high 4 flush
-AJ987	270	Ace high 4 flush
-AJ986	270	Ace high 4 flush
-AJ97A	270	Ace high 4 flush
-AJ97K	270	Ace high 4 flush
-AJ97Q	270	Ace high 4 flush
-AJ97J	270	Ace high 4 flush
-AJ97T	270	Ace high 4 flush
-AJ979	270	Ace high 4 flush
-AJ978	270	Ace high 4 flush
-AJ977	270	Ace high 4 flush
-AJ976	270	Ace high 4 flush
-AJ96A	270	Ace high 4 flush
-AJ96K	270	Ace high 4 flush
-AJ96Q	270	Ace high 4 flush
-AJ96J	270	Ace high 4 flush
-AJ96T	270	Ace high 4 flush
-AJ969	270	Ace high 4 flush
-AJ968	270	Ace high 4 flush
-AJ967	270	Ace high 4 flush
-AJ966	270	Ace high 4 flush
-AJ87A	270	Ace high 4 flush
-AJ87K	270	Ace high 4 flush
-AJ87Q	270	Ace high 4 flush
-AJ87J	270	Ace high 4 flush
-AJ87T	270	Ace high 4 flush
-AJ879	270	Ace high 4 flush
-AJ878	270	Ace high 4 flush
-AJ877	270	Ace high 4 flush
-AJ876	270	Ace high 4 flush
-AJ86A	270	Ace high 4 flush
-AJ86K	270	Ace high 4 flush
-AJ86Q	270	Ace high 4 flush
-AJ86J	270	Ace high 4 flush
-AJ86T	270	Ace high 4 flush
-AJ869	270	Ace high 4 flush
-AJ868	270	Ace high 4 flush
-AJ867	270	Ace high 4 flush
-AJ866	270	Ace high 4 flush
-AJ76A	270	Ace high 4 flush
-AJ76K	270	Ace high 4 flush
-AJ76Q	270	Ace high 4 flush
-AJ76J	270	Ace high 4 flush
-AJ76T	270	Ace high 4 flush
-AJ769	270	Ace high 4 flush
-AJ768	270	Ace high 4 flush
-AJ767	270	Ace high 4 flush
-AJ766	270	Ace high 4 flush
-AT98A	270	Ace high 4 flush
-AT98K	270	Ace high 4 flush
-AT98Q	270	Ace high 4 flush
-AT98J	270	Ace high 4 flush
-AT98T	270	Ace high 4 flush
-AT989	270	Ace high 4 flush
-AT988	270	Ace high 4 flush
-AT987	270	Ace high 4 flush
-AT986	270	Ace high 4 flush
-AT97A	270	Ace high 4 flush
-AT97K	270	Ace high 4 flush
-AT97Q	270	Ace high 4 flush
-AT97J	270	Ace high 4 flush
-AT97T	270	Ace high 4 flush
-AT979	270	Ace high 4 flush
-AT978	270	Ace high 4 flush
-AT977	270	Ace high 4 flush
-AT976	270	Ace high 4 flush
-AT96A	270	Ace high 4 flush
-AT96K	270	Ace high 4 flush
-AT96Q	270	Ace high 4 flush
-AT96J	270	Ace high 4 flush
-AT96T	270	Ace high 4 flush
-AT969	270	Ace high 4 flush
-AT968	270	Ace high 4 flush
-AT967	270	Ace high 4 flush
-AT966	270	Ace high 4 flush
-AT87A	270	Ace high 4 flush
-AT87K	270	Ace high 4 flush
-AT87Q	270	Ace high 4 flush
-AT87J	270	Ace high 4 flush
-AT87T	270	Ace high 4 flush
-AT879	270	Ace high 4 flush
-AT878	270	Ace high 4 flush
-AT877	270	Ace high 4 flush
-AT876	270	Ace high 4 flush
-AT86A	270	Ace high 4 flush
-AT86K	270	Ace high 4 flush
-AT86Q	270	Ace high 4 flush
-AT86J	270	Ace high 4 flush
-AT86T	270	Ace high 4 flush
-AT869	270	Ace high 4 flush
-AT868	270	Ace high 4 flush
-AT867	270	Ace high 4 flush
-AT866	270	Ace high 4 flush
-AT76A	270	Ace high 4 flush
-AT76K	270	Ace high 4 flush
-AT76Q	270	Ace high 4 flush
-AT76J	270	Ace high 4 flush
-AT76T	270	Ace high 4 flush
-AT769	270	Ace high 4 flush
-AT768	270	Ace high 4 flush
-AT767	270	Ace high 4 flush
-AT766	270	Ace high 4 flush
-A987A	270	Ace high 4 flush
-A987K	270	Ace high 4 flush
-A987Q	270	Ace high 4 flush
-A987J	270	Ace high 4 flush
-A987T	270	Ace high 4 flush
-A9879	270	Ace high 4 flush
-A9878	270	Ace high 4 flush
-A9877	270	Ace high 4 flush
-A9876	270	Ace high 4 flush
-A986A	270	Ace high 4 flush
-A986K	270	Ace high 4 flush
-A986Q	270	Ace high 4 flush
-A986J	270	Ace high 4 flush
-A986T	270	Ace high 4 flush
-A9869	270	Ace high 4 flush
-A9868	270	Ace high 4 flush
-A9867	270	Ace high 4 flush
-A9866	270	Ace high 4 flush
-A976A	270	Ace high 4 flush
-A976K	270	Ace high 4 flush
-A976Q	270	Ace high 4 flush
-A976J	270	Ace high 4 flush
-A976T	270	Ace high 4 flush
-A9769	270	Ace high 4 flush
-A9768	270	Ace high 4 flush
-A9767	270	Ace high 4 flush
-A9766	270	Ace high 4 flush
-A876A	270	Ace high 4 flush
-A876K	270	Ace high 4 flush
-A876Q	270	Ace high 4 flush
-A876J	270	Ace high 4 flush
-A876T	270	Ace high 4 flush
-A8769	270	Ace high 4 flush
-A8768	270	Ace high 4 flush
-A8767	270	Ace high 4 flush
-A8766	270	Ace high 4 flush
-KQJTA	270	King high 4 flush
-KQJTK	270	King high 4 flush
-KQJTQ	270	King high 4 flush
-KQJTJ	270	King high 4 flush
-KQJTT	270	King high 4 flush
-KQJT9	270	King high 4 flush
-KQJT8	270	King high 4 flush
-KQJT7	270	King high 4 flush
-KQJT6	270	King high 4 flush
-KQJ9A	270	King high 4 flush
-KQJ9K	270	King high 4 flush
-KQJ9Q	270	King high 4 flush
-KQJ9J	270	King high 4 flush
-KQJ9T	270	King high 4 flush
-KQJ99	270	King high 4 flush
-KQJ98	270	King high 4 flush
-KQJ97	270	King high 4 flush
-KQJ96	270	King high 4 flush
-KQJ8A	270	King high 4 flush
-KQJ8K	270	King high 4 flush
-KQJ8Q	270	King high 4 flush
-KQJ8J	270	King high 4 flush
-KQJ8T	270	King high 4 flush
-KQJ89	270	King high 4 flush
-KQJ88	270	King high 4 flush
-KQJ87	270	King high 4 flush
-KQJ86	270	King high 4 flush
-KQJ7A	270	King high 4 flush
-KQJ7K	270	King high 4 flush
-KQJ7Q	270	King high 4 flush
-KQJ7J	270	King high 4 flush
-KQJ7T	270	King high 4 flush
-KQJ79	270	King high 4 flush
-KQJ78	270	King high 4 flush
-KQJ77	270	King high 4 flush
-KQJ76	270	King high 4 flush
-KQJ6A	270	King high 4 flush
-KQJ6K	270	King high 4 flush
-KQJ6Q	270	King high 4 flush
-KQJ6J	270	King high 4 flush
-KQJ6T	270	King high 4 flush
-KQJ69	270	King high 4 flush
-KQJ68	270	King high 4 flush
-KQJ67	270	King high 4 flush
-KQJ66	270	King high 4 flush
-KQT9A	270	King high 4 flush
-KQT9K	270	King high 4 flush
-KQT9Q	270	King high 4 flush
-KQT9J	270	King high 4 flush
-KQT9T	270	King high 4 flush
-KQT99	270	King high 4 flush
-KQT98	270	King high 4 flush
-KQT97	270	King high 4 flush
-KQT96	270	King high 4 flush
-KQT8A	270	King high 4 flush
-KQT8K	270	King high 4 flush
-KQT8Q	270	King high 4 flush
-KQT8J	270	King high 4 flush
-KQT8T	270	King high 4 flush
-KQT89	270	King high 4 flush
-KQT88	270	King high 4 flush
-KQT87	270	King high 4 flush
-KQT86	270	King high 4 flush
-KQT7A	270	King high 4 flush
-KQT7K	270	King high 4 flush
-KQT7Q	270	King high 4 flush
-KQT7J	270	King high 4 flush
-KQT7T	270	King high 4 flush
-KQT79	270	King high 4 flush
-KQT78	270	King high 4 flush
-KQT77	270	King high 4 flush
-KQT76	270	King high 4 flush
-KQT6A	270	King high 4 flush
-KQT6K	270	King high 4 flush
-KQT6Q	270	King high 4 flush
-KQT6J	270	King high 4 flush
-KQT6T	270	King high 4 flush
-KQT69	270	King high 4 flush
-KQT68	270	King high 4 flush
-KQT67	270	King high 4 flush
-KQT66	270	King high 4 flush
-KQ98A	270	King high 4 flush
-KQ98K	270	King high 4 flush
-KQ98Q	270	King high 4 flush
-KQ98J	270	King high 4 flush
-KQ98T	270	King high 4 flush
-KQ989	270	King high 4 flush
-KQ988	270	King high 4 flush
-KQ987	270	King high 4 flush
-KQ986	270	King high 4 flush
-KQ97A	270	King high 4 flush
-KQ97K	270	King high 4 flush
-KQ97Q	270	King high 4 flush
-KQ97J	270	King high 4 flush
-KQ97T	270	King high 4 flush
-KQ979	270	King high 4 flush
-KQ978	270	King high 4 flush
-KQ977	270	King high 4 flush
-KQ976	270	King high 4 flush
-KQ96A	270	King high 4 flush
-KQ96K	270	King high 4 flush
-KQ96Q	270	King high 4 flush
-KQ96J	270	King high 4 flush
-KQ96T	270	King high 4 flush
-KQ969	270	King high 4 flush
-KQ968	270	King high 4 flush
-KQ967	270	King high 4 flush
-KQ966	270	King high 4 flush
-KQ87A	270	King high 4 flush
-KQ87K	270	King high 4 flush
-KQ87Q	270	King high 4 flush
-KQ87J	270	King high 4 flush
-KQ87T	270	King high 4 flush
-KQ879	270	King high 4 flush
-KQ878	270	King high 4 flush
-KQ877	270	King high 4 flush
-KQ876	270	King high 4 flush
-KQ86A	270	King high 4 flush
-KQ86K	270	King high 4 flush
-KQ86Q	270	King high 4 flush
-KQ86J	270	King high 4 flush
-KQ86T	270	King high 4 flush
-KQ869	270	King high 4 flush
-KQ868	270	King high 4 flush
-KQ867	270	King high 4 flush
-KQ866	270	King high 4 flush
-KQ76A	270	King high 4 flush
-KQ76K	270	King high 4 flush
-KQ76Q	270	King high 4 flush
-KQ76J	270	King high 4 flush
-KQ76T	270	King high 4 flush
-KQ769	270	King high 4 flush
-KQ768	270	King high 4 flush
-KQ767	270	King high 4 flush
-KQ766	270	King high 4 flush
-KJT9A	270	King high 4 flush
-KJT9K	270	King high 4 flush
-KJT9Q	270	King high 4 flush
-KJT9J	270	King high 4 flush
-KJT9T	270	King high 4 flush
-KJT99	270	King high 4 flush
-KJT98	270	King high 4 flush
-KJT97	270	King high 4 flush
-KJT96	270	King high 4 flush
-KJT8A	270	King high 4 flush
-KJT8K	270	King high 4 flush
-KJT8Q	270	King high 4 flush
-KJT8J	270	King high 4 flush
-KJT8T	270	King high 4 flush
-KJT89	270	King high 4 flush
-KJT88	270	King high 4 flush
-KJT87	270	King high 4 flush
-KJT86	270	King high 4 flush
-KJT7A	270	King high 4 flush
-KJT7K	270	King high 4 flush
-KJT7Q	270	King high 4 flush
-KJT7J	270	King high 4 flush
-KJT7T	270	King high 4 flush
-KJT79	270	King high 4 flush
-KJT78	270	King high 4 flush
-KJT77	270	King high 4 flush
-KJT76	270	King high 4 flush
-KJT6A	270	King high 4 flush
-KJT6K	270	King high 4 flush
-KJT6Q	270	King high 4 flush
-KJT6J	270	King high 4 flush
-KJT6T	270	King high 4 flush
-KJT69	270	King high 4 flush
-KJT68	270	King high 4 flush
-KJT67	270	King high 4 flush
-KJT66	270	King high 4 flush
-KJ98A	270	King high 4 flush
-KJ98K	270	King high 4 flush
-KJ98Q	270	King high 4 flush
-KJ98J	270	King high 4 flush
-KJ98T	270	King high 4 flush
-KJ989	270	King high 4 flush
-KJ988	270	King high 4 flush
-KJ987	270	King high 4 flush
-KJ986	270	King high 4 flush
-KJ97A	270	King high 4 flush
-KJ97K	270	King high 4 flush
-KJ97Q	270	King high 4 flush
-KJ97J	270	King high 4 flush
-KJ97T	270	King high 4 flush
-KJ979	270	King high 4 flush
-KJ978	270	King high 4 flush
-KJ977	270	King high 4 flush
-KJ976	270	King high 4 flush
-KJ96A	270	King high 4 flush
-KJ96K	270	King high 4 flush
-KJ96Q	270	King high 4 flush
-KJ96J	270	King high 4 flush
-KJ96T	270	King high 4 flush
-KJ969	270	King high 4 flush
-KJ968	270	King high 4 flush
-KJ967	270	King high 4 flush
-KJ966	270	King high 4 flush
-KJ87A	270	King high 4 flush
-KJ87K	270	King high 4 flush
-KJ87Q	270	King high 4 flush
-KJ87J	270	King high 4 flush
-KJ87T	270	King high 4 flush
-KJ879	270	King high 4 flush
-KJ878	270	King high 4 flush
-KJ877	270	King high 4 flush
-KJ876	270	King high 4 flush
-KJ86A	270	King high 4 flush
-KJ86K	270	King high 4 flush
-KJ86Q	270	King high 4 flush
-KJ86J	270	King high 4 flush
-KJ86T	270	King high 4 flush
-KJ869	270	King high 4 flush
-KJ868	270	King high 4 flush
-KJ867	270	King high 4 flush
-KJ866	270	King high 4 flush
-KJ76A	270	King high 4 flush
-KJ76K	270	King high 4 flush
-KJ76Q	270	King high 4 flush
-KJ76J	270	King high 4 flush
-KJ76T	270	King high 4 flush
-KJ769	270	King high 4 flush
-KJ768	270	King high 4 flush
-KJ767	270	King high 4 flush
-KJ766	270	King high 4 flush
-KT98A	270	King high 4 flush
-KT98K	270	King high 4 flush
-KT98Q	270	King high 4 flush
-KT98J	270	King high 4 flush
-KT98T	270	King high 4 flush
-KT989	270	King high 4 flush
-KT988	270	King high 4 flush
-KT987	270	King high 4 flush
-KT986	270	King high 4 flush
-KT97A	270	King high 4 flush
-KT97K	270	King high 4 flush
-KT97Q	270	King high 4 flush
-KT97J	270	King high 4 flush
-KT97T	270	King high 4 flush
-KT979	270	King high 4 flush
-KT978	270	King high 4 flush
-KT977	270	King high 4 flush
-KT976	270	King high 4 flush
-KT96A	270	King high 4 flush
-KT96K	270	King high 4 flush
-KT96Q	270	King high 4 flush
-KT96J	270	King high 4 flush
-KT96T	270	King high 4 flush
-KT969	270	King high 4 flush
-KT968	270	King high 4 flush
-KT967	270	King high 4 flush
-KT966	270	King high 4 flush
-KT87A	270	King high 4 flush
-KT87K	270	King high 4 flush
-KT87Q	270	King high 4 flush
-KT87J	270	King high 4 flush
-KT87T	270	King high 4 flush
-KT879	270	King high 4 flush
-KT878	270	King high 4 flush
-KT877	270	King high 4 flush
-KT876	270	King high 4 flush
-KT86A	270	King high 4 flush
-KT86K	270	King high 4 flush
-KT86Q	270	King high 4 flush
-KT86J	270	King high 4 flush
-KT86T	270	King high 4 flush
-KT869	270	King high 4 flush
-KT868	270	King high 4 flush
-KT867	270	King high 4 flush
-KT866	270	King high 4 flush
-KT76A	270	King high 4 flush
-KT76K	270	King high 4 flush
-KT76Q	270	King high 4 flush
-KT76J	270	King high 4 flush
-KT76T	270	King high 4 flush
-KT769	270	King high 4 flush
-KT768	270	King high 4 flush
-KT767	270	King high 4 flush
-KT766	270	King high 4 flush
-K987A	270	King high 4 flush
-K987K	270	King high 4 flush
-K987Q	270	King high 4 flush
-K987J	270	King high 4 flush
-K987T	270	King high 4 flush
-K9879	270	King high 4 flush
-K9878	270	King high 4 flush
-K9877	270	King high 4 flush
-K9876	270	King high 4 flush
-K986A	270	King high 4 flush
-K986K	270	King high 4 flush
-K986Q	270	King high 4 flush
-K986J	270	King high 4 flush
-K986T	270	King high 4 flush
-K9869	270	King high 4 flush
-K9868	270	King high 4 flush
-K9867	270	King high 4 flush
-K9866	270	King high 4 flush
-K976A	270	King high 4 flush
-K976K	270	King high 4 flush
-K976Q	270	King high 4 flush
-K976J	270	King high 4 flush
-K976T	270	King high 4 flush
-K9769	270	King high 4 flush
-K9768	270	King high 4 flush
-K9767	270	King high 4 flush
-K9766	270	King high 4 flush
-K876A	270	King high 4 flush
-K876K	270	King high 4 flush
-K876Q	270	King high 4 flush
-K876J	270	King high 4 flush
-K876T	270	King high 4 flush
-K8769	270	King high 4 flush
-K8768	270	King high 4 flush
-K8767	270	King high 4 flush
-K8766	270	King high 4 flush
-QJT9A	270	Queen high 4 flush
-QJT9K	270	Queen high 4 flush
-QJT9Q	270	Queen high 4 flush
-QJT9J	270	Queen high 4 flush
-QJT9T	270	Queen high 4 flush
-QJT99	270	Queen high 4 flush
-QJT98	270	Queen high 4 flush
-QJT97	270	Queen high 4 flush
-QJT96	270	Queen high 4 flush
-QJT8A	270	Queen high 4 flush
-QJT8K	270	Queen high 4 flush
-QJT8Q	270	Queen high 4 flush
-QJT8J	270	Queen high 4 flush
-QJT8T	270	Queen high 4 flush
-QJT89	270	Queen high 4 flush
-QJT88	270	Queen high 4 flush
-QJT87	270	Queen high 4 flush
-QJT86	270	Queen high 4 flush
-QJT7A	270	Queen high 4 flush
-QJT7K	270	Queen high 4 flush
-QJT7Q	270	Queen high 4 flush
-QJT7J	270	Queen high 4 flush
-QJT7T	270	Queen high 4 flush
-QJT79	270	Queen high 4 flush
-QJT78	270	Queen high 4 flush
-QJT77	270	Queen high 4 flush
-QJT76	270	Queen high 4 flush
-QJT6A	270	Queen high 4 flush
-QJT6K	270	Queen high 4 flush
-QJT6Q	270	Queen high 4 flush
-QJT6J	270	Queen high 4 flush
-QJT6T	270	Queen high 4 flush
-QJT69	270	Queen high 4 flush
-QJT68	270	Queen high 4 flush
-QJT67	270	Queen high 4 flush
-QJT66	270	Queen high 4 flush
-QJ98A	270	Queen high 4 flush
-QJ98K	270	Queen high 4 flush
-QJ98Q	270	Queen high 4 flush
-QJ98J	270	Queen high 4 flush
-QJ98T	270	Queen high 4 flush
-QJ989	270	Queen high 4 flush
-QJ988	270	Queen high 4 flush
-QJ987	270	Queen high 4 flush
-QJ986	270	Queen high 4 flush
-QJ97A	270	Queen high 4 flush
-QJ97K	270	Queen high 4 flush
-QJ97Q	270	Queen high 4 flush
-QJ97J	270	Queen high 4 flush
-QJ97T	270	Queen high 4 flush
-QJ979	270	Queen high 4 flush
-QJ978	270	Queen high 4 flush
-QJ977	270	Queen high 4 flush
-QJ976	270	Queen high 4 flush
-QJ96A	270	Queen high 4 flush
-QJ96K	270	Queen high 4 flush
-QJ96Q	270	Queen high 4 flush
-QJ96J	270	Queen high 4 flush
-QJ96T	270	Queen high 4 flush
-QJ969	270	Queen high 4 flush
-QJ968	270	Queen high 4 flush
-QJ967	270	Queen high 4 flush
-QJ966	270	Queen high 4 flush
-QJ87A	270	Queen high 4 flush
-QJ87K	270	Queen high 4 flush
-QJ87Q	270	Queen high 4 flush
-QJ87J	270	Queen high 4 flush
-QJ87T	270	Queen high 4 flush
-QJ879	270	Queen high 4 flush
-QJ878	270	Queen high 4 flush
-QJ877	270	Queen high 4 flush
-QJ876	270	Queen high 4 flush
-QJ86A	270	Queen high 4 flush
-QJ86K	270	Queen high 4 flush
-QJ86Q	270	Queen high 4 flush
-QJ86J	270	Queen high 4 flush
-QJ86T	270	Queen high 4 flush
-QJ869	270	Queen high 4 flush
-QJ868	270	Queen high 4 flush
-QJ867	270	Queen high 4 flush
-QJ866	270	Queen high 4 flush
-QJ76A	270	Queen high 4 flush
-QJ76K	270	Queen high 4 flush
-QJ76Q	270	Queen high 4 flush
-QJ76J	270	Queen high 4 flush
-QJ76T	270	Queen high 4 flush
-QJ769	270	Queen high 4 flush
-QJ768	270	Queen high 4 flush
-QJ767	270	Queen high 4 flush
-QJ766	270	Queen high 4 flush
-QT98A	270	Queen high 4 flush
-QT98K	270	Queen high 4 flush
-QT98Q	270	Queen high 4 flush
-QT98J	270	Queen high 4 flush
-QT98T	270	Queen high 4 flush
-QT989	270	Queen high 4 flush
-QT988	270	Queen high 4 flush
-QT987	270	Queen high 4 flush
-QT986	270	Queen high 4 flush
-QT97A	270	Queen high 4 flush
-QT97K	270	Queen high 4 flush
-QT97Q	270	Queen high 4 flush
-QT97J	270	Queen high 4 flush
-QT97T	270	Queen high 4 flush
-QT979	270	Queen high 4 flush
-QT978	270	Queen high 4 flush
-QT977	270	Queen high 4 flush
-QT976	270	Queen high 4 flush
-QT96A	270	Queen high 4 flush
-QT96K	270	Queen high 4 flush
-QT96Q	270	Queen high 4 flush
-QT96J	270	Queen high 4 flush
-QT96T	270	Queen high 4 flush
-QT969	270	Queen high 4 flush
-QT968	270	Queen high 4 flush
-QT967	270	Queen high 4 flush
-QT966	270	Queen high 4 flush
-QT87A	270	Queen high 4 flush
-QT87K	270	Queen high 4 flush
-QT87Q	270	Queen high 4 flush
-QT87J	270	Queen high 4 flush
-QT87T	270	Queen high 4 flush
-QT879	270	Queen high 4 flush
-QT878	270	Queen high 4 flush
-QT877	270	Queen high 4 flush
-QT876	270	Queen high 4 flush
-QT86A	270	Queen high 4 flush
-QT86K	270	Queen high 4 flush
-QT86Q	270	Queen high 4 flush
-QT86J	270	Queen high 4 flush
-QT86T	270	Queen high 4 flush
-QT869	270	Queen high 4 flush
-QT868	270	Queen high 4 flush
-QT867	270	Queen high 4 flush
-QT866	270	Queen high 4 flush
-QT76A	270	Queen high 4 flush
-QT76K	270	Queen high 4 flush
-QT76Q	270	Queen high 4 flush
-QT76J	270	Queen high 4 flush
-QT76T	270	Queen high 4 flush
-QT769	270	Queen high 4 flush
-QT768	270	Queen high 4 flush
-QT767	270	Queen high 4 flush
-QT766	270	Queen high 4 flush
-Q987A	270	Queen high 4 flush
-Q987K	270	Queen high 4 flush
-Q987Q	270	Queen high 4 flush
-Q987J	270	Queen high 4 flush
-Q987T	270	Queen high 4 flush
-Q9879	270	Queen high 4 flush
-Q9878	270	Queen high 4 flush
-Q9877	270	Queen high 4 flush
-Q9876	270	Queen high 4 flush
-Q986A	270	Queen high 4 flush
-Q986K	270	Queen high 4 flush
-Q986Q	270	Queen high 4 flush
-Q986J	270	Queen high 4 flush
-Q986T	270	Queen high 4 flush
-Q9869	270	Queen high 4 flush
-Q9868	270	Queen high 4 flush
-Q9867	270	Queen high 4 flush
-Q9866	270	Queen high 4 flush
-Q976A	270	Queen high 4 flush
-Q976K	270	Queen high 4 flush
-Q976Q	270	Queen high 4 flush
-Q976J	270	Queen high 4 flush
-Q976T	270	Queen high 4 flush
-Q9769	270	Queen high 4 flush
-Q9768	270	Queen high 4 flush
-Q9767	270	Queen high 4 flush
-Q9766	270	Queen high 4 flush
-Q876A	270	Queen high 4 flush
-Q876K	270	Queen high 4 flush
-Q876Q	270	Queen high 4 flush
-Q876J	270	Queen high 4 flush
-Q876T	270	Queen high 4 flush
-Q8769	270	Queen high 4 flush
-Q8768	270	Queen high 4 flush
-Q8767	270	Queen high 4 flush
-Q8766	270	Queen high 4 flush
-JT98A	270	Jack high 4 flush
-JT98K	270	Jack high 4 flush
-JT98Q	270	Jack high 4 flush
-JT98J	270	Jack high 4 flush
-JT98T	270	Jack high 4 flush
-JT989	270	Jack high 4 flush
-JT988	270	Jack high 4 flush
-JT987	270	Jack high 4 flush
-JT986	270	Jack high 4 flush
-JT97A	270	Jack high 4 flush
-JT97K	270	Jack high 4 flush
-JT97Q	270	Jack high 4 flush
-JT97J	270	Jack high 4 flush
-JT97T	270	Jack high 4 flush
-JT979	270	Jack high 4 flush
-JT978	270	Jack high 4 flush
-JT977	270	Jack high 4 flush
-JT976	270	Jack high 4 flush
-JT96A	270	Jack high 4 flush
-JT96K	270	Jack high 4 flush
-JT96Q	270	Jack high 4 flush
-JT96J	270	Jack high 4 flush
-JT96T	270	Jack high 4 flush
-JT969	270	Jack high 4 flush
-JT968	270	Jack high 4 flush
-JT967	270	Jack high 4 flush
-JT966	270	Jack high 4 flush
-JT87A	270	Jack high 4 flush
-JT87K	270	Jack high 4 flush
-JT87Q	270	Jack high 4 flush
-JT87J	270	Jack high 4 flush
-JT87T	270	Jack high 4 flush
-JT879	270	Jack high 4 flush
-JT878	270	Jack high 4 flush
-JT877	270	Jack high 4 flush
-JT876	270	Jack high 4 flush
-JT86A	270	Jack high 4 flush
-JT86K	270	Jack high 4 flush
-JT86Q	270	Jack high 4 flush
-JT86J	270	Jack high 4 flush
-JT86T	270	Jack high 4 flush
-JT869	270	Jack high 4 flush
-JT868	270	Jack high 4 flush
-JT867	270	Jack high 4 flush
-JT866	270	Jack high 4 flush
-JT76A	270	Jack high 4 flush
-JT76K	270	Jack high 4 flush
-JT76Q	270	Jack high 4 flush
-JT76J	270	Jack high 4 flush
-JT76T	270	Jack high 4 flush
-JT769	270	Jack high 4 flush
-JT768	270	Jack high 4 flush
-JT767	270	Jack high 4 flush
-JT766	270	Jack high 4 flush
-J987A	270	Jack high 4 flush
-J987K	270	Jack high 4 flush
-J987Q	270	Jack high 4 flush
-J987J	270	Jack high 4 flush
-J987T	270	Jack high 4 flush
-J9879	270	Jack high 4 flush
-J9878	270	Jack high 4 flush
-J9877	270	Jack high 4 flush
-J9876	270	Jack high 4 flush
-J986A	270	Jack high 4 flush
-J986K	270	Jack high 4 flush
-J986Q	270	Jack high 4 flush
-J986J	270	Jack high 4 flush
-J986T	270	Jack high 4 flush
-J9869	270	Jack high 4 flush
-J9868	270	Jack high 4 flush
-J9867	270	Jack high 4 flush
-J9866	270	Jack high 4 flush
-J976A	270	Jack high 4 flush
-J976K	270	Jack high 4 flush
-J976Q	270	Jack high 4 flush
-J976J	270	Jack high 4 flush
-J976T	270	Jack high 4 flush
-J9769	270	Jack high 4 flush
-J9768	270	Jack high 4 flush
-J9767	270	Jack high 4 flush
-J9766	270	Jack high 4 flush
-J876A	270	Jack high 4 flush
-J876K	270	Jack high 4 flush
-J876Q	270	Jack high 4 flush
-J876J	270	Jack high 4 flush
-J876T	270	Jack high 4 flush
-J8769	270	Jack high 4 flush
-J8768	270	Jack high 4 flush
-J8767	270	Jack high 4 flush
-J8766	270	Jack high 4 flush
-T987A	270	Ten high 4 flush
-T987K	270	Ten high 4 flush
-T987Q	270	Ten high 4 flush
-T987J	270	Ten high 4 flush
-T987T	270	Ten high 4 flush
-T9879	270	Ten high 4 flush
-T9878	270	Ten high 4 flush
-T9877	270	Ten high 4 flush
-T9876	270	Ten high 4 flush
-T986A	270	Ten high 4 flush
-T986K	270	Ten high 4 flush
-T986Q	270	Ten high 4 flush
-T986J	270	Ten high 4 flush
-T986T	270	Ten high 4 flush
-T9869	270	Ten high 4 flush
-T9868	270	Ten high 4 flush
-T9867	270	Ten high 4 flush
-T9866	270	Ten high 4 flush
-T976A	270	Ten high 4 flush
-T976K	270	Ten high 4 flush
-T976Q	270	Ten high 4 flush
-T976J	270	Ten high 4 flush
-T976T	270	Ten high 4 flush
-T9769	270	Ten high 4 flush
-T9768	270	Ten high 4 flush
-T9767	270	Ten high 4 flush
-T9766	270	Ten high 4 flush
-T876A	270	Ten high 4 flush
-T876K	270	Ten high 4 flush
-T876Q	270	Ten high 4 flush
-T876J	270	Ten high 4 flush
-T876T	270	Ten high 4 flush
-T8769	270	Ten high 4 flush
-T8768	270	Ten high 4 flush
-T8767	270	Ten high 4 flush
-T8766	270	Ten high 4 flush
-9876A	270	Nine high 4 flush
-9876K	270	Nine high 4 flush
-9876Q	270	Nine high 4 flush
-9876J	270	Nine high 4 flush
-9876T	270	Nine high 4 flush
-98769	270	Nine high 4 flush
-98768	270	Nine high 4 flush
-98767	270	Nine high 4 flush
-98766	270	Nine high 4 flush
-AKQJT	7740	Ace high straight
-KQJT9	7740	King high straight
-QJT98	7740	Queen high straight
-JT987	7740	Jack high straight
-T9876	7740	Ten high straight
-9876A	7740	Nine high straight
-AAAKQ	720	Three Aces
-AAAKJ	720	Three Aces
-AAAKT	720	Three Aces
-AAAK9	720	Three Aces
-AAAK8	720	Three Aces
-AAAK7	720	Three Aces
-AAAK6	720	Three Aces
-AAAQJ	720	Three Aces
-AAAQT	720	Three Aces
-AAAQ9	720	Three Aces
-AAAQ8	720	Three Aces
-AAAQ7	720	Three Aces
-AAAQ6	720	Three Aces
-AAAJT	720	Three Aces
-AAAJ9	720	Three Aces
-AAAJ8	720	Three Aces
-AAAJ7	720	Three Aces
-AAAJ6	720	Three Aces
-AAAT9	720	Three Aces
-AAAT8	720	Three Aces
-AAAT7	720	Three Aces
-AAAT6	720	Three Aces
-AAA98	720	Three Aces
-AAA97	720	Three Aces
-AAA96	720	Three Aces
-AAA87	720	Three Aces
-AAA86	720	Three Aces
-AAA76	720	Three Aces
-KKKAQ	720	Three Kings
-KKKAJ	720	Three Kings
-KKKAT	720	Three Kings
-KKKA9	720	Three Kings
-KKKA8	720	Three Kings
-KKKA7	720	Three Kings
-KKKA6	720	Three Kings
-KKKQJ	720	Three Kings
-KKKQT	720	Three Kings
-KKKQ9	720	Three Kings
-KKKQ8	720	Three Kings
-KKKQ7	720	Three Kings
-KKKQ6	720	Three Kings
-KKKJT	720	Three Kings
-KKKJ9	720	Three Kings
-KKKJ8	720	Three Kings
-KKKJ7	720	Three Kings
-KKKJ6	720	Three Kings
-KKKT9	720	Three Kings
-KKKT8	720	Three Kings
-KKKT7	720	Three Kings
-KKKT6	720	Three Kings
-KKK98	720	Three Kings
-KKK97	720	Three Kings
-KKK96	720	Three Kings
-KKK87	720	Three Kings
-KKK86	720	Three Kings
-KKK76	720	Three Kings
-QQQAK	720	Three Queens
-QQQAJ	720	Three Queens
-QQQAT	720	Three Queens
-QQQA9	720	Three Queens
-QQQA8	720	Three Queens
-QQQA7	720	Three Queens
-QQQA6	720	Three Queens
-QQQKJ	720	Three Queens
-QQQKT	720	Three Queens
-QQQK9	720	Three Queens
-QQQK8	720	Three Queens
-QQQK7	720	Three Queens
-QQQK6	720	Three Queens
-QQQJT	720	Three Queens
-QQQJ9	720	Three Queens
-QQQJ8	720	Three Queens
-QQQJ7	720	Three Queens
-QQQJ6	720	Three Queens
-QQQT9	720	Three Queens
-QQQT8	720	Three Queens
-QQQT7	720	Three Queens
-QQQT6	720	Three Queens
-QQQ98	720	Three Queens
-QQQ97	720	Three Queens
-QQQ96	720	Three Queens
-QQQ87	720	Three Queens
-QQQ86	720	Three Queens
-QQQ76	720	Three Queens
-JJJAK	720	Three Jacks
-JJJAQ	720	Three Jacks
-JJJAT	720	Three Jacks
-JJJA9	720	Three Jacks
-JJJA8	720	Three Jacks
-JJJA7	720	Three Jacks
-JJJA6	720	Three Jacks
-JJJKQ	720	Three Jacks
-JJJKT	720	Three Jacks
-JJJK9	720	Three Jacks
-JJJK8	720	Three Jacks
-JJJK7	720	Three Jacks
-JJJK6	720	Three Jacks
-JJJQT	720	Three Jacks
-JJJQ9	720	Three Jacks
-JJJQ8	720	Three Jacks
-JJJQ7	720	Three Jacks
-JJJQ6	720	Three Jacks
-JJJT9	720	Three Jacks
-JJJT8	720	Three Jacks
-JJJT7	720	Three Jacks
-JJJT6	720	Three Jacks
-JJJ98	720	Three Jacks
-JJJ97	720	Three Jacks
-JJJ96	720	Three Jacks
-JJJ87	720	Three Jacks
-JJJ86	720	Three Jacks
-JJJ76	720	Three Jacks
-TTTAK	720	Three Tens
-TTTAQ	720	Three Tens
-TTTAJ	720	Three Tens
-TTTA9	720	Three Tens
-TTTA8	720	Three Tens
-TTTA7	720	Three Tens
-TTTA6	720	Three Tens
-TTTKQ	720	Three Tens
-TTTKJ	720	Three Tens
-TTTK9	720	Three Tens
-TTTK8	720	Three Tens
-TTTK7	720	Three Tens
-TTTK6	720	Three Tens
-TTTQJ	720	Three Tens
-TTTQ9	720	Three Tens
-TTTQ8	720	Three Tens
-TTTQ7	720	Three Tens
-TTTQ6	720	Three Tens
-TTTJ9	720	Three Tens
-TTTJ8	720	Three Tens
-TTTJ7	720	Three Tens
-TTTJ6	720	Three Tens
-TTT98	720	Three Tens
-TTT97	720	Three Tens
-TTT96	720	Three Tens
-TTT87	720	Three Tens
-TTT86	720	Three Tens
-TTT76	720	Three Tens
-999AK	720	Three Nines
-999AQ	720	Three Nines
-999AJ	720	Three Nines
-999AT	720	Three Nines
-999A8	720	Three Nines
-999A7	720	Three Nines
-999A6	720	Three Nines
-999KQ	720	Three Nines
-999KJ	720	Three Nines
-999KT	720	Three Nines
-999K8	720	Three Nines
-999K7	720	Three Nines
-999K6	720	Three Nines
-999QJ	720	Three Nines
-999QT	720	Three Nines
-999Q8	720	Three Nines
-999Q7	720	Three Nines
-999Q6	720	Three Nines
-999JT	720	Three Nines
-999J8	720	Three Nines
-999J7	720	Three Nines
-999J6	720	Three Nines
-999T8	720	Three Nines
-999T7	720	Three Nines
-999T6	720	Three Nines
-99987	720	Three Nines
-99986	720	Three Nines
-99976	720	Three Nines
-888AK	720	Three Eights
-888AQ	720	Three Eights
-888AJ	720	Three Eights
-888AT	720	Three Eights
-888A9	720	Three Eights
-888A7	720	Three Eights
-888A6	720	Three Eights
-888KQ	720	Three Eights
-888KJ	720	Three Eights
-888KT	720	Three Eights
-888K9	720	Three Eights
-888K7	720	Three Eights
-888K6	720	Three Eights
-888QJ	720	Three Eights
-888QT	720	Three Eights
-888Q9	720	Three Eights
-888Q7	720	Three Eights
-888Q6	720	Three Eights
-888JT	720	Three Eights
-888J9	720	Three Eights
-888J7	720	Three Eights
-888J6	720	Three Eights
-888T9	720	Three Eights
-888T7	720	Three Eights
-888T6	720	Three Eights
-88897	720	Three Eights
-88896	720	Three Eights
-88876	720	Three Eights
-777AK	720	Three Sevens
-777AQ	720	Three Sevens
-777AJ	720	Three Sevens
-777AT	720	Three Sevens
-777A9	720	Three Sevens
-777A8	720	Three Sevens
-777A6	720	Three Sevens
-777KQ	720	Three Sevens
-777KJ	720	Three Sevens
-777KT	720	Three Sevens
-777K9	720	Three Sevens
-777K8	720	Three Sevens
-777K6	720	Three Sevens
-777QJ	720	Three Sevens
-777QT	720	Three Sevens
-777Q9	720	Three Sevens
-777Q8	720	Three Sevens
-777Q6	720	Three Sevens
-777JT	720	Three Sevens
-777J9	720	Three Sevens
-777J8	720	Three Sevens
-777J6	720	Three Sevens
-777T9	720	Three Sevens
-777T8	720	Three Sevens
-777T6	720	Three Sevens
-77798	720	Three Sevens
-77796	720	Three Sevens
-77786	720	Three Sevens
-666AK	720	Three Sixs
-666AQ	720	Three Sixs
-666AJ	720	Three Sixs
-666AT	720	Three Sixs
-666A9	720	Three Sixs
-666A8	720	Three Sixs
-666A7	720	Three Sixs
-666KQ	720	Three Sixs
-666KJ	720	Three Sixs
-666KT	720	Three Sixs
-666K9	720	Three Sixs
-666K8	720	Three Sixs
-666K7	720	Three Sixs
-666QJ	720	Three Sixs
-666QT	720	Three Sixs
-666Q9	720	Three Sixs
-666Q8	720	Three Sixs
-666Q7	720	Three Sixs
-666JT	720	Three Sixs
-666J9	720	Three Sixs
-666J8	720	Three Sixs
-666J7	720	Three Sixs
-666T9	720	Three Sixs
-666T8	720	Three Sixs
-666T7	720	Three Sixs
-66698	720	Three Sixs
-66697	720	Three Sixs
-66687	720	Three Sixs
-AAAAA	1350	Aces and Aces
-AAAAK	1350	Aces and Aces
-AAAAQ	1350	Aces and Aces
-AAAAJ	1350	Aces and Aces
-AAAAT	1350	Aces and Aces
-AAAA9	1350	Aces and Aces
-AAAA8	1350	Aces and Aces
-AAAA7	1350	Aces and Aces
-AAAA6	1350	Aces and Aces
-AAKKA	1350	Aces and Kings
-AAKKK	1350	Aces and Kings
-AAKKQ	1350	Aces and Kings
-AAKKJ	1350	Aces and Kings
-AAKKT	1350	Aces and Kings
-AAKK9	1350	Aces and Kings
-AAKK8	1350	Aces and Kings
-AAKK7	1350	Aces and Kings
-AAKK6	1350	Aces and Kings
-AAQQA	1350	Aces and Queens
-AAQQK	1350	Aces and Queens
-AAQQQ	1350	Aces and Queens
-AAQQJ	1350	Aces and Queens
-AAQQT	1350	Aces and Queens
-AAQQ9	1350	Aces and Queens
-AAQQ8	1350	Aces and Queens
-AAQQ7	1350	Aces and Queens
-AAQQ6	1350	Aces and Queens
-AAJJA	1350	Aces and Jacks
-AAJJK	1350	Aces and Jacks
-AAJJQ	1350	Aces and Jacks
-AAJJJ	1350	Aces and Jacks
-AAJJT	1350	Aces and Jacks
-AAJJ9	1350	Aces and Jacks
-AAJJ8	1350	Aces and Jacks
-AAJJ7	1350	Aces and Jacks
-AAJJ6	1350	Aces and Jacks
-AATTA	1350	Aces and Tens
-AATTK	1350	Aces and Tens
-AATTQ	1350	Aces and Tens
-AATTJ	1350	Aces and Tens
-AATTT	1350	Aces and Tens
-AATT9	1350	Aces and Tens
-AATT8	1350	Aces and Tens
-AATT7	1350	Aces and Tens
-AATT6	1350	Aces and Tens
-AA99A	1350	Aces and Nines
-AA99K	1350	Aces and Nines
-AA99Q	1350	Aces and Nines
-AA99J	1350	Aces and Nines
-AA99T	1350	Aces and Nines
-AA999	1350	Aces and Nines
-AA998	1350	Aces and Nines
-AA997	1350	Aces and Nines
-AA996	1350	Aces and Nines
-AA88A	1350	Aces and Eights
-AA88K	1350	Aces and Eights
-AA88Q	1350	Aces and Eights
-AA88J	1350	Aces and Eights
-AA88T	1350	Aces and Eights
-AA889	1350	Aces and Eights
-AA888	1350	Aces and Eights
-AA887	1350	Aces and Eights
-AA886	1350	Aces and Eights
-AA77A	1350	Aces and Sevens
-AA77K	1350	Aces and Sevens
-AA77Q	1350	Aces and Sevens
-AA77J	1350	Aces and Sevens
-AA77T	1350	Aces and Sevens
-AA779	1350	Aces and Sevens
-AA778	1350	Aces and Sevens
-AA777	1350	Aces and Sevens
-AA776	1350	Aces and Sevens
-AA66A	1350	Aces and Sixs
-AA66K	1350	Aces and Sixs
-AA66Q	1350	Aces and Sixs
-AA66J	1350	Aces and Sixs
-AA66T	1350	Aces and Sixs
-AA669	1350	Aces and Sixs
-AA668	1350	Aces and Sixs
-AA667	1350	Aces and Sixs
-AA666	1350	Aces and Sixs
-KKKKA	1350	Kings and Kings
-KKKKK	1350	Kings and Kings
-KKKKQ	1350	Kings and Kings
-KKKKJ	1350	Kings and Kings
-KKKKT	1350	Kings and Kings
-KKKK9	1350	Kings and Kings
-KKKK8	1350	Kings and Kings
-KKKK7	1350	Kings and Kings
-KKKK6	1350	Kings and Kings
-KKQQA	1350	Kings and Queens
-KKQQK	1350	Kings and Queens
-KKQQQ	1350	Kings and Queens
-KKQQJ	1350	Kings and Queens
-KKQQT	1350	Kings and Queens
-KKQQ9	1350	Kings and Queens
-KKQQ8	1350	Kings and Queens
-KKQQ7	1350	Kings and Queens
-KKQQ6	1350	Kings and Queens
-KKJJA	1350	Kings and Jacks
-KKJJK	1350	Kings and Jacks
-KKJJQ	1350	Kings and Jacks
-KKJJJ	1350	Kings and Jacks
-KKJJT	1350	Kings and Jacks
-KKJJ9	1350	Kings and Jacks
-KKJJ8	1350	Kings and Jacks
-KKJJ7	1350	Kings and Jacks
-KKJJ6	1350	Kings and Jacks
-KKTTA	1350	Kings and Tens
-KKTTK	1350	Kings and Tens
-KKTTQ	1350	Kings and Tens
-KKTTJ	1350	Kings and Tens
-KKTTT	1350	Kings and Tens
-KKTT9	1350	Kings and Tens
-KKTT8	1350	Kings and Tens
-KKTT7	1350	Kings and Tens
-KKTT6	1350	Kings and Tens
-KK99A	1350	Kings and Nines
-KK99K	1350	Kings and Nines
-KK99Q	1350	Kings and Nines
-KK99J	1350	Kings and Nines
-KK99T	1350	Kings and Nines
-KK999	1350	Kings and Nines
-KK998	1350	Kings and Nines
-KK997	1350	Kings and Nines
-KK996	1350	Kings and Nines
-KK88A	1350	Kings and Eights
-KK88K	1350	Kings and Eights
-KK88Q	1350	Kings and Eights
-KK88J	1350	Kings and Eights
-KK88T	1350	Kings and Eights
-KK889	1350	Kings and Eights
-KK888	1350	Kings and Eights
-KK887	1350	Kings and Eights
-KK886	1350	Kings and Eights
-KK77A	1350	Kings and Sevens
-KK77K	1350	Kings and Sevens
-KK77Q	1350	Kings and Sevens
-KK77J	1350	Kings and Sevens
-KK77T	1350	Kings and Sevens
-KK779	1350	Kings and Sevens
-KK778	1350	Kings and Sevens
-KK777	1350	Kings and Sevens
-KK776	1350	Kings and Sevens
-KK66A	1350	Kings and Sixs
-KK66K	1350	Kings and Sixs
-KK66Q	1350	Kings and Sixs
-KK66J	1350	Kings and Sixs
-KK66T	1350	Kings and Sixs
-KK669	1350	Kings and Sixs
-KK668	1350	Kings and Sixs
-KK667	1350	Kings and Sixs
-KK666	1350	Kings and Sixs
-QQQQA	1350	Queens and Queens
-QQQQK	1350	Queens and Queens
-QQQQQ	1350	Queens and Queens
-QQQQJ	1350	Queens and Queens
-QQQQT	1350	Queens and Queens
-QQQQ9	1350	Queens and Queens
-QQQQ8	1350	Queens and Queens
-QQQQ7	1350	Queens and Queens
-QQQQ6	1350	Queens and Queens
-QQJJA	1350	Queens and Jacks
-QQJJK	1350	Queens and Jacks
-QQJJQ	1350	Queens and Jacks
-QQJJJ	1350	Queens and Jacks
-QQJJT	1350	Queens and Jacks
-QQJJ9	1350	Queens and Jacks
-QQJJ8	1350	Queens and Jacks
-QQJJ7	1350	Queens and Jacks
-QQJJ6	1350	Queens and Jacks
-QQTTA	1350	Queens and Tens
-QQTTK	1350	Queens and Tens
-QQTTQ	1350	Queens and Tens
-QQTTJ	1350	Queens and Tens
-QQTTT	1350	Queens and Tens
-QQTT9	1350	Queens and Tens
-QQTT8	1350	Queens and Tens
-QQTT7	1350	Queens and Tens
-QQTT6	1350	Queens and Tens
-QQ99A	1350	Queens and Nines
-QQ99K	1350	Queens and Nines
-QQ99Q	1350	Queens and Nines
-QQ99J	1350	Queens and Nines
-QQ99T	1350	Queens and Nines
-QQ999	1350	Queens and Nines
-QQ998	1350	Queens and Nines
-QQ997	1350	Queens and Nines
-QQ996	1350	Queens and Nines
-QQ88A	1350	Queens and Eights
-QQ88K	1350	Queens and Eights
-QQ88Q	1350	Queens and Eights
-QQ88J	1350	Queens and Eights
-QQ88T	1350	Queens and Eights
-QQ889	1350	Queens and Eights
-QQ888	1350	Queens and Eights
-QQ887	1350	Queens and Eights
-QQ886	1350	Queens and Eights
-QQ77A	1350	Queens and Sevens
-QQ77K	1350	Queens and Sevens
-QQ77Q	1350	Queens and Sevens
-QQ77J	1350	Queens and Sevens
-QQ77T	1350	Queens and Sevens
-QQ779	1350	Queens and Sevens
-QQ778	1350	Queens and Sevens
-QQ777	1350	Queens and Sevens
-QQ776	1350	Queens and Sevens
-QQ66A	1350	Queens and Sixs
-QQ66K	1350	Queens and Sixs
-QQ66Q	1350	Queens and Sixs
-QQ66J	1350	Queens and Sixs
-QQ66T	1350	Queens and Sixs
-QQ669	1350	Queens and Sixs
-QQ668	1350	Queens and Sixs
-QQ667	1350	Queens and Sixs
-QQ666	1350	Queens and Sixs
-JJJJA	1350	Jacks and Jacks
-JJJJK	1350	Jacks and Jacks
-JJJJQ	1350	Jacks and Jacks
-JJJJJ	1350	Jacks and Jacks
-JJJJT	1350	Jacks and Jacks
-JJJJ9	1350	Jacks and Jacks
-JJJJ8	1350	Jacks and Jacks
-JJJJ7	1350	Jacks and Jacks
-JJJJ6	1350	Jacks and Jacks
-JJTTA	1350	Jacks and Tens
-JJTTK	1350	Jacks and Tens
-JJTTQ	1350	Jacks and Tens
-JJTTJ	1350	Jacks and Tens
-JJTTT	1350	Jacks and Tens
-JJTT9	1350	Jacks and Tens
-JJTT8	1350	Jacks and Tens
-JJTT7	1350	Jacks and Tens
-JJTT6	1350	Jacks and Tens
-JJ99A	1350	Jacks and Nines
-JJ99K	1350	Jacks and Nines
-JJ99Q	1350	Jacks and Nines
-JJ99J	1350	Jacks and Nines
-JJ99T	1350	Jacks and Nines
-JJ999	1350	Jacks and Nines
-JJ998	1350	Jacks and Nines
-JJ997	1350	Jacks and Nines
-JJ996	1350	Jacks and Nines
-JJ88A	1350	Jacks and Eights
-JJ88K	1350	Jacks and Eights
-JJ88Q	1350	Jacks and Eights
-JJ88J	1350	Jacks and Eights
-JJ88T	1350	Jacks and Eights
-JJ889	1350	Jacks and Eights
-JJ888	1350	Jacks and Eights
-JJ887	1350	Jacks and Eights
-JJ886	1350	Jacks and Eights
-JJ77A	1350	Jacks and Sevens
-JJ77K	1350	Jacks and Sevens
-JJ77Q	1350	Jacks and Sevens
-JJ77J	1350	Jacks and Sevens
-JJ77T	1350	Jacks and Sevens
-JJ779	1350	Jacks and Sevens
-JJ778	1350	Jacks and Sevens
-JJ777	1350	Jacks and Sevens
-JJ776	1350	Jacks and Sevens
-JJ66A	1350	Jacks and Sixs
-JJ66K	1350	Jacks and Sixs
-JJ66Q	1350	Jacks and Sixs
-JJ66J	1350	Jacks and Sixs
-JJ66T	1350	Jacks and Sixs
-JJ669	1350	Jacks and Sixs
-JJ668	1350	Jacks and Sixs
-JJ667	1350	Jacks and Sixs
-JJ666	1350	Jacks and Sixs
-TTTTA	1350	Tens and Tens
-TTTTK	1350	Tens and Tens
-TTTTQ	1350	Tens and Tens
-TTTTJ	1350	Tens and Tens
-TTTTT	1350	Tens and Tens
-TTTT9	1350	Tens and Tens
-TTTT8	1350	Tens and Tens
-TTTT7	1350	Tens and Tens
-TTTT6	1350	Tens and Tens
-TT99A	1350	Tens and Nines
-TT99K	1350	Tens and Nines
-TT99Q	1350	Tens and Nines
-TT99J	1350	Tens and Nines
-TT99T	1350	Tens and Nines
-TT999	1350	Tens and Nines
-TT998	1350	Tens and Nines
-TT997	1350	Tens and Nines
-TT996	1350	Tens and Nines
-TT88A	1350	Tens and Eights
-TT88K	1350	Tens and Eights
-TT88Q	1350	Tens and Eights
-TT88J	1350	Tens and Eights
-TT88T	1350	Tens and Eights
-TT889	1350	Tens and Eights
-TT888	1350	Tens and Eights
-TT887	1350	Tens and Eights
-TT886	1350	Tens and Eights
-TT77A	1350	Tens and Sevens
-TT77K	1350	Tens and Sevens
-TT77Q	1350	Tens and Sevens
-TT77J	1350	Tens and Sevens
-TT77T	1350	Tens and Sevens
-TT779	1350	Tens and Sevens
-TT778	1350	Tens and Sevens
-TT777	1350	Tens and Sevens
-TT776	1350	Tens and Sevens
-TT66A	1350	Tens and Sixs
-TT66K	1350	Tens and Sixs
-TT66Q	1350	Tens and Sixs
-TT66J	1350	Tens and Sixs
-TT66T	1350	Tens and Sixs
-TT669	1350	Tens and Sixs
-TT668	1350	Tens and Sixs
-TT667	1350	Tens and Sixs
-TT666	1350	Tens and Sixs
-9999A	1350	Nines and Nines
-9999K	1350	Nines and Nines
-9999Q	1350	Nines and Nines
-9999J	1350	Nines and Nines
-9999T	1350	Nines and Nines
-99999	1350	Nines and Nines
-99998	1350	Nines and Nines
-99997	1350	Nines and Nines
-99996	1350	Nines and Nines
-9988A	1350	Nines and Eights
-9988K	1350	Nines and Eights
-9988Q	1350	Nines and Eights
-9988J	1350	Nines and Eights
-9988T	1350	Nines and Eights
-99889	1350	Nines and Eights
-99888	1350	Nines and Eights
-99887	1350	Nines and Eights
-99886	1350	Nines and Eights
-9977A	1350	Nines and Sevens
-9977K	1350	Nines and Sevens
-9977Q	1350	Nines and Sevens
-9977J	1350	Nines and Sevens
-9977T	1350	Nines and Sevens
-99779	1350	Nines and Sevens
-99778	1350	Nines and Sevens
-99777	1350	Nines and Sevens
-99776	1350	Nines and Sevens
-9966A	1350	Nines and Sixs
-9966K	1350	Nines and Sixs
-9966Q	1350	Nines and Sixs
-9966J	1350	Nines and Sixs
-9966T	1350	Nines and Sixs
-99669	1350	Nines and Sixs
-99668	1350	Nines and Sixs
-99667	1350	Nines and Sixs
-99666	1350	Nines and Sixs
-8888A	1350	Eights and Eights
-8888K	1350	Eights and Eights
-8888Q	1350	Eights and Eights
-8888J	1350	Eights and Eights
-8888T	1350	Eights and Eights
-88889	1350	Eights and Eights
-88888	1350	Eights and Eights
-88887	1350	Eights and Eights
-88886	1350	Eights and Eights
-8877A	1350	Eights and Sevens
-8877K	1350	Eights and Sevens
-8877Q	1350	Eights and Sevens
-8877J	1350	Eights and Sevens
-8877T	1350	Eights and Sevens
-88779	1350	Eights and Sevens
-88778	1350	Eights and Sevens
-88777	1350	Eights and Sevens
-88776	1350	Eights and Sevens
-8866A	1350	Eights and Sixs
-8866K	1350	Eights and Sixs
-8866Q	1350	Eights and Sixs
-8866J	1350	Eights and Sixs
-8866T	1350	Eights and Sixs
-88669	1350	Eights and Sixs
-88668	1350	Eights and Sixs
-88667	1350	Eights and Sixs
-88666	1350	Eights and Sixs
-7777A	1350	Sevens and Sevens
-7777K	1350	Sevens and Sevens
-7777Q	1350	Sevens and Sevens
-7777J	1350	Sevens and Sevens
-7777T	1350	Sevens and Sevens
-77779	1350	Sevens and Sevens
-77778	1350	Sevens and Sevens
-77777	1350	Sevens and Sevens
-77776	1350	Sevens and Sevens
-7766A	1350	Sevens and Sixs
-7766K	1350	Sevens and Sixs
-7766Q	1350	Sevens and Sixs
-7766J	1350	Sevens and Sixs
-7766T	1350	Sevens and Sixs
-77669	1350	Sevens and Sixs
-77668	1350	Sevens and Sixs
-77667	1350	Sevens and Sixs
-77666	1350	Sevens and Sixs
-AAAKQ	3210	Pair of Aces
-AAAKJ	3210	Pair of Aces
-AAAKT	3210	Pair of Aces
-AAAK9	3210	Pair of Aces
-AAAK8	3210	Pair of Aces
-AAAK7	3210	Pair of Aces
-AAAK6	3210	Pair of Aces
-AAAQJ	3210	Pair of Aces
-AAAQT	3210	Pair of Aces
-AAAQ9	3210	Pair of Aces
-AAAQ8	3210	Pair of Aces
-AAAQ7	3210	Pair of Aces
-AAAQ6	3210	Pair of Aces
-AAAJT	3210	Pair of Aces
-AAAJ9	3210	Pair of Aces
-AAAJ8	3210	Pair of Aces
-AAAJ7	3210	Pair of Aces
-AAAJ6	3210	Pair of Aces
-AAAT9	3210	Pair of Aces
-AAAT8	3210	Pair of Aces
-AAAT7	3210	Pair of Aces
-AAAT6	3210	Pair of Aces
-AAA98	3210	Pair of Aces
-AAA97	3210	Pair of Aces
-AAA96	3210	Pair of Aces
-AAA87	3210	Pair of Aces
-AAA86	3210	Pair of Aces
-AAA76	3210	Pair of Aces
-AAKQJ	3210	Pair of Aces
-AAKQT	3210	Pair of Aces
-AAKQ9	3210	Pair of Aces
-AAKQ8	3210	Pair of Aces
-AAKQ7	3210	Pair of Aces
-AAKQ6	3210	Pair of Aces
-AAKJT	3210	Pair of Aces
-AAKJ9	3210	Pair of Aces
-AAKJ8	3210	Pair of Aces
-AAKJ7	3210	Pair of Aces
-AAKJ6	3210	Pair of Aces
-AAKT9	3210	Pair of Aces
-AAKT8	3210	Pair of Aces
-AAKT7	3210	Pair of Aces
-AAKT6	3210	Pair of Aces
-AAK98	3210	Pair of Aces
-AAK97	3210	Pair of Aces
-AAK96	3210	Pair of Aces
-AAK87	3210	Pair of Aces
-AAK86	3210	Pair of Aces
-AAK76	3210	Pair of Aces
-AAQJT	3210	Pair of Aces
-AAQJ9	3210	Pair of Aces
-AAQJ8	3210	Pair of Aces
-AAQJ7	3210	Pair of Aces
-AAQJ6	3210	Pair of Aces
-AAQT9	3210	Pair of Aces
-AAQT8	3210	Pair of Aces
-AAQT7	3210	Pair of Aces
-AAQT6	3210	Pair of Aces
-AAQ98	3210	Pair of Aces
-AAQ97	3210	Pair of Aces
-AAQ96	3210	Pair of Aces
-AAQ87	3210	Pair of Aces
-AAQ86	3210	Pair of Aces
-AAQ76	3210	Pair of Aces
-AAJT9	3210	Pair of Aces
-AAJT8	3210	Pair of Aces
-AAJT7	3210	Pair of Aces
-AAJT6	3210	Pair of Aces
-AAJ98	3210	Pair of Aces
-AAJ97	3210	Pair of Aces
-AAJ96	3210	Pair of Aces
-AAJ87	3210	Pair of Aces
-AAJ86	3210	Pair of Aces
-AAJ76	3210	Pair of Aces
-AAT98	3210	Pair of Aces
-AAT97	3210	Pair of Aces
-AAT96	3210	Pair of Aces
-AAT87	3210	Pair of Aces
-AAT86	3210	Pair of Aces
-AAT76	3210	Pair of Aces
-AA987	3210	Pair of Aces
-AA986	3210	Pair of Aces
-AA976	3210	Pair of Aces
-AA876	3210	Pair of Aces
-KKAKQ	3210	Pair of Kings
-KKAKJ	3210	Pair of Kings
-KKAKT	3210	Pair of Kings
-KKAK9	3210	Pair of Kings
-KKAK8	3210	Pair of Kings
-KKAK7	3210	Pair of Kings
-KKAK6	3210	Pair of Kings
-KKAQJ	3210	Pair of Kings
-KKAQT	3210	Pair of Kings
-KKAQ9	3210	Pair of Kings
-KKAQ8	3210	Pair of Kings
-KKAQ7	3210	Pair of Kings
-KKAQ6	3210	Pair of Kings
-KKAJT	3210	Pair of Kings
-KKAJ9	3210	Pair of Kings
-KKAJ8	3210	Pair of Kings
-KKAJ7	3210	Pair of Kings
-KKAJ6	3210	Pair of Kings
-KKAT9	3210	Pair of Kings
-KKAT8	3210	Pair of Kings
-KKAT7	3210	Pair of Kings
-KKAT6	3210	Pair of Kings
-KKA98	3210	Pair of Kings
-KKA97	3210	Pair of Kings
-KKA96	3210	Pair of Kings
-KKA87	3210	Pair of Kings
-KKA86	3210	Pair of Kings
-KKA76	3210	Pair of Kings
-KKKQJ	3210	Pair of Kings
-KKKQT	3210	Pair of Kings
-KKKQ9	3210	Pair of Kings
-KKKQ8	3210	Pair of Kings
-KKKQ7	3210	Pair of Kings
-KKKQ6	3210	Pair of Kings
-KKKJT	3210	Pair of Kings
-KKKJ9	3210	Pair of Kings
-KKKJ8	3210	Pair of Kings
-KKKJ7	3210	Pair of Kings
-KKKJ6	3210	Pair of Kings
-KKKT9	3210	Pair of Kings
-KKKT8	3210	Pair of Kings
-KKKT7	3210	Pair of Kings
-KKKT6	3210	Pair of Kings
-KKK98	3210	Pair of Kings
-KKK97	3210	Pair of Kings
-KKK96	3210	Pair of Kings
-KKK87	3210	Pair of Kings
-KKK86	3210	Pair of Kings
-KKK76	3210	Pair of Kings
-KKQJT	3210	Pair of Kings
-KKQJ9	3210	Pair of Kings
-KKQJ8	3210	Pair of Kings
-KKQJ7	3210	Pair of Kings
-KKQJ6	3210	Pair of Kings
-KKQT9	3210	Pair of Kings
-KKQT8	3210	Pair of Kings
-KKQT7	3210	Pair of Kings
-KKQT6	3210	Pair of Kings
-KKQ98	3210	Pair of Kings
-KKQ97	3210	Pair of Kings
-KKQ96	3210	Pair of Kings
-KKQ87	3210	Pair of Kings
-KKQ86	3210	Pair of Kings
-KKQ76	3210	Pair of Kings
-KKJT9	3210	Pair of Kings
-KKJT8	3210	Pair of Kings
-KKJT7	3210	Pair of Kings
-KKJT6	3210	Pair of Kings
-KKJ98	3210	Pair of Kings
-KKJ97	3210	Pair of Kings
-KKJ96	3210	Pair of Kings
-KKJ87	3210	Pair of Kings
-KKJ86	3210	Pair of Kings
-KKJ76	3210	Pair of Kings
-KKT98	3210	Pair of Kings
-KKT97	3210	Pair of Kings
-KKT96	3210	Pair of Kings
-KKT87	3210	Pair of Kings
-KKT86	3210	Pair of Kings
-KKT76	3210	Pair of Kings
-KK987	3210	Pair of Kings
-KK986	3210	Pair of Kings
-KK976	3210	Pair of Kings
-KK876	3210	Pair of Kings
-QQAKQ	3210	Pair of Queens
-QQAKJ	3210	Pair of Queens
-QQAKT	3210	Pair of Queens
-QQAK9	3210	Pair of Queens
-QQAK8	3210	Pair of Queens
-QQAK7	3210	Pair of Queens
-QQAK6	3210	Pair of Queens
-QQAQJ	3210	Pair of Queens
-QQAQT	3210	Pair of Queens
-QQAQ9	3210	Pair of Queens
-QQAQ8	3210	Pair of Queens
-QQAQ7	3210	Pair of Queens
-QQAQ6	3210	Pair of Queens
-QQAJT	3210	Pair of Queens
-QQAJ9	3210	Pair of Queens
-QQAJ8	3210	Pair of Queens
-QQAJ7	3210	Pair of Queens
-QQAJ6	3210	Pair of Queens
-QQAT9	3210	Pair of Queens
-QQAT8	3210	Pair of Queens
-QQAT7	3210	Pair of Queens
-QQAT6	3210	Pair of Queens
-QQA98	3210	Pair of Queens
-QQA97	3210	Pair of Queens
-QQA96	3210	Pair of Queens
-QQA87	3210	Pair of Queens
-QQA86	3210	Pair of Queens
-QQA76	3210	Pair of Queens
-QQKQJ	3210	Pair of Queens
-QQKQT	3210	Pair of Queens
-QQKQ9	3210	Pair of Queens
-QQKQ8	3210	Pair of Queens
-QQKQ7	3210	Pair of Queens
-QQKQ6	3210	Pair of Queens
-QQKJT	3210	Pair of Queens
-QQKJ9	3210	Pair of Queens
-QQKJ8	3210	Pair of Queens
-QQKJ7	3210	Pair of Queens
-QQKJ6	3210	Pair of Queens
-QQKT9	3210	Pair of Queens
-QQKT8	3210	Pair of Queens
-QQKT7	3210	Pair of Queens
-QQKT6	3210	Pair of Queens
-QQK98	3210	Pair of Queens
-QQK97	3210	Pair of Queens
-QQK96	3210	Pair of Queens
-QQK87	3210	Pair of Queens
-QQK86	3210	Pair of Queens
-QQK76	3210	Pair of Queens
-QQQJT	3210	Pair of Queens
-QQQJ9	3210	Pair of Queens
-QQQJ8	3210	Pair of Queens
-QQQJ7	3210	Pair of Queens
-QQQJ6	3210	Pair of Queens
-QQQT9	3210	Pair of Queens
-QQQT8	3210	Pair of Queens
-QQQT7	3210	Pair of Queens
-QQQT6	3210	Pair of Queens
-QQQ98	3210	Pair of Queens
-QQQ97	3210	Pair of Queens
-QQQ96	3210	Pair of Queens
-QQQ87	3210	Pair of Queens
-QQQ86	3210	Pair of Queens
-QQQ76	3210	Pair of Queens
-QQJT9	3210	Pair of Queens
-QQJT8	3210	Pair of Queens
-QQJT7	3210	Pair of Queens
-QQJT6	3210	Pair of Queens
-QQJ98	3210	Pair of Queens
-QQJ97	3210	Pair of Queens
-QQJ96	3210	Pair of Queens
-QQJ87	3210	Pair of Queens
-QQJ86	3210	Pair of Queens
-QQJ76	3210	Pair of Queens
-QQT98	3210	Pair of Queens
-QQT97	3210	Pair of Queens
-QQT96	3210	Pair of Queens
-QQT87	3210	Pair of Queens
-QQT86	3210	Pair of Queens
-QQT76	3210	Pair of Queens
-QQ987	3210	Pair of Queens
-QQ986	3210	Pair of Queens
-QQ976	3210	Pair of Queens
-QQ876	3210	Pair of Queens
-JJAKQ	3210	Pair of Jacks
-JJAKJ	3210	Pair of Jacks
-JJAKT	3210	Pair of Jacks
-JJAK9	3210	Pair of Jacks
-JJAK8	3210	Pair of Jacks
-JJAK7	3210	Pair of Jacks
-JJAK6	3210	Pair of Jacks
-JJAQJ	3210	Pair of Jacks
-JJAQT	3210	Pair of Jacks
-JJAQ9	3210	Pair of Jacks
-JJAQ8	3210	Pair of Jacks
-JJAQ7	3210	Pair of Jacks
-JJAQ6	3210	Pair of Jacks
-JJAJT	3210	Pair of Jacks
-JJAJ9	3210	Pair of Jacks
-JJAJ8	3210	Pair of Jacks
-JJAJ7	3210	Pair of Jacks
-JJAJ6	3210	Pair of Jacks
-JJAT9	3210	Pair of Jacks
-JJAT8	3210	Pair of Jacks
-JJAT7	3210	Pair of Jacks
-JJAT6	3210	Pair of Jacks
-JJA98	3210	Pair of Jacks
-JJA97	3210	Pair of Jacks
-JJA96	3210	Pair of Jacks
-JJA87	3210	Pair of Jacks
-JJA86	3210	Pair of Jacks
-JJA76	3210	Pair of Jacks
-JJKQJ	3210	Pair of Jacks
-JJKQT	3210	Pair of Jacks
-JJKQ9	3210	Pair of Jacks
-JJKQ8	3210	Pair of Jacks
-JJKQ7	3210	Pair of Jacks
-JJKQ6	3210	Pair of Jacks
-JJKJT	3210	Pair of Jacks
-JJKJ9	3210	Pair of Jacks
-JJKJ8	3210	Pair of Jacks
-JJKJ7	3210	Pair of Jacks
-JJKJ6	3210	Pair of Jacks
-JJKT9	3210	Pair of Jacks
-JJKT8	3210	Pair of Jacks
-JJKT7	3210	Pair of Jacks
-JJKT6	3210	Pair of Jacks
-JJK98	3210	Pair of Jacks
-JJK97	3210	Pair of Jacks
-JJK96	3210	Pair of Jacks
-JJK87	3210	Pair of Jacks
-JJK86	3210	Pair of Jacks
-JJK76	3210	Pair of Jacks
-JJQJT	3210	Pair of Jacks
-JJQJ9	3210	Pair of Jacks
-JJQJ8	3210	Pair of Jacks
-JJQJ7	3210	Pair of Jacks
-JJQJ6	3210	Pair of Jacks
-JJQT9	3210	Pair of Jacks
-JJQT8	3210	Pair of Jacks
-JJQT7	3210	Pair of Jacks
-JJQT6	3210	Pair of Jacks
-JJQ98	3210	Pair of Jacks
-JJQ97	3210	Pair of Jacks
-JJQ96	3210	Pair of Jacks
-JJQ87	3210	Pair of Jacks
-JJQ86	3210	Pair of Jacks
-JJQ76	3210	Pair of Jacks
-JJJT9	3210	Pair of Jacks
-JJJT8	3210	Pair of Jacks
-JJJT7	3210	Pair of Jacks
-JJJT6	3210	Pair of Jacks
-JJJ98	3210	Pair of Jacks
-JJJ97	3210	Pair of Jacks
-JJJ96	3210	Pair of Jacks
-JJJ87	3210	Pair of Jacks
-JJJ86	3210	Pair of Jacks
-JJJ76	3210	Pair of Jacks
-JJT98	3210	Pair of Jacks
-JJT97	3210	Pair of Jacks
-JJT96	3210	Pair of Jacks
-JJT87	3210	Pair of Jacks
-JJT86	3210	Pair of Jacks
-JJT76	3210	Pair of Jacks
-JJ987	3210	Pair of Jacks
-JJ986	3210	Pair of Jacks
-JJ976	3210	Pair of Jacks
-JJ876	3210	Pair of Jacks
-TTAKQ	3210	Pair of Tens
-TTAKJ	3210	Pair of Tens
-TTAKT	3210	Pair of Tens
-TTAK9	3210	Pair of Tens
-TTAK8	3210	Pair of Tens
-TTAK7	3210	Pair of Tens
-TTAK6	3210	Pair of Tens
-TTAQJ	3210	Pair of Tens
-TTAQT	3210	Pair of Tens
-TTAQ9	3210	Pair of Tens
-TTAQ8	3210	Pair of Tens
-TTAQ7	3210	Pair of Tens
-TTAQ6	3210	Pair of Tens
-TTAJT	3210	Pair of Tens
-TTAJ9	3210	Pair of Tens
-TTAJ8	3210	Pair of Tens
-TTAJ7	3210	Pair of Tens
-TTAJ6	3210	Pair of Tens
-TTAT9	3210	Pair of Tens
-TTAT8	3210	Pair of Tens
-TTAT7	3210	Pair of Tens
-TTAT6	3210	Pair of Tens
-TTA98	3210	Pair of Tens
-TTA97	3210	Pair of Tens
-TTA96	3210	Pair of Tens
-TTA87	3210	Pair of Tens
-TTA86	3210	Pair of Tens
-TTA76	3210	Pair of Tens
-TTKQJ	3210	Pair of Tens
-TTKQT	3210	Pair of Tens
-TTKQ9	3210	Pair of Tens
-TTKQ8	3210	Pair of Tens
-TTKQ7	3210	Pair of Tens
-TTKQ6	3210	Pair of Tens
-TTKJT	3210	Pair of Tens
-TTKJ9	3210	Pair of Tens
-TTKJ8	3210	Pair of Tens
-TTKJ7	3210	Pair of Tens
-TTKJ6	3210	Pair of Tens
-TTKT9	3210	Pair of Tens
-TTKT8	3210	Pair of Tens
-TTKT7	3210	Pair of Tens
-TTKT6	3210	Pair of Tens
-TTK98	3210	Pair of Tens
-TTK97	3210	Pair of Tens
-TTK96	3210	Pair of Tens
-TTK87	3210	Pair of Tens
-TTK86	3210	Pair of Tens
-TTK76	3210	Pair of Tens
-TTQJT	3210	Pair of Tens
-TTQJ9	3210	Pair of Tens
-TTQJ8	3210	Pair of Tens
-TTQJ7	3210	Pair of Tens
-TTQJ6	3210	Pair of Tens
-TTQT9	3210	Pair of Tens
-TTQT8	3210	Pair of Tens
-TTQT7	3210	Pair of Tens
-TTQT6	3210	Pair of Tens
-TTQ98	3210	Pair of Tens
-TTQ97	3210	Pair of Tens
-TTQ96	3210	Pair of Tens
-TTQ87	3210	Pair of Tens
-TTQ86	3210	Pair of Tens
-TTQ76	3210	Pair of Tens
-TTJT9	3210	Pair of Tens
-TTJT8	3210	Pair of Tens
-TTJT7	3210	Pair of Tens
-TTJT6	3210	Pair of Tens
-TTJ98	3210	Pair of Tens
-TTJ97	3210	Pair of Tens
-TTJ96	3210	Pair of Tens
-TTJ87	3210	Pair of Tens
-TTJ86	3210	Pair of Tens
-TTJ76	3210	Pair of Tens
-TTT98	3210	Pair of Tens
-TTT97	3210	Pair of Tens
-TTT96	3210	Pair of Tens
-TTT87	3210	Pair of Tens
-TTT86	3210	Pair of Tens
-TTT76	3210	Pair of Tens
-TT987	3210	Pair of Tens
-TT986	3210	Pair of Tens
-TT976	3210	Pair of Tens
-TT876	3210	Pair of Tens
-99AKQ	3210	Pair of Nines
-99AKJ	3210	Pair of Nines
-99AKT	3210	Pair of Nines
-99AK9	3210	Pair of Nines
-99AK8	3210	Pair of Nines
-99AK7	3210	Pair of Nines
-99AK6	3210	Pair of Nines
-99AQJ	3210	Pair of Nines
-99AQT	3210	Pair of Nines
-99AQ9	3210	Pair of Nines
-99AQ8	3210	Pair of Nines
-99AQ7	3210	Pair of Nines
-99AQ6	3210	Pair of Nines
-99AJT	3210	Pair of Nines
-99AJ9	3210	Pair of Nines
-99AJ8	3210	Pair of Nines
-99AJ7	3210	Pair of Nines
-99AJ6	3210	Pair of Nines
-99AT9	3210	Pair of Nines
-99AT8	3210	Pair of Nines
-99AT7	3210	Pair of Nines
-99AT6	3210	Pair of Nines
-99A98	3210	Pair of Nines
-99A97	3210	Pair of Nines
-99A96	3210	Pair of Nines
-99A87	3210	Pair of Nines
-99A86	3210	Pair of Nines
-99A76	3210	Pair of Nines
-99KQJ	3210	Pair of Nines
-99KQT	3210	Pair of Nines
-99KQ9	3210	Pair of Nines
-99KQ8	3210	Pair of Nines
-99KQ7	3210	Pair of Nines
-99KQ6	3210	Pair of Nines
-99KJT	3210	Pair of Nines
-99KJ9	3210	Pair of Nines
-99KJ8	3210	Pair of Nines
-99KJ7	3210	Pair of Nines
-99KJ6	3210	Pair of Nines
-99KT9	3210	Pair of Nines
-99KT8	3210	Pair of Nines
-99KT7	3210	Pair of Nines
-99KT6	3210	Pair of Nines
-99K98	3210	Pair of Nines
-99K97	3210	Pair of Nines
-99K96	3210	Pair of Nines
-99K87	3210	Pair of Nines
-99K86	3210	Pair of Nines
-99K76	3210	Pair of Nines
-99QJT	3210	Pair of Nines
-99QJ9	3210	Pair of Nines
-99QJ8	3210	Pair of Nines
-99QJ7	3210	Pair of Nines
-99QJ6	3210	Pair of Nines
-99QT9	3210	Pair of Nines
-99QT8	3210	Pair of Nines
-99QT7	3210	Pair of Nines
-99QT6	3210	Pair of Nines
-99Q98	3210	Pair of Nines
-99Q97	3210	Pair of Nines
-99Q96	3210	Pair of Nines
-99Q87	3210	Pair of Nines
-99Q86	3210	Pair of Nines
-99Q76	3210	Pair of Nines
-99JT9	3210	Pair of Nines
-99JT8	3210	Pair of Nines
-99JT7	3210	Pair of Nines
-99JT6	3210	Pair of Nines
-99J98	3210	Pair of Nines
-99J97	3210	Pair of Nines
-99J96	3210	Pair of Nines
-99J87	3210	Pair of Nines
-99J86	3210	Pair of Nines
-99J76	3210	Pair of Nines
-99T98	3210	Pair of Nines
-99T97	3210	Pair of Nines
-99T96	3210	Pair of Nines
-99T87	3210	Pair of Nines
-99T86	3210	Pair of Nines
-99T76	3210	Pair of Nines
-99987	3210	Pair of Nines
-99986	3210	Pair of Nines
-99976	3210	Pair of Nines
-99876	3210	Pair of Nines
-88AKQ	3210	Pair of Eights
-88AKJ	3210	Pair of Eights
-88AKT	3210	Pair of Eights
-88AK9	3210	Pair of Eights
-88AK8	3210	Pair of Eights
-88AK7	3210	Pair of Eights
-88AK6	3210	Pair of Eights
-88AQJ	3210	Pair of Eights
-88AQT	3210	Pair of Eights
-88AQ9	3210	Pair of Eights
-88AQ8	3210	Pair of Eights
-88AQ7	3210	Pair of Eights
-88AQ6	3210	Pair of Eights
-88AJT	3210	Pair of Eights
-88AJ9	3210	Pair of Eights
-88AJ8	3210	Pair of Eights
-88AJ7	3210	Pair of Eights
-88AJ6	3210	Pair of Eights
-88AT9	3210	Pair of Eights
-88AT8	3210	Pair of Eights
-88AT7	3210	Pair of Eights
-88AT6	3210	Pair of Eights
-88A98	3210	Pair of Eights
-88A97	3210	Pair of Eights
-88A96	3210	Pair of Eights
-88A87	3210	Pair of Eights
-88A86	3210	Pair of Eights
-88A76	3210	Pair of Eights
-88KQJ	3210	Pair of Eights
-88KQT	3210	Pair of Eights
-88KQ9	3210	Pair of Eights
-88KQ8	3210	Pair of Eights
-88KQ7	3210	Pair of Eights
-88KQ6	3210	Pair of Eights
-88KJT	3210	Pair of Eights
-88KJ9	3210	Pair of Eights
-88KJ8	3210	Pair of Eights
-88KJ7	3210	Pair of Eights
-88KJ6	3210	Pair of Eights
-88KT9	3210	Pair of Eights
-88KT8	3210	Pair of Eights
-88KT7	3210	Pair of Eights
-88KT6	3210	Pair of Eights
-88K98	3210	Pair of Eights
-88K97	3210	Pair of Eights
-88K96	3210	Pair of Eights
-88K87	3210	Pair of Eights
-88K86	3210	Pair of Eights
-88K76	3210	Pair of Eights
-88QJT	3210	Pair of Eights
-88QJ9	3210	Pair of Eights
-88QJ8	3210	Pair of Eights
-88QJ7	3210	Pair of Eights
-88QJ6	3210	Pair of Eights
-88QT9	3210	Pair of Eights
-88QT8	3210	Pair of Eights
-88QT7	3210	Pair of Eights
-88QT6	3210	Pair of Eights
-88Q98	3210	Pair of Eights
-88Q97	3210	Pair of Eights
-88Q96	3210	Pair of Eights
-88Q87	3210	Pair of Eights
-88Q86	3210	Pair of Eights
-88Q76	3210	Pair of Eights
-88JT9	3210	Pair of Eights
-88JT8	3210	Pair of Eights
-88JT7	3210	Pair of Eights
-88JT6	3210	Pair of Eights
-88J98	3210	Pair of Eights
-88J97	3210	Pair of Eights
-88J96	3210	Pair of Eights
-88J87	3210	Pair of Eights
-88J86	3210	Pair of Eights
-88J76	3210	Pair of Eights
-88T98	3210	Pair of Eights
-88T97	3210	Pair of Eights
-88T96	3210	Pair of Eights
-88T87	3210	Pair of Eights
-88T86	3210	Pair of Eights
-88T76	3210	Pair of Eights
-88987	3210	Pair of Eights
-88986	3210	Pair of Eights
-88976	3210	Pair of Eights
-88876	3210	Pair of Eights
-77AKQ	3210	Pair of Sevens
-77AKJ	3210	Pair of Sevens
-77AKT	3210	Pair of Sevens
-77AK9	3210	Pair of Sevens
-77AK8	3210	Pair of Sevens
-77AK7	3210	Pair of Sevens
-77AK6	3210	Pair of Sevens
-77AQJ	3210	Pair of Sevens
-77AQT	3210	Pair of Sevens
-77AQ9	3210	Pair of Sevens
-77AQ8	3210	Pair of Sevens
-77AQ7	3210	Pair of Sevens
-77AQ6	3210	Pair of Sevens
-77AJT	3210	Pair of Sevens
-77AJ9	3210	Pair of Sevens
-77AJ8	3210	Pair of Sevens
-77AJ7	3210	Pair of Sevens
-77AJ6	3210	Pair of Sevens
-77AT9	3210	Pair of Sevens
-77AT8	3210	Pair of Sevens
-77AT7	3210	Pair of Sevens
-77AT6	3210	Pair of Sevens
-77A98	3210	Pair of Sevens
-77A97	3210	Pair of Sevens
-77A96	3210	Pair of Sevens
-77A87	3210	Pair of Sevens
-77A86	3210	Pair of Sevens
-77A76	3210	Pair of Sevens
-77KQJ	3210	Pair of Sevens
-77KQT	3210	Pair of Sevens
-77KQ9	3210	Pair of Sevens
-77KQ8	3210	Pair of Sevens
-77KQ7	3210	Pair of Sevens
-77KQ6	3210	Pair of Sevens
-77KJT	3210	Pair of Sevens
-77KJ9	3210	Pair of Sevens
-77KJ8	3210	Pair of Sevens
-77KJ7	3210	Pair of Sevens
-77KJ6	3210	Pair of Sevens
-77KT9	3210	Pair of Sevens
-77KT8	3210	Pair of Sevens
-77KT7	3210	Pair of Sevens
-77KT6	3210	Pair of Sevens
-77K98	3210	Pair of Sevens
-77K97	3210	Pair of Sevens
-77K96	3210	Pair of Sevens
-77K87	3210	Pair of Sevens
-77K86	3210	Pair of Sevens
-77K76	3210	Pair of Sevens
-77QJT	3210	Pair of Sevens
-77QJ9	3210	Pair of Sevens
-77QJ8	3210	Pair of Sevens
-77QJ7	3210	Pair of Sevens
-77QJ6	3210	Pair of Sevens
-77QT9	3210	Pair of Sevens
-77QT8	3210	Pair of Sevens
-77QT7	3210	Pair of Sevens
-77QT6	3210	Pair of Sevens
-77Q98	3210	Pair of Sevens
-77Q97	3210	Pair of Sevens
-77Q96	3210	Pair of Sevens
-77Q87	3210	Pair of Sevens
-77Q86	3210	Pair of Sevens
-77Q76	3210	Pair of Sevens
-77JT9	3210	Pair of Sevens
-77JT8	3210	Pair of Sevens
-77JT7	3210	Pair of Sevens
-77JT6	3210	Pair of Sevens
-77J98	3210	Pair of Sevens
-77J97	3210	Pair of Sevens
-77J96	3210	Pair of Sevens
-77J87	3210	Pair of Sevens
-77J86	3210	Pair of Sevens
-77J76	3210	Pair of Sevens
-77T98	3210	Pair of Sevens
-77T97	3210	Pair of Sevens
-77T96	3210	Pair of Sevens
-77T87	3210	Pair of Sevens
-77T86	3210	Pair of Sevens
-77T76	3210	Pair of Sevens
-77987	3210	Pair of Sevens
-77986	3210	Pair of Sevens
-77976	3210	Pair of Sevens
-77876	3210	Pair of Sevens
-66AKQ	3210	Pair of Sixs
-66AKJ	3210	Pair of Sixs
-66AKT	3210	Pair of Sixs
-66AK9	3210	Pair of Sixs
-66AK8	3210	Pair of Sixs
-66AK7	3210	Pair of Sixs
-66AK6	3210	Pair of Sixs
-66AQJ	3210	Pair of Sixs
-66AQT	3210	Pair of Sixs
-66AQ9	3210	Pair of Sixs
-66AQ8	3210	Pair of Sixs
-66AQ7	3210	Pair of Sixs
-66AQ6	3210	Pair of Sixs
-66AJT	3210	Pair of Sixs
-66AJ9	3210	Pair of Sixs
-66AJ8	3210	Pair of Sixs
-66AJ7	3210	Pair of Sixs
-66AJ6	3210	Pair of Sixs
-66AT9	3210	Pair of Sixs
-66AT8	3210	Pair of Sixs
-66AT7	3210	Pair of Sixs
-66AT6	3210	Pair of Sixs
-66A98	3210	Pair of Sixs
-66A97	3210	Pair of Sixs
-66A96	3210	Pair of Sixs
-66A87	3210	Pair of Sixs
-66A86	3210	Pair of Sixs
-66A76	3210	Pair of Sixs
-66KQJ	3210	Pair of Sixs
-66KQT	3210	Pair of Sixs
-66KQ9	3210	Pair of Sixs
-66KQ8	3210	Pair of Sixs
-66KQ7	3210	Pair of Sixs
-66KQ6	3210	Pair of Sixs
-66KJT	3210	Pair of Sixs
-66KJ9	3210	Pair of Sixs
-66KJ8	3210	Pair of Sixs
-66KJ7	3210	Pair of Sixs
-66KJ6	3210	Pair of Sixs
-66KT9	3210	Pair of Sixs
-66KT8	3210	Pair of Sixs
-66KT7	3210	Pair of Sixs
-66KT6	3210	Pair of Sixs
-66K98	3210	Pair of Sixs
-66K97	3210	Pair of Sixs
-66K96	3210	Pair of Sixs
-66K87	3210	Pair of Sixs
-66K86	3210	Pair of Sixs
-66K76	3210	Pair of Sixs
-66QJT	3210	Pair of Sixs
-66QJ9	3210	Pair of Sixs
-66QJ8	3210	Pair of Sixs
-66QJ7	3210	Pair of Sixs
-66QJ6	3210	Pair of Sixs
-66QT9	3210	Pair of Sixs
-66QT8	3210	Pair of Sixs
-66QT7	3210	Pair of Sixs
-66QT6	3210	Pair of Sixs
-66Q98	3210	Pair of Sixs
-66Q97	3210	Pair of Sixs
-66Q96	3210	Pair of Sixs
-66Q87	3210	Pair of Sixs
-66Q86	3210	Pair of Sixs
-66Q76	3210	Pair of Sixs
-66JT9	3210	Pair of Sixs
-66JT8	3210	Pair of Sixs
-66JT7	3210	Pair of Sixs
-66JT6	3210	Pair of Sixs
-66J98	3210	Pair of Sixs
-66J97	3210	Pair of Sixs
-66J96	3210	Pair of Sixs
-66J87	3210	Pair of Sixs
-66J86	3210	Pair of Sixs
-66J76	3210	Pair of Sixs
-66T98	3210	Pair of Sixs
-66T97	3210	Pair of Sixs
-66T96	3210	Pair of Sixs
-66T87	3210	Pair of Sixs
-66T86	3210	Pair of Sixs
-66T76	3210	Pair of Sixs
-66987	3210	Pair of Sixs
-66986	3210	Pair of Sixs
-66976	3210	Pair of Sixs
-66876	3210	Pair of Sixs
-AKQJ9	7740	Ace-high
-AKQJ8	7740	Ace-high
-AKQJ7	7740	Ace-high
-AKQJ6	7740	Ace-high
-AKQT9	7740	Ace-high
-AKQT8	7740	Ace-high
-AKQT7	7740	Ace-high
-AKQT6	7740	Ace-high
-AKQ98	7740	Ace-high
-AKQ97	7740	Ace-high
-AKQ96	7740	Ace-high
-AKQ87	7740	Ace-high
-AKQ86	7740	Ace-high
-AKQ76	7740	Ace-high
-AKJT9	7740	Ace-high
-AKJT8	7740	Ace-high
-AKJT7	7740	Ace-high
-AKJT6	7740	Ace-high
-AKJ98	7740	Ace-high
-AKJ97	7740	Ace-high
-AKJ96	7740	Ace-high
-AKJ87	7740	Ace-high
-AKJ86	7740	Ace-high
-AKJ76	7740	Ace-high
-AKT98	7740	Ace-high
-AKT97	7740	Ace-high
-AKT96	7740	Ace-high
-AKT87	7740	Ace-high
-AKT86	7740	Ace-high
-AKT76	7740	Ace-high
-AK987	7740	Ace-high
-AK986	7740	Ace-high
-AK976	7740	Ace-high
-AK876	7740	Ace-high
-AQJT9	7740	Ace-high
-AQJT8	7740	Ace-high
-AQJT7	7740	Ace-high
-AQJT6	7740	Ace-high
-AQJ98	7740	Ace-high
-AQJ97	7740	Ace-high
-AQJ96	7740	Ace-high
-AQJ87	7740	Ace-high
-AQJ86	7740	Ace-high
-AQJ76	7740	Ace-high
-AQT98	7740	Ace-high
-AQT97	7740	Ace-high
-AQT96	7740	Ace-high
-AQT87	7740	Ace-high
-AQT86	7740	Ace-high
-AQT76	7740	Ace-high
-AQ987	7740	Ace-high
-AQ986	7740	Ace-high
-AQ976	7740	Ace-high
-AQ876	7740	Ace-high
-AJT98	7740	Ace-high
-AJT97	7740	Ace-high
-AJT96	7740	Ace-high
-AJT87	7740	Ace-high
-AJT86	7740	Ace-high
-AJT76	7740	Ace-high
-AJ987	7740	Ace-high
-AJ986	7740	Ace-high
-AJ976	7740	Ace-high
-AJ876	7740	Ace-high
-AT987	7740	Ace-high
-AT986	7740	Ace-high
-AT976	7740	Ace-high
-AT876	7740	Ace-high
-A9876	7740	Ace-high
-KQJT8	7740	King-high
-KQJT7	7740	King-high
-KQJT6	7740	King-high
-KQJ98	7740	King-high
-KQJ97	7740	King-high
-KQJ96	7740	King-high
-KQJ87	7740	King-high
-KQJ86	7740	King-high
-KQJ76	7740	King-high
-KQT98	7740	King-high
-KQT97	7740	King-high
-KQT96	7740	King-high
-KQT87	7740	King-high
-KQT86	7740	King-high
-KQT76	7740	King-high
-KQ987	7740	King-high
-KQ986	7740	King-high
-KQ976	7740	King-high
-KQ876	7740	King-high
-KJT98	7740	King-high
-KJT97	7740	King-high
-KJT96	7740	King-high
-KJT87	7740	King-high
-KJT86	7740	King-high
-KJT76	7740	King-high
-KJ987	7740	King-high
-KJ986	7740	King-high
-KJ976	7740	King-high
-KJ876	7740	King-high
-KT987	7740	King-high
-KT986	7740	King-high
-KT976	7740	King-high
-KT876	7740	King-high
-K9876	7740	King-high
-QJT97	7740	Queen-high
-QJT96	7740	Queen-high
-QJT87	7740	Queen-high
-QJT86	7740	Queen-high
-QJT76	7740	Queen-high
-QJ987	7740	Queen-high
-QJ986	7740	Queen-high
-QJ976	7740	Queen-high
-QJ876	7740	Queen-high
-QT987	7740	Queen-high
-QT986	7740	Queen-high
-QT976	7740	Queen-high
-QT876	7740	Queen-high
-Q9876	7740	Queen-high
-JT986	7740	Jack-high
-JT976	7740	Jack-high
-JT876	7740	Jack-high
-J9876	7740	Jack-high
+CLASS		# OF HANDS		CLASS NAME
+
+AKQJT		6		Ace high straight flush
+KQJT9		6		King high straight flush
+QJT98		6		Queen high straight flush
+JT987		6		Jack high straight flush
+T9876		6		Ten high straight flush
+9876A		6		Nine high straight flush
+AAAAA		6		Five Aces
+KKKKK		6		Five Kings
+QQQQQ		6		Five Queens
+JJJJJ		6		Five Jacks
+TTTTT		6		Five Tens
+99999		6		Five Nines
+88888		6		Five Eights
+77777		6		Five Sevens
+66666		6		Five Sixes
+AKQJ9		6		Ace high 5 flush
+AKQJ8		6		Ace high 5 flush
+AKQJ7		6		Ace high 5 flush
+AKQJ6		6		Ace high 5 flush
+AKQT9		6		Ace high 5 flush
+AKQT8		6		Ace high 5 flush
+AKQT7		6		Ace high 5 flush
+AKQT6		6		Ace high 5 flush
+AKQ98		6		Ace high 5 flush
+AKQ97		6		Ace high 5 flush
+AKQ96		6		Ace high 5 flush
+AKQ87		6		Ace high 5 flush
+AKQ86		6		Ace high 5 flush
+AKQ76		6		Ace high 5 flush
+AKJT9		6		Ace high 5 flush
+AKJT8		6		Ace high 5 flush
+AKJT7		6		Ace high 5 flush
+AKJT6		6		Ace high 5 flush
+AKJ98		6		Ace high 5 flush
+AKJ97		6		Ace high 5 flush
+AKJ96		6		Ace high 5 flush
+AKJ87		6		Ace high 5 flush
+AKJ86		6		Ace high 5 flush
+AKJ76		6		Ace high 5 flush
+AKT98		6		Ace high 5 flush
+AKT97		6		Ace high 5 flush
+AKT96		6		Ace high 5 flush
+AKT87		6		Ace high 5 flush
+AKT86		6		Ace high 5 flush
+AKT76		6		Ace high 5 flush
+AK987		6		Ace high 5 flush
+AK986		6		Ace high 5 flush
+AK976		6		Ace high 5 flush
+AK876		6		Ace high 5 flush
+AQJT9		6		Ace high 5 flush
+AQJT8		6		Ace high 5 flush
+AQJT7		6		Ace high 5 flush
+AQJT6		6		Ace high 5 flush
+AQJ98		6		Ace high 5 flush
+AQJ97		6		Ace high 5 flush
+AQJ96		6		Ace high 5 flush
+AQJ87		6		Ace high 5 flush
+AQJ86		6		Ace high 5 flush
+AQJ76		6		Ace high 5 flush
+AQT98		6		Ace high 5 flush
+AQT97		6		Ace high 5 flush
+AQT96		6		Ace high 5 flush
+AQT87		6		Ace high 5 flush
+AQT86		6		Ace high 5 flush
+AQT76		6		Ace high 5 flush
+AQ987		6		Ace high 5 flush
+AQ986		6		Ace high 5 flush
+AQ976		6		Ace high 5 flush
+AQ876		6		Ace high 5 flush
+AJT98		6		Ace high 5 flush
+AJT97		6		Ace high 5 flush
+AJT96		6		Ace high 5 flush
+AJT87		6		Ace high 5 flush
+AJT86		6		Ace high 5 flush
+AJT76		6		Ace high 5 flush
+AJ987		6		Ace high 5 flush
+AJ986		6		Ace high 5 flush
+AJ976		6		Ace high 5 flush
+AJ876		6		Ace high 5 flush
+AT987		6		Ace high 5 flush
+AT986		6		Ace high 5 flush
+AT976		6		Ace high 5 flush
+AT876		6		Ace high 5 flush
+KQJT8		6		King high 5 flush
+KQJT7		6		King high 5 flush
+KQJT6		6		King high 5 flush
+KQJ98		6		King high 5 flush
+KQJ97		6		King high 5 flush
+KQJ96		6		King high 5 flush
+KQJ87		6		King high 5 flush
+KQJ86		6		King high 5 flush
+KQJ76		6		King high 5 flush
+KQT98		6		King high 5 flush
+KQT97		6		King high 5 flush
+KQT96		6		King high 5 flush
+KQT87		6		King high 5 flush
+KQT86		6		King high 5 flush
+KQT76		6		King high 5 flush
+KQ987		6		King high 5 flush
+KQ986		6		King high 5 flush
+KQ976		6		King high 5 flush
+KQ876		6		King high 5 flush
+KJT98		6		King high 5 flush
+KJT97		6		King high 5 flush
+KJT96		6		King high 5 flush
+KJT87		6		King high 5 flush
+KJT86		6		King high 5 flush
+KJT76		6		King high 5 flush
+KJ987		6		King high 5 flush
+KJ986		6		King high 5 flush
+KJ976		6		King high 5 flush
+KJ876		6		King high 5 flush
+KT987		6		King high 5 flush
+KT986		6		King high 5 flush
+KT976		6		King high 5 flush
+KT876		6		King high 5 flush
+K9876		6		King high 5 flush
+QJT97		6		Queen high 5 flush
+QJT96		6		Queen high 5 flush
+QJT87		6		Queen high 5 flush
+QJT86		6		Queen high 5 flush
+QJT76		6		Queen high 5 flush
+QJ987		6		Queen high 5 flush
+QJ986		6		Queen high 5 flush
+QJ976		6		Queen high 5 flush
+QJ876		6		Queen high 5 flush
+QT987		6		Queen high 5 flush
+QT986		6		Queen high 5 flush
+QT976		6		Queen high 5 flush
+QT876		6		Queen high 5 flush
+Q9876		6		Queen high 5 flush
+JT986		6		Jack high 5 flush
+JT976		6		Jack high 5 flush
+JT876		6		Jack high 5 flush
+J9876		6		Jack high 5 flush
+AAAAK		90		Four Aces
+AAAAQ		90		Four Aces
+AAAAJ		90		Four Aces
+AAAAT		90		Four Aces
+AAAA9		90		Four Aces
+AAAA8		90		Four Aces
+AAAA7		90		Four Aces
+AAAA6		90		Four Aces
+KKKKA		90		Four Kings
+KKKKQ		90		Four Kings
+KKKKJ		90		Four Kings
+KKKKT		90		Four Kings
+KKKK9		90		Four Kings
+KKKK8		90		Four Kings
+KKKK7		90		Four Kings
+KKKK6		90		Four Kings
+QQQQA		90		Four Queens
+QQQQK		90		Four Queens
+QQQQJ		90		Four Queens
+QQQQT		90		Four Queens
+QQQQ9		90		Four Queens
+QQQQ8		90		Four Queens
+QQQQ7		90		Four Queens
+QQQQ6		90		Four Queens
+JJJJA		90		Four Jacks
+JJJJK		90		Four Jacks
+JJJJQ		90		Four Jacks
+JJJJT		90		Four Jacks
+JJJJ9		90		Four Jacks
+JJJJ8		90		Four Jacks
+JJJJ7		90		Four Jacks
+JJJJ6		90		Four Jacks
+TTTTA		90		Four Tens
+TTTTK		90		Four Tens
+TTTTQ		90		Four Tens
+TTTTJ		90		Four Tens
+TTTT9		90		Four Tens
+TTTT8		90		Four Tens
+TTTT7		90		Four Tens
+TTTT6		90		Four Tens
+9999A		90		Four Nines
+9999K		90		Four Nines
+9999Q		90		Four Nines
+9999J		90		Four Nines
+9999T		90		Four Nines
+99998		90		Four Nines
+99997		90		Four Nines
+99996		90		Four Nines
+8888A		90		Four Eights
+8888K		90		Four Eights
+8888Q		90		Four Eights
+8888J		90		Four Eights
+8888T		90		Four Eights
+88889		90		Four Eights
+88887		90		Four Eights
+88886		90		Four Eights
+7777A		90		Four Sevens
+7777K		90		Four Sevens
+7777Q		90		Four Sevens
+7777J		90		Four Sevens
+7777T		90		Four Sevens
+77779		90		Four Sevens
+77778		90		Four Sevens
+77776		90		Four Sevens
+6666A		90		Four Sixes
+6666K		90		Four Sixes
+6666Q		90		Four Sixes
+6666J		90		Four Sixes
+6666T		90		Four Sixes
+66669		90		Four Sixes
+66668		90		Four Sixes
+66667		90		Four Sixes
+AAAKK		300		Aces full of Kings
+AAAQQ		300		Aces full of Queens
+AAAJJ		300		Aces full of Jacks
+AAATT		300		Aces full of Tens
+AAA99		300		Aces full of Nines
+AAA88		300		Aces full of Eights
+AAA77		300		Aces full of Sevens
+AAA66		300		Aces full of Sixes
+KKKAA		300		Kings full of Aces
+KKKQQ		300		Kings full of Queens
+KKKJJ		300		Kings full of Jacks
+KKKTT		300		Kings full of Tens
+KKK99		300		Kings full of Nines
+KKK88		300		Kings full of Eights
+KKK77		300		Kings full of Sevens
+KKK66		300		Kings full of Sixes
+QQQAA		300		Queens full of Aces
+QQQKK		300		Queens full of Kings
+QQQJJ		300		Queens full of Jacks
+QQQTT		300		Queens full of Tens
+QQQ99		300		Queens full of Nines
+QQQ88		300		Queens full of Eights
+QQQ77		300		Queens full of Sevens
+QQQ66		300		Queens full of Sixes
+JJJAA		300		Jacks full of Aces
+JJJKK		300		Jacks full of Kings
+JJJQQ		300		Jacks full of Queens
+JJJTT		300		Jacks full of Tens
+JJJ99		300		Jacks full of Nines
+JJJ88		300		Jacks full of Eights
+JJJ77		300		Jacks full of Sevens
+JJJ66		300		Jacks full of Sixes
+TTTAA		300		Tens full of Aces
+TTTKK		300		Tens full of Kings
+TTTQQ		300		Tens full of Queens
+TTTJJ		300		Tens full of Jacks
+TTT99		300		Tens full of Nines
+TTT88		300		Tens full of Eights
+TTT77		300		Tens full of Sevens
+TTT66		300		Tens full of Sixes
+999AA		300		Nines full of Aces
+999KK		300		Nines full of Kings
+999QQ		300		Nines full of Queens
+999JJ		300		Nines full of Jacks
+999TT		300		Nines full of Tens
+99988		300		Nines full of Eights
+99977		300		Nines full of Sevens
+99966		300		Nines full of Sixes
+888AA		300		Eights full of Aces
+888KK		300		Eights full of Kings
+888QQ		300		Eights full of Queens
+888JJ		300		Eights full of Jacks
+888TT		300		Eights full of Tens
+88899		300		Eights full of Nines
+88877		300		Eights full of Sevens
+88866		300		Eights full of Sixes
+777AA		300		Sevens full of Aces
+777KK		300		Sevens full of Kings
+777QQ		300		Sevens full of Queens
+777JJ		300		Sevens full of Jacks
+777TT		300		Sevens full of Tens
+77799		300		Sevens full of Nines
+77788		300		Sevens full of Eights
+77766		300		Sevens full of Sixes
+666AA		300		Sixes full of Aces
+666KK		300		Sixes full of Kings
+666QQ		300		Sixes full of Queens
+666JJ		300		Sixes full of Jacks
+666TT		300		Sixes full of Tens
+66699		300		Sixes full of Nines
+66688		300		Sixes full of Eights
+66677		300		Sixes full of Sevens
+AKQJA		30		Ace high 4 flush
+AKQJK		30		Ace high 4 flush
+AKQJQ		30		Ace high 4 flush
+AKQJJ		30		Ace high 4 flush
+AKQJT		30		Ace high 4 flush
+AKQJ9		30		Ace high 4 flush
+AKQJ8		30		Ace high 4 flush
+AKQJ7		30		Ace high 4 flush
+AKQJ6		30		Ace high 4 flush
+AKQTA		30		Ace high 4 flush
+AKQTK		30		Ace high 4 flush
+AKQTQ		30		Ace high 4 flush
+AKQTJ		30		Ace high 4 flush
+AKQTT		30		Ace high 4 flush
+AKQT9		30		Ace high 4 flush
+AKQT8		30		Ace high 4 flush
+AKQT7		30		Ace high 4 flush
+AKQT6		30		Ace high 4 flush
+AKQ9A		30		Ace high 4 flush
+AKQ9K		30		Ace high 4 flush
+AKQ9Q		30		Ace high 4 flush
+AKQ9J		30		Ace high 4 flush
+AKQ9T		30		Ace high 4 flush
+AKQ99		30		Ace high 4 flush
+AKQ98		30		Ace high 4 flush
+AKQ97		30		Ace high 4 flush
+AKQ96		30		Ace high 4 flush
+AKQ8A		30		Ace high 4 flush
+AKQ8K		30		Ace high 4 flush
+AKQ8Q		30		Ace high 4 flush
+AKQ8J		30		Ace high 4 flush
+AKQ8T		30		Ace high 4 flush
+AKQ89		30		Ace high 4 flush
+AKQ88		30		Ace high 4 flush
+AKQ87		30		Ace high 4 flush
+AKQ86		30		Ace high 4 flush
+AKQ7A		30		Ace high 4 flush
+AKQ7K		30		Ace high 4 flush
+AKQ7Q		30		Ace high 4 flush
+AKQ7J		30		Ace high 4 flush
+AKQ7T		30		Ace high 4 flush
+AKQ79		30		Ace high 4 flush
+AKQ78		30		Ace high 4 flush
+AKQ77		30		Ace high 4 flush
+AKQ76		30		Ace high 4 flush
+AKQ6A		30		Ace high 4 flush
+AKQ6K		30		Ace high 4 flush
+AKQ6Q		30		Ace high 4 flush
+AKQ6J		30		Ace high 4 flush
+AKQ6T		30		Ace high 4 flush
+AKQ69		30		Ace high 4 flush
+AKQ68		30		Ace high 4 flush
+AKQ67		30		Ace high 4 flush
+AKQ66		30		Ace high 4 flush
+AKJTA		30		Ace high 4 flush
+AKJTK		30		Ace high 4 flush
+AKJTQ		30		Ace high 4 flush
+AKJTJ		30		Ace high 4 flush
+AKJTT		30		Ace high 4 flush
+AKJT9		30		Ace high 4 flush
+AKJT8		30		Ace high 4 flush
+AKJT7		30		Ace high 4 flush
+AKJT6		30		Ace high 4 flush
+AKJ9A		30		Ace high 4 flush
+AKJ9K		30		Ace high 4 flush
+AKJ9Q		30		Ace high 4 flush
+AKJ9J		30		Ace high 4 flush
+AKJ9T		30		Ace high 4 flush
+AKJ99		30		Ace high 4 flush
+AKJ98		30		Ace high 4 flush
+AKJ97		30		Ace high 4 flush
+AKJ96		30		Ace high 4 flush
+AKJ8A		30		Ace high 4 flush
+AKJ8K		30		Ace high 4 flush
+AKJ8Q		30		Ace high 4 flush
+AKJ8J		30		Ace high 4 flush
+AKJ8T		30		Ace high 4 flush
+AKJ89		30		Ace high 4 flush
+AKJ88		30		Ace high 4 flush
+AKJ87		30		Ace high 4 flush
+AKJ86		30		Ace high 4 flush
+AKJ7A		30		Ace high 4 flush
+AKJ7K		30		Ace high 4 flush
+AKJ7Q		30		Ace high 4 flush
+AKJ7J		30		Ace high 4 flush
+AKJ7T		30		Ace high 4 flush
+AKJ79		30		Ace high 4 flush
+AKJ78		30		Ace high 4 flush
+AKJ77		30		Ace high 4 flush
+AKJ76		30		Ace high 4 flush
+AKJ6A		30		Ace high 4 flush
+AKJ6K		30		Ace high 4 flush
+AKJ6Q		30		Ace high 4 flush
+AKJ6J		30		Ace high 4 flush
+AKJ6T		30		Ace high 4 flush
+AKJ69		30		Ace high 4 flush
+AKJ68		30		Ace high 4 flush
+AKJ67		30		Ace high 4 flush
+AKJ66		30		Ace high 4 flush
+AKT9A		30		Ace high 4 flush
+AKT9K		30		Ace high 4 flush
+AKT9Q		30		Ace high 4 flush
+AKT9J		30		Ace high 4 flush
+AKT9T		30		Ace high 4 flush
+AKT99		30		Ace high 4 flush
+AKT98		30		Ace high 4 flush
+AKT97		30		Ace high 4 flush
+AKT96		30		Ace high 4 flush
+AKT8A		30		Ace high 4 flush
+AKT8K		30		Ace high 4 flush
+AKT8Q		30		Ace high 4 flush
+AKT8J		30		Ace high 4 flush
+AKT8T		30		Ace high 4 flush
+AKT89		30		Ace high 4 flush
+AKT88		30		Ace high 4 flush
+AKT87		30		Ace high 4 flush
+AKT86		30		Ace high 4 flush
+AKT7A		30		Ace high 4 flush
+AKT7K		30		Ace high 4 flush
+AKT7Q		30		Ace high 4 flush
+AKT7J		30		Ace high 4 flush
+AKT7T		30		Ace high 4 flush
+AKT79		30		Ace high 4 flush
+AKT78		30		Ace high 4 flush
+AKT77		30		Ace high 4 flush
+AKT76		30		Ace high 4 flush
+AKT6A		30		Ace high 4 flush
+AKT6K		30		Ace high 4 flush
+AKT6Q		30		Ace high 4 flush
+AKT6J		30		Ace high 4 flush
+AKT6T		30		Ace high 4 flush
+AKT69		30		Ace high 4 flush
+AKT68		30		Ace high 4 flush
+AKT67		30		Ace high 4 flush
+AKT66		30		Ace high 4 flush
+AK98A		30		Ace high 4 flush
+AK98K		30		Ace high 4 flush
+AK98Q		30		Ace high 4 flush
+AK98J		30		Ace high 4 flush
+AK98T		30		Ace high 4 flush
+AK989		30		Ace high 4 flush
+AK988		30		Ace high 4 flush
+AK987		30		Ace high 4 flush
+AK986		30		Ace high 4 flush
+AK97A		30		Ace high 4 flush
+AK97K		30		Ace high 4 flush
+AK97Q		30		Ace high 4 flush
+AK97J		30		Ace high 4 flush
+AK97T		30		Ace high 4 flush
+AK979		30		Ace high 4 flush
+AK978		30		Ace high 4 flush
+AK977		30		Ace high 4 flush
+AK976		30		Ace high 4 flush
+AK96A		30		Ace high 4 flush
+AK96K		30		Ace high 4 flush
+AK96Q		30		Ace high 4 flush
+AK96J		30		Ace high 4 flush
+AK96T		30		Ace high 4 flush
+AK969		30		Ace high 4 flush
+AK968		30		Ace high 4 flush
+AK967		30		Ace high 4 flush
+AK966		30		Ace high 4 flush
+AK87A		30		Ace high 4 flush
+AK87K		30		Ace high 4 flush
+AK87Q		30		Ace high 4 flush
+AK87J		30		Ace high 4 flush
+AK87T		30		Ace high 4 flush
+AK879		30		Ace high 4 flush
+AK878		30		Ace high 4 flush
+AK877		30		Ace high 4 flush
+AK876		30		Ace high 4 flush
+AK86A		30		Ace high 4 flush
+AK86K		30		Ace high 4 flush
+AK86Q		30		Ace high 4 flush
+AK86J		30		Ace high 4 flush
+AK86T		30		Ace high 4 flush
+AK869		30		Ace high 4 flush
+AK868		30		Ace high 4 flush
+AK867		30		Ace high 4 flush
+AK866		30		Ace high 4 flush
+AK76A		30		Ace high 4 flush
+AK76K		30		Ace high 4 flush
+AK76Q		30		Ace high 4 flush
+AK76J		30		Ace high 4 flush
+AK76T		30		Ace high 4 flush
+AK769		30		Ace high 4 flush
+AK768		30		Ace high 4 flush
+AK767		30		Ace high 4 flush
+AK766		30		Ace high 4 flush
+AQJTA		30		Ace high 4 flush
+AQJTK		30		Ace high 4 flush
+AQJTQ		30		Ace high 4 flush
+AQJTJ		30		Ace high 4 flush
+AQJTT		30		Ace high 4 flush
+AQJT9		30		Ace high 4 flush
+AQJT8		30		Ace high 4 flush
+AQJT7		30		Ace high 4 flush
+AQJT6		30		Ace high 4 flush
+AQJ9A		30		Ace high 4 flush
+AQJ9K		30		Ace high 4 flush
+AQJ9Q		30		Ace high 4 flush
+AQJ9J		30		Ace high 4 flush
+AQJ9T		30		Ace high 4 flush
+AQJ99		30		Ace high 4 flush
+AQJ98		30		Ace high 4 flush
+AQJ97		30		Ace high 4 flush
+AQJ96		30		Ace high 4 flush
+AQJ8A		30		Ace high 4 flush
+AQJ8K		30		Ace high 4 flush
+AQJ8Q		30		Ace high 4 flush
+AQJ8J		30		Ace high 4 flush
+AQJ8T		30		Ace high 4 flush
+AQJ89		30		Ace high 4 flush
+AQJ88		30		Ace high 4 flush
+AQJ87		30		Ace high 4 flush
+AQJ86		30		Ace high 4 flush
+AQJ7A		30		Ace high 4 flush
+AQJ7K		30		Ace high 4 flush
+AQJ7Q		30		Ace high 4 flush
+AQJ7J		30		Ace high 4 flush
+AQJ7T		30		Ace high 4 flush
+AQJ79		30		Ace high 4 flush
+AQJ78		30		Ace high 4 flush
+AQJ77		30		Ace high 4 flush
+AQJ76		30		Ace high 4 flush
+AQJ6A		30		Ace high 4 flush
+AQJ6K		30		Ace high 4 flush
+AQJ6Q		30		Ace high 4 flush
+AQJ6J		30		Ace high 4 flush
+AQJ6T		30		Ace high 4 flush
+AQJ69		30		Ace high 4 flush
+AQJ68		30		Ace high 4 flush
+AQJ67		30		Ace high 4 flush
+AQJ66		30		Ace high 4 flush
+AQT9A		30		Ace high 4 flush
+AQT9K		30		Ace high 4 flush
+AQT9Q		30		Ace high 4 flush
+AQT9J		30		Ace high 4 flush
+AQT9T		30		Ace high 4 flush
+AQT99		30		Ace high 4 flush
+AQT98		30		Ace high 4 flush
+AQT97		30		Ace high 4 flush
+AQT96		30		Ace high 4 flush
+AQT8A		30		Ace high 4 flush
+AQT8K		30		Ace high 4 flush
+AQT8Q		30		Ace high 4 flush
+AQT8J		30		Ace high 4 flush
+AQT8T		30		Ace high 4 flush
+AQT89		30		Ace high 4 flush
+AQT88		30		Ace high 4 flush
+AQT87		30		Ace high 4 flush
+AQT86		30		Ace high 4 flush
+AQT7A		30		Ace high 4 flush
+AQT7K		30		Ace high 4 flush
+AQT7Q		30		Ace high 4 flush
+AQT7J		30		Ace high 4 flush
+AQT7T		30		Ace high 4 flush
+AQT79		30		Ace high 4 flush
+AQT78		30		Ace high 4 flush
+AQT77		30		Ace high 4 flush
+AQT76		30		Ace high 4 flush
+AQT6A		30		Ace high 4 flush
+AQT6K		30		Ace high 4 flush
+AQT6Q		30		Ace high 4 flush
+AQT6J		30		Ace high 4 flush
+AQT6T		30		Ace high 4 flush
+AQT69		30		Ace high 4 flush
+AQT68		30		Ace high 4 flush
+AQT67		30		Ace high 4 flush
+AQT66		30		Ace high 4 flush
+AQ98A		30		Ace high 4 flush
+AQ98K		30		Ace high 4 flush
+AQ98Q		30		Ace high 4 flush
+AQ98J		30		Ace high 4 flush
+AQ98T		30		Ace high 4 flush
+AQ989		30		Ace high 4 flush
+AQ988		30		Ace high 4 flush
+AQ987		30		Ace high 4 flush
+AQ986		30		Ace high 4 flush
+AQ97A		30		Ace high 4 flush
+AQ97K		30		Ace high 4 flush
+AQ97Q		30		Ace high 4 flush
+AQ97J		30		Ace high 4 flush
+AQ97T		30		Ace high 4 flush
+AQ979		30		Ace high 4 flush
+AQ978		30		Ace high 4 flush
+AQ977		30		Ace high 4 flush
+AQ976		30		Ace high 4 flush
+AQ96A		30		Ace high 4 flush
+AQ96K		30		Ace high 4 flush
+AQ96Q		30		Ace high 4 flush
+AQ96J		30		Ace high 4 flush
+AQ96T		30		Ace high 4 flush
+AQ969		30		Ace high 4 flush
+AQ968		30		Ace high 4 flush
+AQ967		30		Ace high 4 flush
+AQ966		30		Ace high 4 flush
+AQ87A		30		Ace high 4 flush
+AQ87K		30		Ace high 4 flush
+AQ87Q		30		Ace high 4 flush
+AQ87J		30		Ace high 4 flush
+AQ87T		30		Ace high 4 flush
+AQ879		30		Ace high 4 flush
+AQ878		30		Ace high 4 flush
+AQ877		30		Ace high 4 flush
+AQ876		30		Ace high 4 flush
+AQ86A		30		Ace high 4 flush
+AQ86K		30		Ace high 4 flush
+AQ86Q		30		Ace high 4 flush
+AQ86J		30		Ace high 4 flush
+AQ86T		30		Ace high 4 flush
+AQ869		30		Ace high 4 flush
+AQ868		30		Ace high 4 flush
+AQ867		30		Ace high 4 flush
+AQ866		30		Ace high 4 flush
+AQ76A		30		Ace high 4 flush
+AQ76K		30		Ace high 4 flush
+AQ76Q		30		Ace high 4 flush
+AQ76J		30		Ace high 4 flush
+AQ76T		30		Ace high 4 flush
+AQ769		30		Ace high 4 flush
+AQ768		30		Ace high 4 flush
+AQ767		30		Ace high 4 flush
+AQ766		30		Ace high 4 flush
+AJT9A		30		Ace high 4 flush
+AJT9K		30		Ace high 4 flush
+AJT9Q		30		Ace high 4 flush
+AJT9J		30		Ace high 4 flush
+AJT9T		30		Ace high 4 flush
+AJT99		30		Ace high 4 flush
+AJT98		30		Ace high 4 flush
+AJT97		30		Ace high 4 flush
+AJT96		30		Ace high 4 flush
+AJT8A		30		Ace high 4 flush
+AJT8K		30		Ace high 4 flush
+AJT8Q		30		Ace high 4 flush
+AJT8J		30		Ace high 4 flush
+AJT8T		30		Ace high 4 flush
+AJT89		30		Ace high 4 flush
+AJT88		30		Ace high 4 flush
+AJT87		30		Ace high 4 flush
+AJT86		30		Ace high 4 flush
+AJT7A		30		Ace high 4 flush
+AJT7K		30		Ace high 4 flush
+AJT7Q		30		Ace high 4 flush
+AJT7J		30		Ace high 4 flush
+AJT7T		30		Ace high 4 flush
+AJT79		30		Ace high 4 flush
+AJT78		30		Ace high 4 flush
+AJT77		30		Ace high 4 flush
+AJT76		30		Ace high 4 flush
+AJT6A		30		Ace high 4 flush
+AJT6K		30		Ace high 4 flush
+AJT6Q		30		Ace high 4 flush
+AJT6J		30		Ace high 4 flush
+AJT6T		30		Ace high 4 flush
+AJT69		30		Ace high 4 flush
+AJT68		30		Ace high 4 flush
+AJT67		30		Ace high 4 flush
+AJT66		30		Ace high 4 flush
+AJ98A		30		Ace high 4 flush
+AJ98K		30		Ace high 4 flush
+AJ98Q		30		Ace high 4 flush
+AJ98J		30		Ace high 4 flush
+AJ98T		30		Ace high 4 flush
+AJ989		30		Ace high 4 flush
+AJ988		30		Ace high 4 flush
+AJ987		30		Ace high 4 flush
+AJ986		30		Ace high 4 flush
+AJ97A		30		Ace high 4 flush
+AJ97K		30		Ace high 4 flush
+AJ97Q		30		Ace high 4 flush
+AJ97J		30		Ace high 4 flush
+AJ97T		30		Ace high 4 flush
+AJ979		30		Ace high 4 flush
+AJ978		30		Ace high 4 flush
+AJ977		30		Ace high 4 flush
+AJ976		30		Ace high 4 flush
+AJ96A		30		Ace high 4 flush
+AJ96K		30		Ace high 4 flush
+AJ96Q		30		Ace high 4 flush
+AJ96J		30		Ace high 4 flush
+AJ96T		30		Ace high 4 flush
+AJ969		30		Ace high 4 flush
+AJ968		30		Ace high 4 flush
+AJ967		30		Ace high 4 flush
+AJ966		30		Ace high 4 flush
+AJ87A		30		Ace high 4 flush
+AJ87K		30		Ace high 4 flush
+AJ87Q		30		Ace high 4 flush
+AJ87J		30		Ace high 4 flush
+AJ87T		30		Ace high 4 flush
+AJ879		30		Ace high 4 flush
+AJ878		30		Ace high 4 flush
+AJ877		30		Ace high 4 flush
+AJ876		30		Ace high 4 flush
+AJ86A		30		Ace high 4 flush
+AJ86K		30		Ace high 4 flush
+AJ86Q		30		Ace high 4 flush
+AJ86J		30		Ace high 4 flush
+AJ86T		30		Ace high 4 flush
+AJ869		30		Ace high 4 flush
+AJ868		30		Ace high 4 flush
+AJ867		30		Ace high 4 flush
+AJ866		30		Ace high 4 flush
+AJ76A		30		Ace high 4 flush
+AJ76K		30		Ace high 4 flush
+AJ76Q		30		Ace high 4 flush
+AJ76J		30		Ace high 4 flush
+AJ76T		30		Ace high 4 flush
+AJ769		30		Ace high 4 flush
+AJ768		30		Ace high 4 flush
+AJ767		30		Ace high 4 flush
+AJ766		30		Ace high 4 flush
+AT98A		30		Ace high 4 flush
+AT98K		30		Ace high 4 flush
+AT98Q		30		Ace high 4 flush
+AT98J		30		Ace high 4 flush
+AT98T		30		Ace high 4 flush
+AT989		30		Ace high 4 flush
+AT988		30		Ace high 4 flush
+AT987		30		Ace high 4 flush
+AT986		30		Ace high 4 flush
+AT97A		30		Ace high 4 flush
+AT97K		30		Ace high 4 flush
+AT97Q		30		Ace high 4 flush
+AT97J		30		Ace high 4 flush
+AT97T		30		Ace high 4 flush
+AT979		30		Ace high 4 flush
+AT978		30		Ace high 4 flush
+AT977		30		Ace high 4 flush
+AT976		30		Ace high 4 flush
+AT96A		30		Ace high 4 flush
+AT96K		30		Ace high 4 flush
+AT96Q		30		Ace high 4 flush
+AT96J		30		Ace high 4 flush
+AT96T		30		Ace high 4 flush
+AT969		30		Ace high 4 flush
+AT968		30		Ace high 4 flush
+AT967		30		Ace high 4 flush
+AT966		30		Ace high 4 flush
+AT87A		30		Ace high 4 flush
+AT87K		30		Ace high 4 flush
+AT87Q		30		Ace high 4 flush
+AT87J		30		Ace high 4 flush
+AT87T		30		Ace high 4 flush
+AT879		30		Ace high 4 flush
+AT878		30		Ace high 4 flush
+AT877		30		Ace high 4 flush
+AT876		30		Ace high 4 flush
+AT86A		30		Ace high 4 flush
+AT86K		30		Ace high 4 flush
+AT86Q		30		Ace high 4 flush
+AT86J		30		Ace high 4 flush
+AT86T		30		Ace high 4 flush
+AT869		30		Ace high 4 flush
+AT868		30		Ace high 4 flush
+AT867		30		Ace high 4 flush
+AT866		30		Ace high 4 flush
+AT76A		30		Ace high 4 flush
+AT76K		30		Ace high 4 flush
+AT76Q		30		Ace high 4 flush
+AT76J		30		Ace high 4 flush
+AT76T		30		Ace high 4 flush
+AT769		30		Ace high 4 flush
+AT768		30		Ace high 4 flush
+AT767		30		Ace high 4 flush
+AT766		30		Ace high 4 flush
+A987A		30		Ace high 4 flush
+A987K		30		Ace high 4 flush
+A987Q		30		Ace high 4 flush
+A987J		30		Ace high 4 flush
+A987T		30		Ace high 4 flush
+A9879		30		Ace high 4 flush
+A9878		30		Ace high 4 flush
+A9877		30		Ace high 4 flush
+A9876		30		Ace high 4 flush
+A986A		30		Ace high 4 flush
+A986K		30		Ace high 4 flush
+A986Q		30		Ace high 4 flush
+A986J		30		Ace high 4 flush
+A986T		30		Ace high 4 flush
+A9869		30		Ace high 4 flush
+A9868		30		Ace high 4 flush
+A9867		30		Ace high 4 flush
+A9866		30		Ace high 4 flush
+A976A		30		Ace high 4 flush
+A976K		30		Ace high 4 flush
+A976Q		30		Ace high 4 flush
+A976J		30		Ace high 4 flush
+A976T		30		Ace high 4 flush
+A9769		30		Ace high 4 flush
+A9768		30		Ace high 4 flush
+A9767		30		Ace high 4 flush
+A9766		30		Ace high 4 flush
+A876A		30		Ace high 4 flush
+A876K		30		Ace high 4 flush
+A876Q		30		Ace high 4 flush
+A876J		30		Ace high 4 flush
+A876T		30		Ace high 4 flush
+A8769		30		Ace high 4 flush
+A8768		30		Ace high 4 flush
+A8767		30		Ace high 4 flush
+A8766		30		Ace high 4 flush
+KQJTA		30		King high 4 flush
+KQJTK		30		King high 4 flush
+KQJTQ		30		King high 4 flush
+KQJTJ		30		King high 4 flush
+KQJTT		30		King high 4 flush
+KQJT9		30		King high 4 flush
+KQJT8		30		King high 4 flush
+KQJT7		30		King high 4 flush
+KQJT6		30		King high 4 flush
+KQJ9A		30		King high 4 flush
+KQJ9K		30		King high 4 flush
+KQJ9Q		30		King high 4 flush
+KQJ9J		30		King high 4 flush
+KQJ9T		30		King high 4 flush
+KQJ99		30		King high 4 flush
+KQJ98		30		King high 4 flush
+KQJ97		30		King high 4 flush
+KQJ96		30		King high 4 flush
+KQJ8A		30		King high 4 flush
+KQJ8K		30		King high 4 flush
+KQJ8Q		30		King high 4 flush
+KQJ8J		30		King high 4 flush
+KQJ8T		30		King high 4 flush
+KQJ89		30		King high 4 flush
+KQJ88		30		King high 4 flush
+KQJ87		30		King high 4 flush
+KQJ86		30		King high 4 flush
+KQJ7A		30		King high 4 flush
+KQJ7K		30		King high 4 flush
+KQJ7Q		30		King high 4 flush
+KQJ7J		30		King high 4 flush
+KQJ7T		30		King high 4 flush
+KQJ79		30		King high 4 flush
+KQJ78		30		King high 4 flush
+KQJ77		30		King high 4 flush
+KQJ76		30		King high 4 flush
+KQJ6A		30		King high 4 flush
+KQJ6K		30		King high 4 flush
+KQJ6Q		30		King high 4 flush
+KQJ6J		30		King high 4 flush
+KQJ6T		30		King high 4 flush
+KQJ69		30		King high 4 flush
+KQJ68		30		King high 4 flush
+KQJ67		30		King high 4 flush
+KQJ66		30		King high 4 flush
+KQT9A		30		King high 4 flush
+KQT9K		30		King high 4 flush
+KQT9Q		30		King high 4 flush
+KQT9J		30		King high 4 flush
+KQT9T		30		King high 4 flush
+KQT99		30		King high 4 flush
+KQT98		30		King high 4 flush
+KQT97		30		King high 4 flush
+KQT96		30		King high 4 flush
+KQT8A		30		King high 4 flush
+KQT8K		30		King high 4 flush
+KQT8Q		30		King high 4 flush
+KQT8J		30		King high 4 flush
+KQT8T		30		King high 4 flush
+KQT89		30		King high 4 flush
+KQT88		30		King high 4 flush
+KQT87		30		King high 4 flush
+KQT86		30		King high 4 flush
+KQT7A		30		King high 4 flush
+KQT7K		30		King high 4 flush
+KQT7Q		30		King high 4 flush
+KQT7J		30		King high 4 flush
+KQT7T		30		King high 4 flush
+KQT79		30		King high 4 flush
+KQT78		30		King high 4 flush
+KQT77		30		King high 4 flush
+KQT76		30		King high 4 flush
+KQT6A		30		King high 4 flush
+KQT6K		30		King high 4 flush
+KQT6Q		30		King high 4 flush
+KQT6J		30		King high 4 flush
+KQT6T		30		King high 4 flush
+KQT69		30		King high 4 flush
+KQT68		30		King high 4 flush
+KQT67		30		King high 4 flush
+KQT66		30		King high 4 flush
+KQ98A		30		King high 4 flush
+KQ98K		30		King high 4 flush
+KQ98Q		30		King high 4 flush
+KQ98J		30		King high 4 flush
+KQ98T		30		King high 4 flush
+KQ989		30		King high 4 flush
+KQ988		30		King high 4 flush
+KQ987		30		King high 4 flush
+KQ986		30		King high 4 flush
+KQ97A		30		King high 4 flush
+KQ97K		30		King high 4 flush
+KQ97Q		30		King high 4 flush
+KQ97J		30		King high 4 flush
+KQ97T		30		King high 4 flush
+KQ979		30		King high 4 flush
+KQ978		30		King high 4 flush
+KQ977		30		King high 4 flush
+KQ976		30		King high 4 flush
+KQ96A		30		King high 4 flush
+KQ96K		30		King high 4 flush
+KQ96Q		30		King high 4 flush
+KQ96J		30		King high 4 flush
+KQ96T		30		King high 4 flush
+KQ969		30		King high 4 flush
+KQ968		30		King high 4 flush
+KQ967		30		King high 4 flush
+KQ966		30		King high 4 flush
+KQ87A		30		King high 4 flush
+KQ87K		30		King high 4 flush
+KQ87Q		30		King high 4 flush
+KQ87J		30		King high 4 flush
+KQ87T		30		King high 4 flush
+KQ879		30		King high 4 flush
+KQ878		30		King high 4 flush
+KQ877		30		King high 4 flush
+KQ876		30		King high 4 flush
+KQ86A		30		King high 4 flush
+KQ86K		30		King high 4 flush
+KQ86Q		30		King high 4 flush
+KQ86J		30		King high 4 flush
+KQ86T		30		King high 4 flush
+KQ869		30		King high 4 flush
+KQ868		30		King high 4 flush
+KQ867		30		King high 4 flush
+KQ866		30		King high 4 flush
+KQ76A		30		King high 4 flush
+KQ76K		30		King high 4 flush
+KQ76Q		30		King high 4 flush
+KQ76J		30		King high 4 flush
+KQ76T		30		King high 4 flush
+KQ769		30		King high 4 flush
+KQ768		30		King high 4 flush
+KQ767		30		King high 4 flush
+KQ766		30		King high 4 flush
+KJT9A		30		King high 4 flush
+KJT9K		30		King high 4 flush
+KJT9Q		30		King high 4 flush
+KJT9J		30		King high 4 flush
+KJT9T		30		King high 4 flush
+KJT99		30		King high 4 flush
+KJT98		30		King high 4 flush
+KJT97		30		King high 4 flush
+KJT96		30		King high 4 flush
+KJT8A		30		King high 4 flush
+KJT8K		30		King high 4 flush
+KJT8Q		30		King high 4 flush
+KJT8J		30		King high 4 flush
+KJT8T		30		King high 4 flush
+KJT89		30		King high 4 flush
+KJT88		30		King high 4 flush
+KJT87		30		King high 4 flush
+KJT86		30		King high 4 flush
+KJT7A		30		King high 4 flush
+KJT7K		30		King high 4 flush
+KJT7Q		30		King high 4 flush
+KJT7J		30		King high 4 flush
+KJT7T		30		King high 4 flush
+KJT79		30		King high 4 flush
+KJT78		30		King high 4 flush
+KJT77		30		King high 4 flush
+KJT76		30		King high 4 flush
+KJT6A		30		King high 4 flush
+KJT6K		30		King high 4 flush
+KJT6Q		30		King high 4 flush
+KJT6J		30		King high 4 flush
+KJT6T		30		King high 4 flush
+KJT69		30		King high 4 flush
+KJT68		30		King high 4 flush
+KJT67		30		King high 4 flush
+KJT66		30		King high 4 flush
+KJ98A		30		King high 4 flush
+KJ98K		30		King high 4 flush
+KJ98Q		30		King high 4 flush
+KJ98J		30		King high 4 flush
+KJ98T		30		King high 4 flush
+KJ989		30		King high 4 flush
+KJ988		30		King high 4 flush
+KJ987		30		King high 4 flush
+KJ986		30		King high 4 flush
+KJ97A		30		King high 4 flush
+KJ97K		30		King high 4 flush
+KJ97Q		30		King high 4 flush
+KJ97J		30		King high 4 flush
+KJ97T		30		King high 4 flush
+KJ979		30		King high 4 flush
+KJ978		30		King high 4 flush
+KJ977		30		King high 4 flush
+KJ976		30		King high 4 flush
+KJ96A		30		King high 4 flush
+KJ96K		30		King high 4 flush
+KJ96Q		30		King high 4 flush
+KJ96J		30		King high 4 flush
+KJ96T		30		King high 4 flush
+KJ969		30		King high 4 flush
+KJ968		30		King high 4 flush
+KJ967		30		King high 4 flush
+KJ966		30		King high 4 flush
+KJ87A		30		King high 4 flush
+KJ87K		30		King high 4 flush
+KJ87Q		30		King high 4 flush
+KJ87J		30		King high 4 flush
+KJ87T		30		King high 4 flush
+KJ879		30		King high 4 flush
+KJ878		30		King high 4 flush
+KJ877		30		King high 4 flush
+KJ876		30		King high 4 flush
+KJ86A		30		King high 4 flush
+KJ86K		30		King high 4 flush
+KJ86Q		30		King high 4 flush
+KJ86J		30		King high 4 flush
+KJ86T		30		King high 4 flush
+KJ869		30		King high 4 flush
+KJ868		30		King high 4 flush
+KJ867		30		King high 4 flush
+KJ866		30		King high 4 flush
+KJ76A		30		King high 4 flush
+KJ76K		30		King high 4 flush
+KJ76Q		30		King high 4 flush
+KJ76J		30		King high 4 flush
+KJ76T		30		King high 4 flush
+KJ769		30		King high 4 flush
+KJ768		30		King high 4 flush
+KJ767		30		King high 4 flush
+KJ766		30		King high 4 flush
+KT98A		30		King high 4 flush
+KT98K		30		King high 4 flush
+KT98Q		30		King high 4 flush
+KT98J		30		King high 4 flush
+KT98T		30		King high 4 flush
+KT989		30		King high 4 flush
+KT988		30		King high 4 flush
+KT987		30		King high 4 flush
+KT986		30		King high 4 flush
+KT97A		30		King high 4 flush
+KT97K		30		King high 4 flush
+KT97Q		30		King high 4 flush
+KT97J		30		King high 4 flush
+KT97T		30		King high 4 flush
+KT979		30		King high 4 flush
+KT978		30		King high 4 flush
+KT977		30		King high 4 flush
+KT976		30		King high 4 flush
+KT96A		30		King high 4 flush
+KT96K		30		King high 4 flush
+KT96Q		30		King high 4 flush
+KT96J		30		King high 4 flush
+KT96T		30		King high 4 flush
+KT969		30		King high 4 flush
+KT968		30		King high 4 flush
+KT967		30		King high 4 flush
+KT966		30		King high 4 flush
+KT87A		30		King high 4 flush
+KT87K		30		King high 4 flush
+KT87Q		30		King high 4 flush
+KT87J		30		King high 4 flush
+KT87T		30		King high 4 flush
+KT879		30		King high 4 flush
+KT878		30		King high 4 flush
+KT877		30		King high 4 flush
+KT876		30		King high 4 flush
+KT86A		30		King high 4 flush
+KT86K		30		King high 4 flush
+KT86Q		30		King high 4 flush
+KT86J		30		King high 4 flush
+KT86T		30		King high 4 flush
+KT869		30		King high 4 flush
+KT868		30		King high 4 flush
+KT867		30		King high 4 flush
+KT866		30		King high 4 flush
+KT76A		30		King high 4 flush
+KT76K		30		King high 4 flush
+KT76Q		30		King high 4 flush
+KT76J		30		King high 4 flush
+KT76T		30		King high 4 flush
+KT769		30		King high 4 flush
+KT768		30		King high 4 flush
+KT767		30		King high 4 flush
+KT766		30		King high 4 flush
+K987A		30		King high 4 flush
+K987K		30		King high 4 flush
+K987Q		30		King high 4 flush
+K987J		30		King high 4 flush
+K987T		30		King high 4 flush
+K9879		30		King high 4 flush
+K9878		30		King high 4 flush
+K9877		30		King high 4 flush
+K9876		30		King high 4 flush
+K986A		30		King high 4 flush
+K986K		30		King high 4 flush
+K986Q		30		King high 4 flush
+K986J		30		King high 4 flush
+K986T		30		King high 4 flush
+K9869		30		King high 4 flush
+K9868		30		King high 4 flush
+K9867		30		King high 4 flush
+K9866		30		King high 4 flush
+K976A		30		King high 4 flush
+K976K		30		King high 4 flush
+K976Q		30		King high 4 flush
+K976J		30		King high 4 flush
+K976T		30		King high 4 flush
+K9769		30		King high 4 flush
+K9768		30		King high 4 flush
+K9767		30		King high 4 flush
+K9766		30		King high 4 flush
+K876A		30		King high 4 flush
+K876K		30		King high 4 flush
+K876Q		30		King high 4 flush
+K876J		30		King high 4 flush
+K876T		30		King high 4 flush
+K8769		30		King high 4 flush
+K8768		30		King high 4 flush
+K8767		30		King high 4 flush
+K8766		30		King high 4 flush
+QJT9A		30		Queen high 4 flush
+QJT9K		30		Queen high 4 flush
+QJT9Q		30		Queen high 4 flush
+QJT9J		30		Queen high 4 flush
+QJT9T		30		Queen high 4 flush
+QJT99		30		Queen high 4 flush
+QJT98		30		Queen high 4 flush
+QJT97		30		Queen high 4 flush
+QJT96		30		Queen high 4 flush
+QJT8A		30		Queen high 4 flush
+QJT8K		30		Queen high 4 flush
+QJT8Q		30		Queen high 4 flush
+QJT8J		30		Queen high 4 flush
+QJT8T		30		Queen high 4 flush
+QJT89		30		Queen high 4 flush
+QJT88		30		Queen high 4 flush
+QJT87		30		Queen high 4 flush
+QJT86		30		Queen high 4 flush
+QJT7A		30		Queen high 4 flush
+QJT7K		30		Queen high 4 flush
+QJT7Q		30		Queen high 4 flush
+QJT7J		30		Queen high 4 flush
+QJT7T		30		Queen high 4 flush
+QJT79		30		Queen high 4 flush
+QJT78		30		Queen high 4 flush
+QJT77		30		Queen high 4 flush
+QJT76		30		Queen high 4 flush
+QJT6A		30		Queen high 4 flush
+QJT6K		30		Queen high 4 flush
+QJT6Q		30		Queen high 4 flush
+QJT6J		30		Queen high 4 flush
+QJT6T		30		Queen high 4 flush
+QJT69		30		Queen high 4 flush
+QJT68		30		Queen high 4 flush
+QJT67		30		Queen high 4 flush
+QJT66		30		Queen high 4 flush
+QJ98A		30		Queen high 4 flush
+QJ98K		30		Queen high 4 flush
+QJ98Q		30		Queen high 4 flush
+QJ98J		30		Queen high 4 flush
+QJ98T		30		Queen high 4 flush
+QJ989		30		Queen high 4 flush
+QJ988		30		Queen high 4 flush
+QJ987		30		Queen high 4 flush
+QJ986		30		Queen high 4 flush
+QJ97A		30		Queen high 4 flush
+QJ97K		30		Queen high 4 flush
+QJ97Q		30		Queen high 4 flush
+QJ97J		30		Queen high 4 flush
+QJ97T		30		Queen high 4 flush
+QJ979		30		Queen high 4 flush
+QJ978		30		Queen high 4 flush
+QJ977		30		Queen high 4 flush
+QJ976		30		Queen high 4 flush
+QJ96A		30		Queen high 4 flush
+QJ96K		30		Queen high 4 flush
+QJ96Q		30		Queen high 4 flush
+QJ96J		30		Queen high 4 flush
+QJ96T		30		Queen high 4 flush
+QJ969		30		Queen high 4 flush
+QJ968		30		Queen high 4 flush
+QJ967		30		Queen high 4 flush
+QJ966		30		Queen high 4 flush
+QJ87A		30		Queen high 4 flush
+QJ87K		30		Queen high 4 flush
+QJ87Q		30		Queen high 4 flush
+QJ87J		30		Queen high 4 flush
+QJ87T		30		Queen high 4 flush
+QJ879		30		Queen high 4 flush
+QJ878		30		Queen high 4 flush
+QJ877		30		Queen high 4 flush
+QJ876		30		Queen high 4 flush
+QJ86A		30		Queen high 4 flush
+QJ86K		30		Queen high 4 flush
+QJ86Q		30		Queen high 4 flush
+QJ86J		30		Queen high 4 flush
+QJ86T		30		Queen high 4 flush
+QJ869		30		Queen high 4 flush
+QJ868		30		Queen high 4 flush
+QJ867		30		Queen high 4 flush
+QJ866		30		Queen high 4 flush
+QJ76A		30		Queen high 4 flush
+QJ76K		30		Queen high 4 flush
+QJ76Q		30		Queen high 4 flush
+QJ76J		30		Queen high 4 flush
+QJ76T		30		Queen high 4 flush
+QJ769		30		Queen high 4 flush
+QJ768		30		Queen high 4 flush
+QJ767		30		Queen high 4 flush
+QJ766		30		Queen high 4 flush
+QT98A		30		Queen high 4 flush
+QT98K		30		Queen high 4 flush
+QT98Q		30		Queen high 4 flush
+QT98J		30		Queen high 4 flush
+QT98T		30		Queen high 4 flush
+QT989		30		Queen high 4 flush
+QT988		30		Queen high 4 flush
+QT987		30		Queen high 4 flush
+QT986		30		Queen high 4 flush
+QT97A		30		Queen high 4 flush
+QT97K		30		Queen high 4 flush
+QT97Q		30		Queen high 4 flush
+QT97J		30		Queen high 4 flush
+QT97T		30		Queen high 4 flush
+QT979		30		Queen high 4 flush
+QT978		30		Queen high 4 flush
+QT977		30		Queen high 4 flush
+QT976		30		Queen high 4 flush
+QT96A		30		Queen high 4 flush
+QT96K		30		Queen high 4 flush
+QT96Q		30		Queen high 4 flush
+QT96J		30		Queen high 4 flush
+QT96T		30		Queen high 4 flush
+QT969		30		Queen high 4 flush
+QT968		30		Queen high 4 flush
+QT967		30		Queen high 4 flush
+QT966		30		Queen high 4 flush
+QT87A		30		Queen high 4 flush
+QT87K		30		Queen high 4 flush
+QT87Q		30		Queen high 4 flush
+QT87J		30		Queen high 4 flush
+QT87T		30		Queen high 4 flush
+QT879		30		Queen high 4 flush
+QT878		30		Queen high 4 flush
+QT877		30		Queen high 4 flush
+QT876		30		Queen high 4 flush
+QT86A		30		Queen high 4 flush
+QT86K		30		Queen high 4 flush
+QT86Q		30		Queen high 4 flush
+QT86J		30		Queen high 4 flush
+QT86T		30		Queen high 4 flush
+QT869		30		Queen high 4 flush
+QT868		30		Queen high 4 flush
+QT867		30		Queen high 4 flush
+QT866		30		Queen high 4 flush
+QT76A		30		Queen high 4 flush
+QT76K		30		Queen high 4 flush
+QT76Q		30		Queen high 4 flush
+QT76J		30		Queen high 4 flush
+QT76T		30		Queen high 4 flush
+QT769		30		Queen high 4 flush
+QT768		30		Queen high 4 flush
+QT767		30		Queen high 4 flush
+QT766		30		Queen high 4 flush
+Q987A		30		Queen high 4 flush
+Q987K		30		Queen high 4 flush
+Q987Q		30		Queen high 4 flush
+Q987J		30		Queen high 4 flush
+Q987T		30		Queen high 4 flush
+Q9879		30		Queen high 4 flush
+Q9878		30		Queen high 4 flush
+Q9877		30		Queen high 4 flush
+Q9876		30		Queen high 4 flush
+Q986A		30		Queen high 4 flush
+Q986K		30		Queen high 4 flush
+Q986Q		30		Queen high 4 flush
+Q986J		30		Queen high 4 flush
+Q986T		30		Queen high 4 flush
+Q9869		30		Queen high 4 flush
+Q9868		30		Queen high 4 flush
+Q9867		30		Queen high 4 flush
+Q9866		30		Queen high 4 flush
+Q976A		30		Queen high 4 flush
+Q976K		30		Queen high 4 flush
+Q976Q		30		Queen high 4 flush
+Q976J		30		Queen high 4 flush
+Q976T		30		Queen high 4 flush
+Q9769		30		Queen high 4 flush
+Q9768		30		Queen high 4 flush
+Q9767		30		Queen high 4 flush
+Q9766		30		Queen high 4 flush
+Q876A		30		Queen high 4 flush
+Q876K		30		Queen high 4 flush
+Q876Q		30		Queen high 4 flush
+Q876J		30		Queen high 4 flush
+Q876T		30		Queen high 4 flush
+Q8769		30		Queen high 4 flush
+Q8768		30		Queen high 4 flush
+Q8767		30		Queen high 4 flush
+Q8766		30		Queen high 4 flush
+JT98A		30		Jack high 4 flush
+JT98K		30		Jack high 4 flush
+JT98Q		30		Jack high 4 flush
+JT98J		30		Jack high 4 flush
+JT98T		30		Jack high 4 flush
+JT989		30		Jack high 4 flush
+JT988		30		Jack high 4 flush
+JT987		30		Jack high 4 flush
+JT986		30		Jack high 4 flush
+JT97A		30		Jack high 4 flush
+JT97K		30		Jack high 4 flush
+JT97Q		30		Jack high 4 flush
+JT97J		30		Jack high 4 flush
+JT97T		30		Jack high 4 flush
+JT979		30		Jack high 4 flush
+JT978		30		Jack high 4 flush
+JT977		30		Jack high 4 flush
+JT976		30		Jack high 4 flush
+JT96A		30		Jack high 4 flush
+JT96K		30		Jack high 4 flush
+JT96Q		30		Jack high 4 flush
+JT96J		30		Jack high 4 flush
+JT96T		30		Jack high 4 flush
+JT969		30		Jack high 4 flush
+JT968		30		Jack high 4 flush
+JT967		30		Jack high 4 flush
+JT966		30		Jack high 4 flush
+JT87A		30		Jack high 4 flush
+JT87K		30		Jack high 4 flush
+JT87Q		30		Jack high 4 flush
+JT87J		30		Jack high 4 flush
+JT87T		30		Jack high 4 flush
+JT879		30		Jack high 4 flush
+JT878		30		Jack high 4 flush
+JT877		30		Jack high 4 flush
+JT876		30		Jack high 4 flush
+JT86A		30		Jack high 4 flush
+JT86K		30		Jack high 4 flush
+JT86Q		30		Jack high 4 flush
+JT86J		30		Jack high 4 flush
+JT86T		30		Jack high 4 flush
+JT869		30		Jack high 4 flush
+JT868		30		Jack high 4 flush
+JT867		30		Jack high 4 flush
+JT866		30		Jack high 4 flush
+JT76A		30		Jack high 4 flush
+JT76K		30		Jack high 4 flush
+JT76Q		30		Jack high 4 flush
+JT76J		30		Jack high 4 flush
+JT76T		30		Jack high 4 flush
+JT769		30		Jack high 4 flush
+JT768		30		Jack high 4 flush
+JT767		30		Jack high 4 flush
+JT766		30		Jack high 4 flush
+J987A		30		Jack high 4 flush
+J987K		30		Jack high 4 flush
+J987Q		30		Jack high 4 flush
+J987J		30		Jack high 4 flush
+J987T		30		Jack high 4 flush
+J9879		30		Jack high 4 flush
+J9878		30		Jack high 4 flush
+J9877		30		Jack high 4 flush
+J9876		30		Jack high 4 flush
+J986A		30		Jack high 4 flush
+J986K		30		Jack high 4 flush
+J986Q		30		Jack high 4 flush
+J986J		30		Jack high 4 flush
+J986T		30		Jack high 4 flush
+J9869		30		Jack high 4 flush
+J9868		30		Jack high 4 flush
+J9867		30		Jack high 4 flush
+J9866		30		Jack high 4 flush
+J976A		30		Jack high 4 flush
+J976K		30		Jack high 4 flush
+J976Q		30		Jack high 4 flush
+J976J		30		Jack high 4 flush
+J976T		30		Jack high 4 flush
+J9769		30		Jack high 4 flush
+J9768		30		Jack high 4 flush
+J9767		30		Jack high 4 flush
+J9766		30		Jack high 4 flush
+J876A		30		Jack high 4 flush
+J876K		30		Jack high 4 flush
+J876Q		30		Jack high 4 flush
+J876J		30		Jack high 4 flush
+J876T		30		Jack high 4 flush
+J8769		30		Jack high 4 flush
+J8768		30		Jack high 4 flush
+J8767		30		Jack high 4 flush
+J8766		30		Jack high 4 flush
+T987A		30		Ten high 4 flush
+T987K		30		Ten high 4 flush
+T987Q		30		Ten high 4 flush
+T987J		30		Ten high 4 flush
+T987T		30		Ten high 4 flush
+T9879		30		Ten high 4 flush
+T9878		30		Ten high 4 flush
+T9877		30		Ten high 4 flush
+T9876		30		Ten high 4 flush
+T986A		30		Ten high 4 flush
+T986K		30		Ten high 4 flush
+T986Q		30		Ten high 4 flush
+T986J		30		Ten high 4 flush
+T986T		30		Ten high 4 flush
+T9869		30		Ten high 4 flush
+T9868		30		Ten high 4 flush
+T9867		30		Ten high 4 flush
+T9866		30		Ten high 4 flush
+T976A		30		Ten high 4 flush
+T976K		30		Ten high 4 flush
+T976Q		30		Ten high 4 flush
+T976J		30		Ten high 4 flush
+T976T		30		Ten high 4 flush
+T9769		30		Ten high 4 flush
+T9768		30		Ten high 4 flush
+T9767		30		Ten high 4 flush
+T9766		30		Ten high 4 flush
+T876A		30		Ten high 4 flush
+T876K		30		Ten high 4 flush
+T876Q		30		Ten high 4 flush
+T876J		30		Ten high 4 flush
+T876T		30		Ten high 4 flush
+T8769		30		Ten high 4 flush
+T8768		30		Ten high 4 flush
+T8767		30		Ten high 4 flush
+T8766		30		Ten high 4 flush
+9876A		30		Nine high 4 flush
+9876K		30		Nine high 4 flush
+9876Q		30		Nine high 4 flush
+9876J		30		Nine high 4 flush
+9876T		30		Nine high 4 flush
+98769		30		Nine high 4 flush
+98768		30		Nine high 4 flush
+98767		30		Nine high 4 flush
+98766		30		Nine high 4 flush
+AKQJT		7740	Ace high straight
+KQJT9		7740	King high straight
+QJT98		7740	Queen high straight
+JT987		7740	Jack high straight
+T9876		7740	Ten high straight
+9876A		7740	Nine high straight
+AAAKQ		720		Three Aces
+AAAKJ		720		Three Aces
+AAAKT		720		Three Aces
+AAAK9		720		Three Aces
+AAAK8		720		Three Aces
+AAAK7		720		Three Aces
+AAAK6		720		Three Aces
+AAAQJ		720		Three Aces
+AAAQT		720		Three Aces
+AAAQ9		720		Three Aces
+AAAQ8		720		Three Aces
+AAAQ7		720		Three Aces
+AAAQ6		720		Three Aces
+AAAJT		720		Three Aces
+AAAJ9		720		Three Aces
+AAAJ8		720		Three Aces
+AAAJ7		720		Three Aces
+AAAJ6		720		Three Aces
+AAAT9		720		Three Aces
+AAAT8		720		Three Aces
+AAAT7		720		Three Aces
+AAAT6		720		Three Aces
+AAA98		720		Three Aces
+AAA97		720		Three Aces
+AAA96		720		Three Aces
+AAA87		720		Three Aces
+AAA86		720		Three Aces
+AAA76		720		Three Aces
+KKKAQ		720		Three Kings
+KKKAJ		720		Three Kings
+KKKAT		720		Three Kings
+KKKA9		720		Three Kings
+KKKA8		720		Three Kings
+KKKA7		720		Three Kings
+KKKA6		720		Three Kings
+KKKQJ		720		Three Kings
+KKKQT		720		Three Kings
+KKKQ9		720		Three Kings
+KKKQ8		720		Three Kings
+KKKQ7		720		Three Kings
+KKKQ6		720		Three Kings
+KKKJT		720		Three Kings
+KKKJ9		720		Three Kings
+KKKJ8		720		Three Kings
+KKKJ7		720		Three Kings
+KKKJ6		720		Three Kings
+KKKT9		720		Three Kings
+KKKT8		720		Three Kings
+KKKT7		720		Three Kings
+KKKT6		720		Three Kings
+KKK98		720		Three Kings
+KKK97		720		Three Kings
+KKK96		720		Three Kings
+KKK87		720		Three Kings
+KKK86		720		Three Kings
+KKK76		720		Three Kings
+QQQAK		720		Three Queens
+QQQAJ		720		Three Queens
+QQQAT		720		Three Queens
+QQQA9		720		Three Queens
+QQQA8		720		Three Queens
+QQQA7		720		Three Queens
+QQQA6		720		Three Queens
+QQQKJ		720		Three Queens
+QQQKT		720		Three Queens
+QQQK9		720		Three Queens
+QQQK8		720		Three Queens
+QQQK7		720		Three Queens
+QQQK6		720		Three Queens
+QQQJT		720		Three Queens
+QQQJ9		720		Three Queens
+QQQJ8		720		Three Queens
+QQQJ7		720		Three Queens
+QQQJ6		720		Three Queens
+QQQT9		720		Three Queens
+QQQT8		720		Three Queens
+QQQT7		720		Three Queens
+QQQT6		720		Three Queens
+QQQ98		720		Three Queens
+QQQ97		720		Three Queens
+QQQ96		720		Three Queens
+QQQ87		720		Three Queens
+QQQ86		720		Three Queens
+QQQ76		720		Three Queens
+JJJAK		720		Three Jacks
+JJJAQ		720		Three Jacks
+JJJAT		720		Three Jacks
+JJJA9		720		Three Jacks
+JJJA8		720		Three Jacks
+JJJA7		720		Three Jacks
+JJJA6		720		Three Jacks
+JJJKQ		720		Three Jacks
+JJJKT		720		Three Jacks
+JJJK9		720		Three Jacks
+JJJK8		720		Three Jacks
+JJJK7		720		Three Jacks
+JJJK6		720		Three Jacks
+JJJQT		720		Three Jacks
+JJJQ9		720		Three Jacks
+JJJQ8		720		Three Jacks
+JJJQ7		720		Three Jacks
+JJJQ6		720		Three Jacks
+JJJT9		720		Three Jacks
+JJJT8		720		Three Jacks
+JJJT7		720		Three Jacks
+JJJT6		720		Three Jacks
+JJJ98		720		Three Jacks
+JJJ97		720		Three Jacks
+JJJ96		720		Three Jacks
+JJJ87		720		Three Jacks
+JJJ86		720		Three Jacks
+JJJ76		720		Three Jacks
+TTTAK		720		Three Tens
+TTTAQ		720		Three Tens
+TTTAJ		720		Three Tens
+TTTA9		720		Three Tens
+TTTA8		720		Three Tens
+TTTA7		720		Three Tens
+TTTA6		720		Three Tens
+TTTKQ		720		Three Tens
+TTTKJ		720		Three Tens
+TTTK9		720		Three Tens
+TTTK8		720		Three Tens
+TTTK7		720		Three Tens
+TTTK6		720		Three Tens
+TTTQJ		720		Three Tens
+TTTQ9		720		Three Tens
+TTTQ8		720		Three Tens
+TTTQ7		720		Three Tens
+TTTQ6		720		Three Tens
+TTTJ9		720		Three Tens
+TTTJ8		720		Three Tens
+TTTJ7		720		Three Tens
+TTTJ6		720		Three Tens
+TTT98		720		Three Tens
+TTT97		720		Three Tens
+TTT96		720		Three Tens
+TTT87		720		Three Tens
+TTT86		720		Three Tens
+TTT76		720		Three Tens
+999AK		720		Three Nines
+999AQ		720		Three Nines
+999AJ		720		Three Nines
+999AT		720		Three Nines
+999A8		720		Three Nines
+999A7		720		Three Nines
+999A6		720		Three Nines
+999KQ		720		Three Nines
+999KJ		720		Three Nines
+999KT		720		Three Nines
+999K8		720		Three Nines
+999K7		720		Three Nines
+999K6		720		Three Nines
+999QJ		720		Three Nines
+999QT		720		Three Nines
+999Q8		720		Three Nines
+999Q7		720		Three Nines
+999Q6		720		Three Nines
+999JT		720		Three Nines
+999J8		720		Three Nines
+999J7		720		Three Nines
+999J6		720		Three Nines
+999T8		720		Three Nines
+999T7		720		Three Nines
+999T6		720		Three Nines
+99987		720		Three Nines
+99986		720		Three Nines
+99976		720		Three Nines
+888AK		720		Three Eights
+888AQ		720		Three Eights
+888AJ		720		Three Eights
+888AT		720		Three Eights
+888A9		720		Three Eights
+888A7		720		Three Eights
+888A6		720		Three Eights
+888KQ		720		Three Eights
+888KJ		720		Three Eights
+888KT		720		Three Eights
+888K9		720		Three Eights
+888K7		720		Three Eights
+888K6		720		Three Eights
+888QJ		720		Three Eights
+888QT		720		Three Eights
+888Q9		720		Three Eights
+888Q7		720		Three Eights
+888Q6		720		Three Eights
+888JT		720		Three Eights
+888J9		720		Three Eights
+888J7		720		Three Eights
+888J6		720		Three Eights
+888T9		720		Three Eights
+888T7		720		Three Eights
+888T6		720		Three Eights
+88897		720		Three Eights
+88896		720		Three Eights
+88876		720		Three Eights
+777AK		720		Three Sevens
+777AQ		720		Three Sevens
+777AJ		720		Three Sevens
+777AT		720		Three Sevens
+777A9		720		Three Sevens
+777A8		720		Three Sevens
+777A6		720		Three Sevens
+777KQ		720		Three Sevens
+777KJ		720		Three Sevens
+777KT		720		Three Sevens
+777K9		720		Three Sevens
+777K8		720		Three Sevens
+777K6		720		Three Sevens
+777QJ		720		Three Sevens
+777QT		720		Three Sevens
+777Q9		720		Three Sevens
+777Q8		720		Three Sevens
+777Q6		720		Three Sevens
+777JT		720		Three Sevens
+777J9		720		Three Sevens
+777J8		720		Three Sevens
+777J6		720		Three Sevens
+777T9		720		Three Sevens
+777T8		720		Three Sevens
+777T6		720		Three Sevens
+77798		720		Three Sevens
+77796		720		Three Sevens
+77786		720		Three Sevens
+666AK		720		Three Sixes
+666AQ		720		Three Sixes
+666AJ		720		Three Sixes
+666AT		720		Three Sixes
+666A9		720		Three Sixes
+666A8		720		Three Sixes
+666A7		720		Three Sixes
+666KQ		720		Three Sixes
+666KJ		720		Three Sixes
+666KT		720		Three Sixes
+666K9		720		Three Sixes
+666K8		720		Three Sixes
+666K7		720		Three Sixes
+666QJ		720		Three Sixes
+666QT		720		Three Sixes
+666Q9		720		Three Sixes
+666Q8		720		Three Sixes
+666Q7		720		Three Sixes
+666JT		720		Three Sixes
+666J9		720		Three Sixes
+666J8		720		Three Sixes
+666J7		720		Three Sixes
+666T9		720		Three Sixes
+666T8		720		Three Sixes
+666T7		720		Three Sixes
+66698		720		Three Sixes
+66697		720		Three Sixes
+66687		720		Three Sixes
+AAKKQ		1350		Aces and Kings
+AAKKJ		1350		Aces and Kings
+AAKKT		1350		Aces and Kings
+AAKK9		1350		Aces and Kings
+AAKK8		1350		Aces and Kings
+AAKK7		1350		Aces and Kings
+AAKK6		1350		Aces and Kings
+AAQQK		1350		Aces and Queens
+AAQQJ		1350		Aces and Queens
+AAQQT		1350		Aces and Queens
+AAQQ9		1350		Aces and Queens
+AAQQ8		1350		Aces and Queens
+AAQQ7		1350		Aces and Queens
+AAQQ6		1350		Aces and Queens
+AAJJK		1350		Aces and Jacks
+AAJJQ		1350		Aces and Jacks
+AAJJT		1350		Aces and Jacks
+AAJJ9		1350		Aces and Jacks
+AAJJ8		1350		Aces and Jacks
+AAJJ7		1350		Aces and Jacks
+AAJJ6		1350		Aces and Jacks
+AATTK		1350		Aces and Tens
+AATTQ		1350		Aces and Tens
+AATTJ		1350		Aces and Tens
+AATT9		1350		Aces and Tens
+AATT8		1350		Aces and Tens
+AATT7		1350		Aces and Tens
+AATT6		1350		Aces and Tens
+AA99K		1350		Aces and Nines
+AA99Q		1350		Aces and Nines
+AA99J		1350		Aces and Nines
+AA99T		1350		Aces and Nines
+AA998		1350		Aces and Nines
+AA997		1350		Aces and Nines
+AA996		1350		Aces and Nines
+AA88K		1350		Aces and Eights
+AA88Q		1350		Aces and Eights
+AA88J		1350		Aces and Eights
+AA88T		1350		Aces and Eights
+AA889		1350		Aces and Eights
+AA887		1350		Aces and Eights
+AA886		1350		Aces and Eights
+AA77K		1350		Aces and Sevens
+AA77Q		1350		Aces and Sevens
+AA77J		1350		Aces and Sevens
+AA77T		1350		Aces and Sevens
+AA779		1350		Aces and Sevens
+AA778		1350		Aces and Sevens
+AA776		1350		Aces and Sevens
+AA66K		1350		Aces and Sixes
+AA66Q		1350		Aces and Sixes
+AA66J		1350		Aces and Sixes
+AA66T		1350		Aces and Sixes
+AA669		1350		Aces and Sixes
+AA668		1350		Aces and Sixes
+AA667		1350		Aces and Sixes
+KKQQA		1350		Kings and Queens
+KKQQJ		1350		Kings and Queens
+KKQQT		1350		Kings and Queens
+KKQQ9		1350		Kings and Queens
+KKQQ8		1350		Kings and Queens
+KKQQ7		1350		Kings and Queens
+KKQQ6		1350		Kings and Queens
+KKJJA		1350		Kings and Jacks
+KKJJQ		1350		Kings and Jacks
+KKJJT		1350		Kings and Jacks
+KKJJ9		1350		Kings and Jacks
+KKJJ8		1350		Kings and Jacks
+KKJJ7		1350		Kings and Jacks
+KKJJ6		1350		Kings and Jacks
+KKTTA		1350		Kings and Tens
+KKTTQ		1350		Kings and Tens
+KKTTJ		1350		Kings and Tens
+KKTT9		1350		Kings and Tens
+KKTT8		1350		Kings and Tens
+KKTT7		1350		Kings and Tens
+KKTT6		1350		Kings and Tens
+KK99A		1350		Kings and Nines
+KK99Q		1350		Kings and Nines
+KK99J		1350		Kings and Nines
+KK99T		1350		Kings and Nines
+KK998		1350		Kings and Nines
+KK997		1350		Kings and Nines
+KK996		1350		Kings and Nines
+KK88A		1350		Kings and Eights
+KK88Q		1350		Kings and Eights
+KK88J		1350		Kings and Eights
+KK88T		1350		Kings and Eights
+KK889		1350		Kings and Eights
+KK887		1350		Kings and Eights
+KK886		1350		Kings and Eights
+KK77A		1350		Kings and Sevens
+KK77Q		1350		Kings and Sevens
+KK77J		1350		Kings and Sevens
+KK77T		1350		Kings and Sevens
+KK779		1350		Kings and Sevens
+KK778		1350		Kings and Sevens
+KK776		1350		Kings and Sevens
+KK66A		1350		Kings and Sixes
+KK66Q		1350		Kings and Sixes
+KK66J		1350		Kings and Sixes
+KK66T		1350		Kings and Sixes
+KK669		1350		Kings and Sixes
+KK668		1350		Kings and Sixes
+KK667		1350		Kings and Sixes
+QQJJA		1350		Queens and Jacks
+QQJJK		1350		Queens and Jacks
+QQJJT		1350		Queens and Jacks
+QQJJ9		1350		Queens and Jacks
+QQJJ8		1350		Queens and Jacks
+QQJJ7		1350		Queens and Jacks
+QQJJ6		1350		Queens and Jacks
+QQTTA		1350		Queens and Tens
+QQTTK		1350		Queens and Tens
+QQTTJ		1350		Queens and Tens
+QQTT9		1350		Queens and Tens
+QQTT8		1350		Queens and Tens
+QQTT7		1350		Queens and Tens
+QQTT6		1350		Queens and Tens
+QQ99A		1350		Queens and Nines
+QQ99K		1350		Queens and Nines
+QQ99J		1350		Queens and Nines
+QQ99T		1350		Queens and Nines
+QQ998		1350		Queens and Nines
+QQ997		1350		Queens and Nines
+QQ996		1350		Queens and Nines
+QQ88A		1350		Queens and Eights
+QQ88K		1350		Queens and Eights
+QQ88J		1350		Queens and Eights
+QQ88T		1350		Queens and Eights
+QQ889		1350		Queens and Eights
+QQ887		1350		Queens and Eights
+QQ886		1350		Queens and Eights
+QQ77A		1350		Queens and Sevens
+QQ77K		1350		Queens and Sevens
+QQ77J		1350		Queens and Sevens
+QQ77T		1350		Queens and Sevens
+QQ779		1350		Queens and Sevens
+QQ778		1350		Queens and Sevens
+QQ776		1350		Queens and Sevens
+QQ66A		1350		Queens and Sixes
+QQ66K		1350		Queens and Sixes
+QQ66J		1350		Queens and Sixes
+QQ66T		1350		Queens and Sixes
+QQ669		1350		Queens and Sixes
+QQ668		1350		Queens and Sixes
+QQ667		1350		Queens and Sixes
+JJTTA		1350		Jacks and Tens
+JJTTK		1350		Jacks and Tens
+JJTTQ		1350		Jacks and Tens
+JJTT9		1350		Jacks and Tens
+JJTT8		1350		Jacks and Tens
+JJTT7		1350		Jacks and Tens
+JJTT6		1350		Jacks and Tens
+JJ99A		1350		Jacks and Nines
+JJ99K		1350		Jacks and Nines
+JJ99Q		1350		Jacks and Nines
+JJ99T		1350		Jacks and Nines
+JJ998		1350		Jacks and Nines
+JJ997		1350		Jacks and Nines
+JJ996		1350		Jacks and Nines
+JJ88A		1350		Jacks and Eights
+JJ88K		1350		Jacks and Eights
+JJ88Q		1350		Jacks and Eights
+JJ88T		1350		Jacks and Eights
+JJ889		1350		Jacks and Eights
+JJ887		1350		Jacks and Eights
+JJ886		1350		Jacks and Eights
+JJ77A		1350		Jacks and Sevens
+JJ77K		1350		Jacks and Sevens
+JJ77Q		1350		Jacks and Sevens
+JJ77T		1350		Jacks and Sevens
+JJ779		1350		Jacks and Sevens
+JJ778		1350		Jacks and Sevens
+JJ776		1350		Jacks and Sevens
+JJ66A		1350		Jacks and Sixes
+JJ66K		1350		Jacks and Sixes
+JJ66Q		1350		Jacks and Sixes
+JJ66T		1350		Jacks and Sixes
+JJ669		1350		Jacks and Sixes
+JJ668		1350		Jacks and Sixes
+JJ667		1350		Jacks and Sixes
+TT99A		1350		Tens and Nines
+TT99K		1350		Tens and Nines
+TT99Q		1350		Tens and Nines
+TT99J		1350		Tens and Nines
+TT998		1350		Tens and Nines
+TT997		1350		Tens and Nines
+TT996		1350		Tens and Nines
+TT88A		1350		Tens and Eights
+TT88K		1350		Tens and Eights
+TT88Q		1350		Tens and Eights
+TT88J		1350		Tens and Eights
+TT889		1350		Tens and Eights
+TT887		1350		Tens and Eights
+TT886		1350		Tens and Eights
+TT77A		1350		Tens and Sevens
+TT77K		1350		Tens and Sevens
+TT77Q		1350		Tens and Sevens
+TT77J		1350		Tens and Sevens
+TT779		1350		Tens and Sevens
+TT778		1350		Tens and Sevens
+TT776		1350		Tens and Sevens
+TT66A		1350		Tens and Sixes
+TT66K		1350		Tens and Sixes
+TT66Q		1350		Tens and Sixes
+TT66J		1350		Tens and Sixes
+TT669		1350		Tens and Sixes
+TT668		1350		Tens and Sixes
+TT667		1350		Tens and Sixes
+9988A		1350		Nines and Eights
+9988K		1350		Nines and Eights
+9988Q		1350		Nines and Eights
+9988J		1350		Nines and Eights
+9988T		1350		Nines and Eights
+99887		1350		Nines and Eights
+99886		1350		Nines and Eights
+9977A		1350		Nines and Sevens
+9977K		1350		Nines and Sevens
+9977Q		1350		Nines and Sevens
+9977J		1350		Nines and Sevens
+9977T		1350		Nines and Sevens
+99778		1350		Nines and Sevens
+99776		1350		Nines and Sevens
+9966A		1350		Nines and Sixes
+9966K		1350		Nines and Sixes
+9966Q		1350		Nines and Sixes
+9966J		1350		Nines and Sixes
+9966T		1350		Nines and Sixes
+99668		1350		Nines and Sixes
+99667		1350		Nines and Sixes
+8877A		1350		Eights and Sevens
+8877K		1350		Eights and Sevens
+8877Q		1350		Eights and Sevens
+8877J		1350		Eights and Sevens
+8877T		1350		Eights and Sevens
+88779		1350		Eights and Sevens
+88776		1350		Eights and Sevens
+8866A		1350		Eights and Sixes
+8866K		1350		Eights and Sixes
+8866Q		1350		Eights and Sixes
+8866J		1350		Eights and Sixes
+8866T		1350		Eights and Sixes
+88669		1350		Eights and Sixes
+88667		1350		Eights and Sixes
+7766A		1350		Sevens and Sixes
+7766K		1350		Sevens and Sixes
+7766Q		1350		Sevens and Sixes
+7766J		1350		Sevens and Sixes
+7766T		1350		Sevens and Sixes
+77669		1350		Sevens and Sixes
+77668		1350		Sevens and Sixes
+AAKQJ		3210		Pair of Aces
+AAKQT		3210		Pair of Aces
+AAKQ9		3210		Pair of Aces
+AAKQ8		3210		Pair of Aces
+AAKQ7		3210		Pair of Aces
+AAKQ6		3210		Pair of Aces
+AAKJT		3210		Pair of Aces
+AAKJ9		3210		Pair of Aces
+AAKJ8		3210		Pair of Aces
+AAKJ7		3210		Pair of Aces
+AAKJ6		3210		Pair of Aces
+AAKT9		3210		Pair of Aces
+AAKT8		3210		Pair of Aces
+AAKT7		3210		Pair of Aces
+AAKT6		3210		Pair of Aces
+AAK98		3210		Pair of Aces
+AAK97		3210		Pair of Aces
+AAK96		3210		Pair of Aces
+AAK87		3210		Pair of Aces
+AAK86		3210		Pair of Aces
+AAK76		3210		Pair of Aces
+AAQJT		3210		Pair of Aces
+AAQJ9		3210		Pair of Aces
+AAQJ8		3210		Pair of Aces
+AAQJ7		3210		Pair of Aces
+AAQJ6		3210		Pair of Aces
+AAQT9		3210		Pair of Aces
+AAQT8		3210		Pair of Aces
+AAQT7		3210		Pair of Aces
+AAQT6		3210		Pair of Aces
+AAQ98		3210		Pair of Aces
+AAQ97		3210		Pair of Aces
+AAQ96		3210		Pair of Aces
+AAQ87		3210		Pair of Aces
+AAQ86		3210		Pair of Aces
+AAQ76		3210		Pair of Aces
+AAJT9		3210		Pair of Aces
+AAJT8		3210		Pair of Aces
+AAJT7		3210		Pair of Aces
+AAJT6		3210		Pair of Aces
+AAJ98		3210		Pair of Aces
+AAJ97		3210		Pair of Aces
+AAJ96		3210		Pair of Aces
+AAJ87		3210		Pair of Aces
+AAJ86		3210		Pair of Aces
+AAJ76		3210		Pair of Aces
+AAT98		3210		Pair of Aces
+AAT97		3210		Pair of Aces
+AAT96		3210		Pair of Aces
+AAT87		3210		Pair of Aces
+AAT86		3210		Pair of Aces
+AAT76		3210		Pair of Aces
+AA987		3210		Pair of Aces
+AA986		3210		Pair of Aces
+AA976		3210		Pair of Aces
+AA876		3210		Pair of Aces
+KKAQJ		3210		Pair of Kings
+KKAQT		3210		Pair of Kings
+KKAQ9		3210		Pair of Kings
+KKAQ8		3210		Pair of Kings
+KKAQ7		3210		Pair of Kings
+KKAQ6		3210		Pair of Kings
+KKAJT		3210		Pair of Kings
+KKAJ9		3210		Pair of Kings
+KKAJ8		3210		Pair of Kings
+KKAJ7		3210		Pair of Kings
+KKAJ6		3210		Pair of Kings
+KKAT9		3210		Pair of Kings
+KKAT8		3210		Pair of Kings
+KKAT7		3210		Pair of Kings
+KKAT6		3210		Pair of Kings
+KKA98		3210		Pair of Kings
+KKA97		3210		Pair of Kings
+KKA96		3210		Pair of Kings
+KKA87		3210		Pair of Kings
+KKA86		3210		Pair of Kings
+KKA76		3210		Pair of Kings
+KKQJT		3210		Pair of Kings
+KKQJ9		3210		Pair of Kings
+KKQJ8		3210		Pair of Kings
+KKQJ7		3210		Pair of Kings
+KKQJ6		3210		Pair of Kings
+KKQT9		3210		Pair of Kings
+KKQT8		3210		Pair of Kings
+KKQT7		3210		Pair of Kings
+KKQT6		3210		Pair of Kings
+KKQ98		3210		Pair of Kings
+KKQ97		3210		Pair of Kings
+KKQ96		3210		Pair of Kings
+KKQ87		3210		Pair of Kings
+KKQ86		3210		Pair of Kings
+KKQ76		3210		Pair of Kings
+KKJT9		3210		Pair of Kings
+KKJT8		3210		Pair of Kings
+KKJT7		3210		Pair of Kings
+KKJT6		3210		Pair of Kings
+KKJ98		3210		Pair of Kings
+KKJ97		3210		Pair of Kings
+KKJ96		3210		Pair of Kings
+KKJ87		3210		Pair of Kings
+KKJ86		3210		Pair of Kings
+KKJ76		3210		Pair of Kings
+KKT98		3210		Pair of Kings
+KKT97		3210		Pair of Kings
+KKT96		3210		Pair of Kings
+KKT87		3210		Pair of Kings
+KKT86		3210		Pair of Kings
+KKT76		3210		Pair of Kings
+KK987		3210		Pair of Kings
+KK986		3210		Pair of Kings
+KK976		3210		Pair of Kings
+KK876		3210		Pair of Kings
+QQAKJ		3210		Pair of Queens
+QQAKT		3210		Pair of Queens
+QQAK9		3210		Pair of Queens
+QQAK8		3210		Pair of Queens
+QQAK7		3210		Pair of Queens
+QQAK6		3210		Pair of Queens
+QQAJT		3210		Pair of Queens
+QQAJ9		3210		Pair of Queens
+QQAJ8		3210		Pair of Queens
+QQAJ7		3210		Pair of Queens
+QQAJ6		3210		Pair of Queens
+QQAT9		3210		Pair of Queens
+QQAT8		3210		Pair of Queens
+QQAT7		3210		Pair of Queens
+QQAT6		3210		Pair of Queens
+QQA98		3210		Pair of Queens
+QQA97		3210		Pair of Queens
+QQA96		3210		Pair of Queens
+QQA87		3210		Pair of Queens
+QQA86		3210		Pair of Queens
+QQA76		3210		Pair of Queens
+QQKJT		3210		Pair of Queens
+QQKJ9		3210		Pair of Queens
+QQKJ8		3210		Pair of Queens
+QQKJ7		3210		Pair of Queens
+QQKJ6		3210		Pair of Queens
+QQKT9		3210		Pair of Queens
+QQKT8		3210		Pair of Queens
+QQKT7		3210		Pair of Queens
+QQKT6		3210		Pair of Queens
+QQK98		3210		Pair of Queens
+QQK97		3210		Pair of Queens
+QQK96		3210		Pair of Queens
+QQK87		3210		Pair of Queens
+QQK86		3210		Pair of Queens
+QQK76		3210		Pair of Queens
+QQJT9		3210		Pair of Queens
+QQJT8		3210		Pair of Queens
+QQJT7		3210		Pair of Queens
+QQJT6		3210		Pair of Queens
+QQJ98		3210		Pair of Queens
+QQJ97		3210		Pair of Queens
+QQJ96		3210		Pair of Queens
+QQJ87		3210		Pair of Queens
+QQJ86		3210		Pair of Queens
+QQJ76		3210		Pair of Queens
+QQT98		3210		Pair of Queens
+QQT97		3210		Pair of Queens
+QQT96		3210		Pair of Queens
+QQT87		3210		Pair of Queens
+QQT86		3210		Pair of Queens
+QQT76		3210		Pair of Queens
+QQ987		3210		Pair of Queens
+QQ986		3210		Pair of Queens
+QQ976		3210		Pair of Queens
+QQ876		3210		Pair of Queens
+JJAKQ		3210		Pair of Jacks
+JJAKT		3210		Pair of Jacks
+JJAK9		3210		Pair of Jacks
+JJAK8		3210		Pair of Jacks
+JJAK7		3210		Pair of Jacks
+JJAK6		3210		Pair of Jacks
+JJAQT		3210		Pair of Jacks
+JJAQ9		3210		Pair of Jacks
+JJAQ8		3210		Pair of Jacks
+JJAQ7		3210		Pair of Jacks
+JJAQ6		3210		Pair of Jacks
+JJAT9		3210		Pair of Jacks
+JJAT8		3210		Pair of Jacks
+JJAT7		3210		Pair of Jacks
+JJAT6		3210		Pair of Jacks
+JJA98		3210		Pair of Jacks
+JJA97		3210		Pair of Jacks
+JJA96		3210		Pair of Jacks
+JJA87		3210		Pair of Jacks
+JJA86		3210		Pair of Jacks
+JJA76		3210		Pair of Jacks
+JJKQT		3210		Pair of Jacks
+JJKQ9		3210		Pair of Jacks
+JJKQ8		3210		Pair of Jacks
+JJKQ7		3210		Pair of Jacks
+JJKQ6		3210		Pair of Jacks
+JJKT9		3210		Pair of Jacks
+JJKT8		3210		Pair of Jacks
+JJKT7		3210		Pair of Jacks
+JJKT6		3210		Pair of Jacks
+JJK98		3210		Pair of Jacks
+JJK97		3210		Pair of Jacks
+JJK96		3210		Pair of Jacks
+JJK87		3210		Pair of Jacks
+JJK86		3210		Pair of Jacks
+JJK76		3210		Pair of Jacks
+JJQT9		3210		Pair of Jacks
+JJQT8		3210		Pair of Jacks
+JJQT7		3210		Pair of Jacks
+JJQT6		3210		Pair of Jacks
+JJQ98		3210		Pair of Jacks
+JJQ97		3210		Pair of Jacks
+JJQ96		3210		Pair of Jacks
+JJQ87		3210		Pair of Jacks
+JJQ86		3210		Pair of Jacks
+JJQ76		3210		Pair of Jacks
+JJT98		3210		Pair of Jacks
+JJT97		3210		Pair of Jacks
+JJT96		3210		Pair of Jacks
+JJT87		3210		Pair of Jacks
+JJT86		3210		Pair of Jacks
+JJT76		3210		Pair of Jacks
+JJ987		3210		Pair of Jacks
+JJ986		3210		Pair of Jacks
+JJ976		3210		Pair of Jacks
+JJ876		3210		Pair of Jacks
+TTAKQ		3210		Pair of Tens
+TTAKJ		3210		Pair of Tens
+TTAK9		3210		Pair of Tens
+TTAK8		3210		Pair of Tens
+TTAK7		3210		Pair of Tens
+TTAK6		3210		Pair of Tens
+TTAQJ		3210		Pair of Tens
+TTAQ9		3210		Pair of Tens
+TTAQ8		3210		Pair of Tens
+TTAQ7		3210		Pair of Tens
+TTAQ6		3210		Pair of Tens
+TTAJ9		3210		Pair of Tens
+TTAJ8		3210		Pair of Tens
+TTAJ7		3210		Pair of Tens
+TTAJ6		3210		Pair of Tens
+TTA98		3210		Pair of Tens
+TTA97		3210		Pair of Tens
+TTA96		3210		Pair of Tens
+TTA87		3210		Pair of Tens
+TTA86		3210		Pair of Tens
+TTA76		3210		Pair of Tens
+TTKQJ		3210		Pair of Tens
+TTKQ9		3210		Pair of Tens
+TTKQ8		3210		Pair of Tens
+TTKQ7		3210		Pair of Tens
+TTKQ6		3210		Pair of Tens
+TTKJ9		3210		Pair of Tens
+TTKJ8		3210		Pair of Tens
+TTKJ7		3210		Pair of Tens
+TTKJ6		3210		Pair of Tens
+TTK98		3210		Pair of Tens
+TTK97		3210		Pair of Tens
+TTK96		3210		Pair of Tens
+TTK87		3210		Pair of Tens
+TTK86		3210		Pair of Tens
+TTK76		3210		Pair of Tens
+TTQJ9		3210		Pair of Tens
+TTQJ8		3210		Pair of Tens
+TTQJ7		3210		Pair of Tens
+TTQJ6		3210		Pair of Tens
+TTQ98		3210		Pair of Tens
+TTQ97		3210		Pair of Tens
+TTQ96		3210		Pair of Tens
+TTQ87		3210		Pair of Tens
+TTQ86		3210		Pair of Tens
+TTQ76		3210		Pair of Tens
+TTJ98		3210		Pair of Tens
+TTJ97		3210		Pair of Tens
+TTJ96		3210		Pair of Tens
+TTJ87		3210		Pair of Tens
+TTJ86		3210		Pair of Tens
+TTJ76		3210		Pair of Tens
+TT987		3210		Pair of Tens
+TT986		3210		Pair of Tens
+TT976		3210		Pair of Tens
+TT876		3210		Pair of Tens
+99AKQ		3210		Pair of Nines
+99AKJ		3210		Pair of Nines
+99AKT		3210		Pair of Nines
+99AK8		3210		Pair of Nines
+99AK7		3210		Pair of Nines
+99AK6		3210		Pair of Nines
+99AQJ		3210		Pair of Nines
+99AQT		3210		Pair of Nines
+99AQ8		3210		Pair of Nines
+99AQ7		3210		Pair of Nines
+99AQ6		3210		Pair of Nines
+99AJT		3210		Pair of Nines
+99AJ8		3210		Pair of Nines
+99AJ7		3210		Pair of Nines
+99AJ6		3210		Pair of Nines
+99AT8		3210		Pair of Nines
+99AT7		3210		Pair of Nines
+99AT6		3210		Pair of Nines
+99A87		3210		Pair of Nines
+99A86		3210		Pair of Nines
+99A76		3210		Pair of Nines
+99KQJ		3210		Pair of Nines
+99KQT		3210		Pair of Nines
+99KQ8		3210		Pair of Nines
+99KQ7		3210		Pair of Nines
+99KQ6		3210		Pair of Nines
+99KJT		3210		Pair of Nines
+99KJ8		3210		Pair of Nines
+99KJ7		3210		Pair of Nines
+99KJ6		3210		Pair of Nines
+99KT8		3210		Pair of Nines
+99KT7		3210		Pair of Nines
+99KT6		3210		Pair of Nines
+99K87		3210		Pair of Nines
+99K86		3210		Pair of Nines
+99K76		3210		Pair of Nines
+99QJT		3210		Pair of Nines
+99QJ8		3210		Pair of Nines
+99QJ7		3210		Pair of Nines
+99QJ6		3210		Pair of Nines
+99QT8		3210		Pair of Nines
+99QT7		3210		Pair of Nines
+99QT6		3210		Pair of Nines
+99Q87		3210		Pair of Nines
+99Q86		3210		Pair of Nines
+99Q76		3210		Pair of Nines
+99JT8		3210		Pair of Nines
+99JT7		3210		Pair of Nines
+99JT6		3210		Pair of Nines
+99J87		3210		Pair of Nines
+99J86		3210		Pair of Nines
+99J76		3210		Pair of Nines
+99T87		3210		Pair of Nines
+99T86		3210		Pair of Nines
+99T76		3210		Pair of Nines
+99876		3210		Pair of Nines
+88AKQ		3210		Pair of Eights
+88AKJ		3210		Pair of Eights
+88AKT		3210		Pair of Eights
+88AK9		3210		Pair of Eights
+88AK7		3210		Pair of Eights
+88AK6		3210		Pair of Eights
+88AQJ		3210		Pair of Eights
+88AQT		3210		Pair of Eights
+88AQ9		3210		Pair of Eights
+88AQ7		3210		Pair of Eights
+88AQ6		3210		Pair of Eights
+88AJT		3210		Pair of Eights
+88AJ9		3210		Pair of Eights
+88AJ7		3210		Pair of Eights
+88AJ6		3210		Pair of Eights
+88AT9		3210		Pair of Eights
+88AT7		3210		Pair of Eights
+88AT6		3210		Pair of Eights
+88A97		3210		Pair of Eights
+88A96		3210		Pair of Eights
+88A76		3210		Pair of Eights
+88KQJ		3210		Pair of Eights
+88KQT		3210		Pair of Eights
+88KQ9		3210		Pair of Eights
+88KQ7		3210		Pair of Eights
+88KQ6		3210		Pair of Eights
+88KJT		3210		Pair of Eights
+88KJ9		3210		Pair of Eights
+88KJ7		3210		Pair of Eights
+88KJ6		3210		Pair of Eights
+88KT9		3210		Pair of Eights
+88KT7		3210		Pair of Eights
+88KT6		3210		Pair of Eights
+88K97		3210		Pair of Eights
+88K96		3210		Pair of Eights
+88K76		3210		Pair of Eights
+88QJT		3210		Pair of Eights
+88QJ9		3210		Pair of Eights
+88QJ7		3210		Pair of Eights
+88QJ6		3210		Pair of Eights
+88QT9		3210		Pair of Eights
+88QT7		3210		Pair of Eights
+88QT6		3210		Pair of Eights
+88Q97		3210		Pair of Eights
+88Q96		3210		Pair of Eights
+88Q76		3210		Pair of Eights
+88JT9		3210		Pair of Eights
+88JT7		3210		Pair of Eights
+88JT6		3210		Pair of Eights
+88J97		3210		Pair of Eights
+88J96		3210		Pair of Eights
+88J76		3210		Pair of Eights
+88T97		3210		Pair of Eights
+88T96		3210		Pair of Eights
+88T76		3210		Pair of Eights
+88976		3210		Pair of Eights
+77AKQ		3210		Pair of Sevens
+77AKJ		3210		Pair of Sevens
+77AKT		3210		Pair of Sevens
+77AK9		3210		Pair of Sevens
+77AK8		3210		Pair of Sevens
+77AK6		3210		Pair of Sevens
+77AQJ		3210		Pair of Sevens
+77AQT		3210		Pair of Sevens
+77AQ9		3210		Pair of Sevens
+77AQ8		3210		Pair of Sevens
+77AQ6		3210		Pair of Sevens
+77AJT		3210		Pair of Sevens
+77AJ9		3210		Pair of Sevens
+77AJ8		3210		Pair of Sevens
+77AJ6		3210		Pair of Sevens
+77AT9		3210		Pair of Sevens
+77AT8		3210		Pair of Sevens
+77AT6		3210		Pair of Sevens
+77A98		3210		Pair of Sevens
+77A96		3210		Pair of Sevens
+77A86		3210		Pair of Sevens
+77KQJ		3210		Pair of Sevens
+77KQT		3210		Pair of Sevens
+77KQ9		3210		Pair of Sevens
+77KQ8		3210		Pair of Sevens
+77KQ6		3210		Pair of Sevens
+77KJT		3210		Pair of Sevens
+77KJ9		3210		Pair of Sevens
+77KJ8		3210		Pair of Sevens
+77KJ6		3210		Pair of Sevens
+77KT9		3210		Pair of Sevens
+77KT8		3210		Pair of Sevens
+77KT6		3210		Pair of Sevens
+77K98		3210		Pair of Sevens
+77K96		3210		Pair of Sevens
+77K86		3210		Pair of Sevens
+77QJT		3210		Pair of Sevens
+77QJ9		3210		Pair of Sevens
+77QJ8		3210		Pair of Sevens
+77QJ6		3210		Pair of Sevens
+77QT9		3210		Pair of Sevens
+77QT8		3210		Pair of Sevens
+77QT6		3210		Pair of Sevens
+77Q98		3210		Pair of Sevens
+77Q96		3210		Pair of Sevens
+77Q86		3210		Pair of Sevens
+77JT9		3210		Pair of Sevens
+77JT8		3210		Pair of Sevens
+77JT6		3210		Pair of Sevens
+77J98		3210		Pair of Sevens
+77J96		3210		Pair of Sevens
+77J86		3210		Pair of Sevens
+77T98		3210		Pair of Sevens
+77T96		3210		Pair of Sevens
+77T86		3210		Pair of Sevens
+77986		3210		Pair of Sevens
+66AKQ		3210		Pair of Sixes
+66AKJ		3210		Pair of Sixes
+66AKT		3210		Pair of Sixes
+66AK9		3210		Pair of Sixes
+66AK8		3210		Pair of Sixes
+66AK7		3210		Pair of Sixes
+66AQJ		3210		Pair of Sixes
+66AQT		3210		Pair of Sixes
+66AQ9		3210		Pair of Sixes
+66AQ8		3210		Pair of Sixes
+66AQ7		3210		Pair of Sixes
+66AJT		3210		Pair of Sixes
+66AJ9		3210		Pair of Sixes
+66AJ8		3210		Pair of Sixes
+66AJ7		3210		Pair of Sixes
+66AT9		3210		Pair of Sixes
+66AT8		3210		Pair of Sixes
+66AT7		3210		Pair of Sixes
+66A98		3210		Pair of Sixes
+66A97		3210		Pair of Sixes
+66A87		3210		Pair of Sixes
+66KQJ		3210		Pair of Sixes
+66KQT		3210		Pair of Sixes
+66KQ9		3210		Pair of Sixes
+66KQ8		3210		Pair of Sixes
+66KQ7		3210		Pair of Sixes
+66KJT		3210		Pair of Sixes
+66KJ9		3210		Pair of Sixes
+66KJ8		3210		Pair of Sixes
+66KJ7		3210		Pair of Sixes
+66KT9		3210		Pair of Sixes
+66KT8		3210		Pair of Sixes
+66KT7		3210		Pair of Sixes
+66K98		3210		Pair of Sixes
+66K97		3210		Pair of Sixes
+66K87		3210		Pair of Sixes
+66QJT		3210		Pair of Sixes
+66QJ9		3210		Pair of Sixes
+66QJ8		3210		Pair of Sixes
+66QJ7		3210		Pair of Sixes
+66QT9		3210		Pair of Sixes
+66QT8		3210		Pair of Sixes
+66QT7		3210		Pair of Sixes
+66Q98		3210		Pair of Sixes
+66Q97		3210		Pair of Sixes
+66Q87		3210		Pair of Sixes
+66JT9		3210		Pair of Sixes
+66JT8		3210		Pair of Sixes
+66JT7		3210		Pair of Sixes
+66J98		3210		Pair of Sixes
+66J97		3210		Pair of Sixes
+66J87		3210		Pair of Sixes
+66T98		3210		Pair of Sixes
+66T97		3210		Pair of Sixes
+66T87		3210		Pair of Sixes
+66987		3210		Pair of Sixes
+AKQJ9		7740		Ace-high
+AKQJ8		7740		Ace-high
+AKQJ7		7740		Ace-high
+AKQJ6		7740		Ace-high
+AKQT9		7740		Ace-high
+AKQT8		7740		Ace-high
+AKQT7		7740		Ace-high
+AKQT6		7740		Ace-high
+AKQ98		7740		Ace-high
+AKQ97		7740		Ace-high
+AKQ96		7740		Ace-high
+AKQ87		7740		Ace-high
+AKQ86		7740		Ace-high
+AKQ76		7740		Ace-high
+AKJT9		7740		Ace-high
+AKJT8		7740		Ace-high
+AKJT7		7740		Ace-high
+AKJT6		7740		Ace-high
+AKJ98		7740		Ace-high
+AKJ97		7740		Ace-high
+AKJ96		7740		Ace-high
+AKJ87		7740		Ace-high
+AKJ86		7740		Ace-high
+AKJ76		7740		Ace-high
+AKT98		7740		Ace-high
+AKT97		7740		Ace-high
+AKT96		7740		Ace-high
+AKT87		7740		Ace-high
+AKT86		7740		Ace-high
+AKT76		7740		Ace-high
+AK987		7740		Ace-high
+AK986		7740		Ace-high
+AK976		7740		Ace-high
+AK876		7740		Ace-high
+AQJT9		7740		Ace-high
+AQJT8		7740		Ace-high
+AQJT7		7740		Ace-high
+AQJT6		7740		Ace-high
+AQJ98		7740		Ace-high
+AQJ97		7740		Ace-high
+AQJ96		7740		Ace-high
+AQJ87		7740		Ace-high
+AQJ86		7740		Ace-high
+AQJ76		7740		Ace-high
+AQT98		7740		Ace-high
+AQT97		7740		Ace-high
+AQT96		7740		Ace-high
+AQT87		7740		Ace-high
+AQT86		7740		Ace-high
+AQT76		7740		Ace-high
+AQ987		7740		Ace-high
+AQ986		7740		Ace-high
+AQ976		7740		Ace-high
+AQ876		7740		Ace-high
+AJT98		7740		Ace-high
+AJT97		7740		Ace-high
+AJT96		7740		Ace-high
+AJT87		7740		Ace-high
+AJT86		7740		Ace-high
+AJT76		7740		Ace-high
+AJ987		7740		Ace-high
+AJ986		7740		Ace-high
+AJ976		7740		Ace-high
+AJ876		7740		Ace-high
+AT987		7740		Ace-high
+AT986		7740		Ace-high
+AT976		7740		Ace-high
+AT876		7740		Ace-high
+KQJT8		7740		King-high
+KQJT7		7740		King-high
+KQJT6		7740		King-high
+KQJ98		7740		King-high
+KQJ97		7740		King-high
+KQJ96		7740		King-high
+KQJ87		7740		King-high
+KQJ86		7740		King-high
+KQJ76		7740		King-high
+KQT98		7740		King-high
+KQT97		7740		King-high
+KQT96		7740		King-high
+KQT87		7740		King-high
+KQT86		7740		King-high
+KQT76		7740		King-high
+KQ987		7740		King-high
+KQ986		7740		King-high
+KQ976		7740		King-high
+KQ876		7740		King-high
+KJT98		7740		King-high
+KJT97		7740		King-high
+KJT96		7740		King-high
+KJT87		7740		King-high
+KJT86		7740		King-high
+KJT76		7740		King-high
+KJ987		7740		King-high
+KJ986		7740		King-high
+KJ976		7740		King-high
+KJ876		7740		King-high
+KT987		7740		King-high
+KT986		7740		King-high
+KT976		7740		King-high
+KT876		7740		King-high
+K9876		7740		King-high
+QJT97		7740		Queen-high
+QJT96		7740		Queen-high
+QJT87		7740		Queen-high
+QJT86		7740		Queen-high
+QJT76		7740		Queen-high
+QJ987		7740		Queen-high
+QJ986		7740		Queen-high
+QJ976		7740		Queen-high
+QJ876		7740		Queen-high
+QT987		7740		Queen-high
+QT986		7740		Queen-high
+QT976		7740		Queen-high
+QT876		7740		Queen-high
+Q9876		7740		Queen-high
+JT986		7740		Jack-high
+JT976		7740		Jack-high
+JT876		7740		Jack-high
+J9876		7740		Jack-high
