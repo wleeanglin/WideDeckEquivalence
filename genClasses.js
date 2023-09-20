@@ -118,8 +118,8 @@ function fourFlush(stream) {
 function straight(stream) {
     for(i = 0; i < ranks.length - 3; i++) { 
         const str = ranks[i] + ranks[i + 1] + ranks[i + 2] + ranks[i + 3] + ranks[(i + 4)%ranks.length];
-        stream.write(str + '\t\t' + 7740 + '\t' + rankNames[i] + ' high straight' + '\n');
-        totalHands+=7740;
+        stream.write(str + '\t\t' + 7620 + '\t' + rankNames[i] + ' high straight' + '\n');
+        totalHands+=7620;
     }
 }
 
@@ -175,8 +175,8 @@ function highCard(stream) {
                     for(let m = l + 1; m < ranks.length; m++) {
                         const hc = ranks[i] + ranks[j] + ranks[k] + ranks[l] + ranks[m]; 
                         if(!(straights.includes(hc) || straights.includes(hc.substring(1) + ranks[i]))) {
-                            stream.write(hc + '\t\t' + 7740 + '\t\t' + rankNames[i] + '-high' + '\n');
-                            totalHands+=7740;
+                            stream.write(hc + '\t\t' + 7620 + '\t\t' + rankNames[i] + '-high' + '\n');
+                            totalHands+=7620;
                         }
                     }
                 }
