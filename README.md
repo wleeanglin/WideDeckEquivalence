@@ -14,7 +14,7 @@ We can collapse these hands into 2,547 equivalence classes which are generated i
 | 36  | 0.00114%    | Straight flush |
 | 54 | 0.00171%     | Five of a kind |
 | 720    | 0.0228%    | Five flush |
-| 6,840  | 0.215%    | Four of a kind |
+| 6,480  | 0.215%    | Four of a kind |
 | 21,600    | 0.683%    | Full house |
 | 34,020 | 1.08% | Four flush |
 | 45,720    | 1.45% | Straight |
